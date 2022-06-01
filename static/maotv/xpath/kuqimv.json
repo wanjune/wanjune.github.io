@@ -1,0 +1,116 @@
+{
+  "author": "",
+  "ua": "",
+  "homeUrl": "https://www.kuqimv.com/play/",
+  "cateManual": {
+    "华语": "1",
+    "日韩": "2",
+    "欧美": "3",
+    "现场": "4",
+    "影视": "5",
+    "夜店": "6",
+    "车模": "7",
+    "热舞": "8",
+    "写真": "9",
+    "打碟": "10"
+  },
+  "homeVodNode": "//div[@class='mv_list']/li",
+  "homeVodName": "/div[@class='name']/a/@title",
+  "homeVodId": "/div[@class='name']/a/@href",
+  "homeVodIdR": "/play/(\\d+).html",
+  "homeVodImg": "/div[@class='pic']/a/img/@src",
+  "homeVodMark": "concat(//div[@class='time']/text(),'-',//div[@class='singer']/a/text())",
+  "cateUrl": "https://www.kuqimv.com/play/{cateId}_{by}{catePg}.html",
+  "cateVodNode": "//div[@class='mv_list']/li",
+  "cateVodName": "/div[@class='name']/a/@title",
+  "cateVodId": "/div[@class='name']/a/@href",
+  "cateVodIdR": "/play/(\\d+).html",
+  "cateVodImg": "/div[@class='pic']/a/img/@src",
+  "cateVodMark": "concat(//div[@class='time']/text(),'-',//div[@class='singer']/a/text())",
+  "dtUrl": "https://www.kuqimv.com/play/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[@class='lei_info mt']/div[2]/h1/text()",
+  "dtImg": "//div[@class='lei_info mt']/div[1]/img/@src",
+  "dtCate": "//div[@class='play_info']/li[3]/a/text()",
+  "dtActor": "//div[@class='play_info']/li[4]/a/text()",
+  "dtFromNode": "//div[@class='lei_title']/h1",
+  "dtFromName": "/text()",
+  "dtFromNameR": "(\\S+) mp4\\S+",
+  "dtUrlNode": "//div[@class='down_sm mt']/p[2]",
+  "dtUrlSubNode": "/a",
+  "dtUrlId": "@data-clipboard-text",
+  "dtUrlIdR": "\\S+/(\\d+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.kuqimv.com/play/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://www.kuqimv.com/search.php?key={wd}",
+  "scVodNode": "//div[@class='play_xg']/li",
+  "scVodName": "//div[@class='name']/a/@title",
+  "scVodId": "//div[@class='name']/a/@href",
+  "scVodIdR": "/play/(\\d+).html",
+  "scVodImg": "//div[@class='pic']/a/img/@src",
+  "scVodMark": "",
+  "filter": {
+    "1": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "2": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "3": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "4": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "5": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "6": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "7": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "8": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "9": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ],
+    "10": [
+      {"key":"by","name":"排序","value":[{"n":"最新上传","v":""},
+        {"n":"热播榜","v":"1_"},{"n":"日热播","v":"2_"},{"n":"周热播","v":"3_"},{"n":"月热播","v":"4_"},
+        {"n":"下载","v":"5_"},{"n":"收藏","v":"6_"},{"n":"欢迎","v":"7_"}
+      ]}
+    ]
+  }
+}
