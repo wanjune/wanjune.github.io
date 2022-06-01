@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/maotv/spider_c1.jar?raw=true;md5;71cb51f33037505c07003f335b74a1bc",
+  "spider":"https://wanjune.github.io/static/maotv/spider_c1.docx?raw=true;md5;71cb51f33037505c07003f335b74a1bc",
   "sites":[
     {"key":"csp_xpath_555HD","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/555hd.json"},
     {"key":"csp_xpath_kuqimv","name":"酷奇MV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/kuqimv.json"},
