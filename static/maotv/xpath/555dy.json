@@ -7,7 +7,6 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"电影":"1","剧集":"2","综艺":"3","动漫":"4"},
-  // "homeVodNode": "//ul[contains(@class, 'myui-vodlist')]/li/div[contains(@class, 'myui-vodlist__box')]",
   "homeVodNode": "//ul[contains(@class, 'myui-vodlist')]/li/div[contains(@class, 'myui-vodlist__box') and not(contains(@class, 'myui-panel_bg'))]",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
