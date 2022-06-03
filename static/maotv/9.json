@@ -116,7 +116,7 @@
     {"name":"爱影视1","type":0,"url":"https://jx2.aiyingshis.com/?url="}
   ],
   "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","哔哩","xigua","西瓜","tudou","土豆","wasu","华数","xfyun","讯飞","renrenmi","人人迷","cl4k","CL4K","le","rx","wuduzy","ziqie","leduo","ltnb"],
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvbWFvdHYvVFZfMDEucGxpc3Q/cmF3PXRydWU="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvbWFvdHYvVFZfMDEucGxpc3Q="]}]}],
   "ijk":[
     {"group":"软解码","options":[
         {"category":4,"name":"opensles","value":"0"},
