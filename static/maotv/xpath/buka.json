@@ -8,7 +8,7 @@
   "pCfgJs": "https://www.zhenbuka5.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "cateManual": {"电影":"1","剧集":"2","综艺":"3","动漫":"4"},
-  "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div/a",
+  "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div/a[@title!='豆瓣Top250' and not(contains(@title,'系列'))]", 
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\w+)/",
