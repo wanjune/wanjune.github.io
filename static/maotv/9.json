@@ -3,7 +3,7 @@
   "sites":[
     {"key":"csp_xpath_buka","name":"真不卡[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/buka.json"},
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/lib.json"},
-    {"key":"csp_liteapple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"cateManual\": {\"电影\":\"1\",\"剧集\":\"2\",\"综艺\":\"3\",\"动漫\":\"4\"}}"},
+    {"key":"csp_liteapple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appysv2_dyys1","name":"段友影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod","categories":["少儿频道","电影","连续剧","欧美剧","日韩剧","综艺","动漫"]},
     {"key":"csp_appysv2_rcys","name":"日诚影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.rcz168.com/api.php/v1.vod","categories":["电影","连续剧","综艺","动漫"]},
