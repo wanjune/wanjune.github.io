@@ -43,7 +43,7 @@
   "dtActorR": "",
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtFromNode": "//h3[contains(@class,'title')]",
-  "dtFromName": "normalize-space(/text()[2]",
+  "dtFromName": "normalize-space(/text()[2])",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
