@@ -46,7 +46,7 @@
   "dtMarkR": "",
   "dtDesc": "//span[@class='detail-sketch']/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='stui-vodlist__head']/h3",
+  "dtFromNode": "//div[2][@class='stui-vodlist__head']/h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
