@@ -13,7 +13,6 @@
     {"key":"csp_xpath_ddg","name":"达达龟[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/dadagui.json"},
     {"key":"csp_xpath_jbb","name":"剧白白[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/jubaibai.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/zxzj.json"},
-    {"key":"csp_xpath_tvci","name":"大师兄[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/maotv/xpath/tvci.json"},
     {"key":"csp_xpath_yanetflix","name":"鸭奈飞[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/yanet.json"},
     {"key":"csp_xpath_pianba","name":"片吧[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/pianba.json"},
     {"key":"csp_xpath_4kyu","name":"一只鱼[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/4kyu.json"},
