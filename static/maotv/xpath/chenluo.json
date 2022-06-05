@@ -50,7 +50,7 @@
   "dtUrlIdR": "/play(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://v.xuangz.cn//play/{playUrl}.html",
+  "playUrl": "https://v.xuangz.cn/play/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://v.xuangz.cn/?c=search&wd={wd}",
   "scVodNode": "//div[@class='movie-item-in']",

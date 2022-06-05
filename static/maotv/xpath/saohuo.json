@@ -8,7 +8,7 @@
   "homeVodIdR": "/movie/(\\w+).html",
   "homeVodImg": "/a/img/@data-original",
   "homeVodMark": "/div[@class='v_note']/text()",
-  "cateUrl": "https://shdy3.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year=&&jq=",
+  "cateUrl": "https://shdy3.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&year={year}",
   "cateVodNode": "//ul[@class='v_list']/li/div[@class='v_img']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -116,21 +116,6 @@
         {"n":"真人","v":"49"},
         {"n":"LOLI","v":"50"},
         {"n":"其它","v":"51"}
-      ]},
-      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
-        {"n":"2022","v":"2022"},
-        {"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
-        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
-        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
-      ]},
-      {"name":"排序","key":"by","value":[{"n":"全部","v":""},{"n":"最新","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "5": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"5"},
-        {"n":"韩国","v":"57"},
-        {"n":"香港","v":"58"},
-        {"n":"欧美","v":"59"},
-        {"n":"日本","v":"60"}
       ]},
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
         {"n":"2022","v":"2022"},
