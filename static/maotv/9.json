@@ -25,6 +25,7 @@
     {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/555dy.json"},
     {"key":"csp_xpath_6dtv","name":"6度TV[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/6dtv.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/zxzj.json"},
+    {"key":"csp_xpath_qcys","name":"奇粹影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/ikuwoo.json"},
     {"key":"csp_appysv2_9e03","name":"9亿零三[M2]","type":"3","api":"csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","categories":["电影","国语配音电影","连续剧","国语配音集","日韩剧","欧美剧","综艺","动漫"]},
     {"key":"csp_appysv2_300ys","name":"虫虫电影[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod","categories":["电影","连续剧","综艺","动漫"]},
     {"key":"csp_appysv2_jiusi","name":"94资源[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiusi.vip/mogai_api.php/v1.vod","categories":["电影","电视剧","综艺","动漫"]},
@@ -121,7 +122,8 @@
     {"name":"4KDV","type":1,"url":"https://jx.4kdv.com/?url="},
     {"name":"云解析","type":1,"url":"https://yparse.jn1.cc/index.php?url="},
     {"name":"PlayM3U8","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=qimihe.comhttps://qimihe.com/?url="},
-    {"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
+    {"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
+    {"name":"弹幕","type":1,"url":"https://dmjx.m3u8.tv/?url="}
   ],
   "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","哔哩","xigua","西瓜","tudou","土豆","wasu","华数","xfyun","讯飞","renrenmi","人人迷","cl4k","CL4K","le","rx","wuduzy","ziqie","leduo","ltnb"],
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["\u0070\u0072\u006f\u0078\u0079\u003a\u002f\u002f\u0064\u006f\u003d\u006c\u0069\u0076\u0065\u0026\u0074\u0079\u0070\u0065\u003d\u0074\u0078\u0074\u0026\u0065\u0078\u0074\u003d\u0061\u0048\u0052\u0030\u0063\u0048\u004d\u0036\u004c\u0079\u0039\u0033\u0059\u0057\u0035\u0071\u0064\u0057\u0035\u006c\u004c\u006d\u0064\u0070\u0064\u0047\u0068\u0031\u0059\u0069\u0035\u0070\u0062\u0079\u0039\u007a\u0064\u0047\u0046\u0030\u0061\u0057\u004d\u0076\u0062\u0057\u0046\u0076\u0064\u0048\u0059\u0076\u0056\u0046\u005a\u0066\u004d\u0044\u0045\u0075\u0064\u0048\u0068\u0030"]}]}],
