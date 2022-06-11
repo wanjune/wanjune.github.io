@@ -12,7 +12,7 @@
   "homeVodImg": "//@data-src",
   "homeVodImgR": "",
   "homeVodMark": "//em/text()",
-  "cateUrl": "https://m.doujiaow1.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html/page/.html",
+  "cateUrl": "https://m.doujiaow1.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html",
   "cateVodNode": "//div[@class='con']/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
@@ -123,7 +123,6 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "30": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"3"}]},
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
         {"n":"大陆","v":"大陆"},
         {"n":"韩国","v":"韩国"},
