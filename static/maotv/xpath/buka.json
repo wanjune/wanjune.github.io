@@ -41,7 +41,6 @@
   "dtDirectorR": "",
   "dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
   "dtActorR": "",
-  //"dtDesc": "//span[@class='detail-content']/text()",
   "dtDesc": "substring-after(//span[@class='detail-content']/text() , '剧情简介:')",
   "dtFromNode": "//h3[contains(text(), '播')]",
   "dtFromName": "concat('播放源',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
