@@ -126,7 +126,7 @@
       //"fenlei": "电影$/vodtype/1--time#剧集$/vodshow/2--time#综艺$/vodtype/3--time#动漫$/vodtype/4--time#\u798f\u5229$/vodtype/124--time",
       "houzhui": "---------.html",
       "shifouercijiequ": "1",
-      "jiequqian": "module-page",
+      "jiequqian": "module-items module-poster-items",
       "jiequhou": "<div id=\"page\">",
       "jiequshuzuqian": "<a",
       "jiequshuzuhou": "no-referrer",
