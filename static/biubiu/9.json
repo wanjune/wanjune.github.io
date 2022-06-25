@@ -1069,7 +1069,7 @@
       "bfshifouercijiequ": "0",
       "bfjiequqian": "空",
       "bfjiequhou": "空",
-      "bfjiequshuzuqian": "<ul class=\"stui-content__playlist clearfix\">",
+      "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
       "bfjiequshuzuhou": "</ul>",
       "zhuangtaiqian": "状态：</span>",
       "zhuangtaihou": "</p >",
