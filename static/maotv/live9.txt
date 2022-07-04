@@ -18,8 +18,8 @@ CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8#http://117
 中央16台,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?$移动蓝光1080P#http://iptv.tvfix.org/hls/cctv16hd.m3u8?$全网超清1080P#http://111.20.106.16:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动蓝光1080P
 中央17台,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$移动超清1080P#http://iptv.tvfix.org/hls/cctv17hd.m3u8?$全网超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-17/1.m3u8?$移动超清1080P#http://117.148.179.167:80/PLTV/88888888/224/3221231772/1.m3u8?$咪咕移动1080P
 CCTV5+赛事台,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$移动高清720P
-CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P#https://p.ggiptv.com/v/4k.m3u8?$全网蓝光4K#http://iptv.tvfix.org/hls/cctv4k.m3u8?$全网蓝光4K#http://ye23.win/iptv/4k.cctv.php?$全网蓝光4K#http://live.aikan.MGvideo.com/PLTV/88888888/224/3221233400/index.m3u8?$咪咕移动1080P
-CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P#http://live.aikan.MGvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
+CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P#https://p.ggiptv.com/v/4k.m3u8?$全网蓝光4K#http://iptv.tvfix.org/hls/cctv4k.m3u8?$全网蓝光4K#http://ye23.win/iptv/4k.cctv.php?$全网蓝光4K#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8?$咪咕移动1080P
+CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
 中国天气,http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
@@ -96,10 +96,8 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-
 甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 宁夏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 青海卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
@@ -112,11 +110,10 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-
 安徽卫视,http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
 重庆卫视,http://iptv.tvfix.org/hls/cqhd.m3u8
 重庆卫视,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
-湖北卫视,http://112.74.200.9:88/tv000000/m3u8.php?/MG/630292423
+湖北卫视,http://112.74.200.9:88/tv000000/m3u8.php?/migu/630292423
 甘肃卫视,http://39.135.34.150:8080/000000001000/1000000002000017827/1.m3u8?I
 青海卫视,http://39.135.34.150:8080/000000001000/1000000002000013359/1.m3u8?I
 青海卫视,http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
@@ -124,7 +121,9 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 云南卫视,http://39.135.34.150:8080/000000001000/1000000002000024694/1.m3u8?I
 陕西卫视,http://39.135.34.150:8080/000000001000/1000000002000007495/1.m3u8?I
 
+
 少儿,#genre#
+黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
 金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
@@ -165,15 +164,24 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
+奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+名贞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 兔小贝尔歌,http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
 儿童乐园,http://118.26.120.23:55336/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
 亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+
 
 体育,#genre#
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
