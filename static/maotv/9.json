@@ -28,7 +28,7 @@
     {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/555dy.json"},
     {"key":"csp_xpath_6dtv","name":"6度TV[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/6dtv.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/maotv/xpath/zxzj.json"},
-    {"key":"csp_biubiu_9e03","name":"9亿国语(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/maotv/xpath/9e03xb.json"}
+    {"key":"csp_biubiu_9e03","name":"9亿国语(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/maotv/xpath/9e03xb.json"},
     {"key":"csp_appysv2_300ys","name":"虫虫电影[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod","categories":["电影","连续剧","综艺","动漫"]},
     {"key":"csp_appysv2_jiusi","name":"94资源[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiusi.vip/mogai_api.php/v1.vod","categories":["电影","电视剧","综艺","动漫"]},
     {"key":"csp_appysv2_szys","name":"手指影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod","categories":["电影","连续剧","纪录片","综艺","动漫"]},
