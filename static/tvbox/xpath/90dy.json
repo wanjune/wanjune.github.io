@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"少儿":"5","电影":"1","剧集":"2","综艺":"4","动漫":"3"},
+  "cateManual": {"儿童":"5","动漫":"3","综艺":"3","剧集":"2","国产":"15","日韩":"1","欧美":"18","港台":"16","海外":"20","电影":"1"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
