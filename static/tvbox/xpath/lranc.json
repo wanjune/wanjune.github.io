@@ -4,7 +4,7 @@
   "homeUrl": "https://www.lranc.com",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
-  "cateManual": {"电影":"dydq","剧集":"dsjdq","纪录片":"jlpdq","综艺":"zydq","动漫":"dmdq"},
+  "cateManual": {"动漫":"dmdq","综艺":"zydq","剧集":"dsjdq","+国产":"gcjdq","+韩国":"hgjdq","+日本":"rbjdq","+海外":"hwjdq","电影":"dydq","纪录":"jlpdq"},
   "homeVodNode": "//div[contains(@class, 'padding-0')]//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",

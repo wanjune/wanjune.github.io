@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://www.huohuo99.com/",
-  "cateManual": {"电影":"1","剧集":"2","纪录片":"5","综艺":"4","动漫":"3"},
+  "cateManual": {"动漫":"3","综艺":"4","剧集":"4","国产":"13","日韩":"15","欧美":"16","港台":"14","其他":"29","电影":"1","记录":"5"},
   "homeVodNode": "//ul[contains(@class, 'hl-vod-list clearfix')]/li",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
