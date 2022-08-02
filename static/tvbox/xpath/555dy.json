@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"电影":"1","剧集":"2","综艺":"3","动漫":"4"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","日韩":"44","欧美":"45","港台":"15","电影":"1"},
   "homeVodNode": "//div[@class='module-items  module-poster-items-base ']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
@@ -28,11 +28,11 @@
   "dtNameR": "",
   "dtImg": "//div[@class='module-main']//div[@class='module-item-pic']/img/@data-original",
   "dtImgR": "",
-  "dtCate": "(//div[@class='module-info-tag']/div[contains(@class,'module-info-tag-link')]//a/text())[3]",
+  "dtCate": "//div[@class='module-info-tag']/div[3][contains(@class,'module-info-tag-link')]//a/text()",
   "dtCateR": "",
-  "dtYear": "(//div[@class='module-info-tag']/div[contains(@class,'module-info-tag-link')]//a/text())[1]",
+  "dtYear": "//div[@class='module-info-tag']/div[1][contains(@class,'module-info-tag-link')]//a/text()",
   "dtYearR": "",
-  "dtArea": "(//div[@class='module-info-tag']/div[contains(@class,'module-info-tag-link')]//a/text())[2]",
+  "dtArea": "//div[@class='module-info-tag']/div[2][contains(@class,'module-info-tag-link')]//a/text()",
   "dtAreaR": "",
   "dtMark": "",
   "dtMarkR": "",
@@ -151,7 +151,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "2": [
       {"key":"class","name":"类型","value":[{"n":"全部","v":""},
@@ -223,7 +223,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "3": [
       {"key":"class","name":"类型","value":[{"n":"全部","v":""},
@@ -273,7 +273,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "4": [
       {"key":"class","name":"类型","value":[{"n":"全部","v":""},
@@ -334,10 +334,10 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "124": [
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ]
   }
 }
