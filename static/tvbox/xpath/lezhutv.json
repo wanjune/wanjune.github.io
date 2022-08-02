@@ -10,7 +10,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/type/(\\S+).html",
-  "cateManual": {"儿童":"18","动漫":"4","综艺":"3","剧集":"2","+国产":"12","+韩剧":"14","+日剧":"24","+美剧":"15","电影":"1"},
+  "cateManual": {"儿童":"18","动漫":"4","综艺":"3","剧集":"2","+国产":"12","+韩国":"14","+日本":"24","+欧美":"15","电影":"1"},
   "homeVodNode": "//ul[contains(@class, 'tbox_m')]/li[contains(@class,'vbox')]/a[contains(@class,'vbox_t')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",

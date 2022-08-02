@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"3","综艺":"4","剧集":"2","国产":"13","日韩":"16","欧美":"15","港台":"14","海外":"17","电影":"1"},
+  "cateManual": {"动漫":"3","综艺":"4","剧集":"2","+国产":"13","+日韩":"16","+欧美":"15","+港台":"14","+海外":"17","电影":"1"},
   "homeVodNode": "//div[contains(@class, 'stui-pannel__bd')]//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",

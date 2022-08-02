@@ -2,7 +2,7 @@
   "ua": "",
   "homeUrl": "https://www.libvio.me",
   "dcPlayUrl": "true",
-  "cateManual":{"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+欧美":"16","+日韩":"15","电影":"1"},
+  "cateManual":{"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
   "homeVodName": "/@title",
   "homeVodNameR": "",

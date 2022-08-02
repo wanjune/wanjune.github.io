@@ -7,7 +7,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/type/(\\w+).html",
-  "cateManual": {"动漫":"dongman","综艺":"zongyi","剧集":"dianshiju","国产":"guochanju","日韩":"rihanju","欧美":"oumeiju","港台":"gangtaiju","其他":"qitaju","电影":"dianying","纪录":"jilupian"},
+  "cateManual": {"动漫":"dongman","综艺":"zongyi","剧集":"dianshiju","+国产":"guochanju","+日韩":"rihanju","+欧美":"oumeiju","+港台":"gangtaiju","+其他":"qitaju","电影":"dianying","纪录":"jilupian"},
   "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
