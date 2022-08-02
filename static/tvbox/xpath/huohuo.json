@@ -33,7 +33,7 @@
   "dtActorR": "",
   "dtDirector": "//li/em[contains(text(), '导演')]/following-sibling::a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(@class, 'hl-content-text')]/em/text()",
+  "dtDesc": "//li/em[contains(text(), '简介')]/following::text()[1]",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'hl-plays-from hl-tabs swiper-wrapper clearfix')]/a[contains(@class, 'hl-tabs-btn hl-slide-swiper')]",
   "dtFromName": "//a[@href='javascript:void(0);' and contains(@class, 'hl-tabs-btn hl-slide-swiper')]/@alt",
