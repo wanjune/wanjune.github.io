@@ -2,6 +2,7 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0701.dylib?raw=true;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lib.json"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_cokemv","name":"Cokemv[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
@@ -21,6 +22,8 @@
     {"key":"csp_xpath_xiaoxiong","name":"小熊影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xiaoxiong.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵影视[XP]","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_dsxys","name":"猴哥影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dsxys.json"},
+
+    {"key":"csp_biubiu_daxiangtv","name":"大象TV[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/daxiangtv.json"},
 
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},
     {"key":"csp_xpath_czzy","name":"厂长资源[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/czzy.json"},
