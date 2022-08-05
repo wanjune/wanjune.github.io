@@ -1,6 +1,10 @@
 {
-    "ua": "",
+    "author": "wanjune",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
     "homeUrl": "https://www.czspp.com",
+    "dcVipFlag": "true",
+    "dcShow2Vip": {},
+    "dcPlayUrl": "true",
     "cateManual": {"动漫":"dm","+番剧":"fanju","剧集":"dsj","+国产":"gcj","+海外":"movie_bt_series/hwj","+美剧":"meijutt","+韩剧":"hanjutv","电影":"zuixindianying","豆瓣":"dbtop250"},
     "homeVodNode": "//div[contains(@class,'bt_img mi_ne_kd')]/ul/li/a",
     "homeVodName": "/following-sibling::h3/a/text()",
