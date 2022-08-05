@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "http://www.dadagui.me", // https://www.dadagui.vip
+  "homeUrl": "http://www.dadagui.me",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+韩国":"14","+日本":"25","+欧美":"15","电影":"1"},
@@ -38,9 +38,12 @@
   "dtActor": "//p[contains(@class,'data')][5]/text()",
   "dtActorR": "\\S+：(\\S+)",
   "dtDesc": "//span[@class='detail-content']/text()",
-  "dtFromNode": "//h3[contains(text(), '播')]",
-  "dtFromName": "concat('播放源',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
-  "dtFromNameR": "(\\S+).0",
+  // "dtFromNode": "//h3[contains(text(), '播')]",
+  // "dtFromName": "concat('播放源',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
+  // "dtFromNameR": "(\\S+).0",
+  "dtFromNode": "//div[@class='stui-vodlist__head' and ./span[@class='pull-right']]",
+  "dtFromName": "/h3/text()",
+  "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "/@href",
