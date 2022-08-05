@@ -1,4 +1,5 @@
 {
+  "author": "wanjune",
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.pianba.tv",
   "dcVipFlag": "true",
@@ -38,6 +39,8 @@
   "dtDirectorR": "",
   "dtActor": "//div[@class='stui-content__detail']//span[contains(@class,'data2') and contains(text(), '主演')]/following-sibling::*/a/text()",
   "dtActorR": "",
+  "dtMark": "//div[@class='stui-content__detail']//span[contains(@class,'data2') and contains(text(), '状态')]/following-sibling::span/text()",
+  "dtMarkR": "",
   "dtDesc": "//div[@class='stui-content__detail']//span[contains(@class,'data2') and contains(text(), '剧情')]/following-sibling::span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]/span",

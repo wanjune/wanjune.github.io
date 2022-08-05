@@ -1,9 +1,8 @@
 {
-  "ua": "",
+  "author": "wanjune",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "http://6d.mrnjz.cn",
   "dcVipFlag": "true",
-  "pCfgJs": "http://6d.mrnjz.cn/static/js/playerconfig.js",
-  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"3","综艺":"4","剧集":"2","电影":"1"},
@@ -26,19 +25,19 @@
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "",
+  "dtCate":  "//span[contains(@class,'text-muted') and contains(text(), '类型')]/following-sibling::a/text()",
   "dtCateR": "",
-  "dtArea": "",
+  "dtArea": "//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::a/text()",
   "dtAreaR": "",
-  "dtDirector": "//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
+  "dtDirector": "//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::a/text()",
   "dtDirectorR": "",
-  "dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
+  "dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::a/text()",
   "dtActorR": "",
-  "dtYear": "//span[contains(@class,'text-muted') and contains(text(), '年代')]/following-sibling::*/text()",
+  "dtYear": "",
   "dtYearR": "",
-  "dtMark": "//span[contains(@class,'text-muted') and contains(text(), '集数')]/following-sibling::*/text()",
+  "dtMark": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/span[@class='pic-text text-right']/text()",
   "dtMarkR": "",
-  "dtDesc": "//span[contains(@class,'text-muted') and contains(text(), '剧情')]/following-sibling::*/text()",
+  "dtDesc": "//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href,'play')]",
   "dtFromName": "/text()",
@@ -86,7 +85,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"name":"排序","key":"by","value":[{"n":"全部","v":"addtime"},{"n":"时间","v":"id"},{"n":"人气","v":"hits"}]}
+      {"name":"排序","key":"by","value":[{"n":"全部","v":"id"},{"n":"添加时间","v":"addtime"},{"n":"人气","v":"hits"}]}
     ],
     "2": [
       {"name":"类型","key":"class","value":[{"n":"全部","v":""},
@@ -100,7 +99,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"name":"排序","key":"by","value":[{"n":"全部","v":"addtime"},{"n":"时间","v":"id"},{"n":"人气","v":"hits"}]}
+      {"name":"排序","key":"by","value":[{"n":"全部","v":"id"},{"n":"添加时间","v":"addtime"},{"n":"人气","v":"hits"}]}
     ],
     "3": [
       {"name":"类型","key":"class","value":[{"n":"全部","v":""},
@@ -115,7 +114,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"name":"排序","key":"by","value":[{"n":"全部","v":"addtime"},{"n":"时间","v":"id"},{"n":"人气","v":"hits"}]}
+      {"name":"排序","key":"by","value":[{"n":"全部","v":"id"},{"n":"添加时间","v":"addtime"},{"n":"人气","v":"hits"}]}
     ],
     "4": [
       {"name":"类型","key":"class","value":[{"n":"全部","v":""},
@@ -129,7 +128,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"name":"排序","key":"by","value":[{"n":"全部","v":"addtime"},{"n":"时间","v":"id"},{"n":"人气","v":"hits"}]}
+      {"name":"排序","key":"by","value":[{"n":"全部","v":"id"},{"n":"添加时间","v":"addtime"},{"n":"人气","v":"hits"}]}
     ]
   }
 }
