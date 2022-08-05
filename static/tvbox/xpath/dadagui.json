@@ -41,7 +41,7 @@
   // "dtFromNode": "//h3[contains(text(), '播')]",
   // "dtFromName": "concat('播放源',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
   // "dtFromNameR": "(\\S+).0",
-  "dtFromNode": "//div[@class='stui-vodlist__head' and ./span[@class='pull-right']]/h3",
+  "dtFromNode": "//span[@class='pull-right']/following-sibling::h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
