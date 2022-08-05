@@ -63,7 +63,7 @@
   "scVodMark": "",
   "filter": {
     "dianying": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianying"},
         {"n":"动作片","v":"dongzuopian"},
         {"n":"喜劇片","v":"xijupian"},
         {"n":"愛情片","v":"aiqingpian"},
@@ -100,7 +100,7 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "dianshiju": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianshiju"},
         {"n":"国产","v":"guochanju"},
         {"n":"港台","v":"gangtaiju"},
         {"n":"日韩","v":"rihanju"},

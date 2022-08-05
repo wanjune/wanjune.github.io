@@ -1,7 +1,10 @@
 {
-    "author": "ajk",
-    "ua": "",
+    "author": "wanjune",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
     "homeUrl": "https://www.xqmi.top",
+    "dcVipFlag": "true",
+    "dcShow2Vip": {},
+    "dcPlayUrl": "true",
     "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","+港台":"14","电影":"1"},
     "homeVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
     "homeVodName": "/@title",
