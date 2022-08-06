@@ -45,7 +45,7 @@
   "dtDescR": "",
   "dtFromNode": "//div[@class='stui-vodlist__head' and .//span[@class='pull-right']]/h3",
   "dtFromName": "/text()",
-  "dtFromNameR": "",
+  //"dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
