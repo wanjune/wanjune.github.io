@@ -43,7 +43,7 @@
   "dtMarkR": "更新：(.*)$",
   "dtDesc": "//div[@class='stui-content__detail']/p[@class='desc detail']/span[@class='detail-content']/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='stui-vodlist__head' and .//span[@class='pull-right']]/h3",
+  "dtFromNode": "//div[@class='stui-vodlist__head']/span[@class='pull-right']/following-sibling::h3",
   "dtFromName": "/text()",
   //"dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
