@@ -3,6 +3,8 @@
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "https://www.xqmi.cc",
   "dcVipFlag": "true",
+  "pCfgJs": "https://www.xqmi.cc/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","+港台":"14","电影":"1"},
