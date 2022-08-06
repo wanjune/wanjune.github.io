@@ -61,13 +61,13 @@
   "filter": {
     "dydq": [
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"dydq"},
-        {"n":"动作片","v":"dzpdq"},
-        {"n":"喜剧片","v":"xjpdq"},
-        {"n":"爱情片","v":"aqpdq"},
-        {"n":"科幻片","v":"khpdq"},
-        {"n":"恐怖片","v":"kbpdq"},
-        {"n":"剧情片","v":"jqpdq"},
-        {"n":"战争片","v":"zzpdq"}
+        {"n":"动作","v":"dzpdq"},
+        {"n":"喜剧","v":"xjpdq"},
+        {"n":"爱情","v":"aqpdq"},
+        {"n":"科幻","v":"khpdq"},
+        {"n":"恐怖","v":"kbpdq"},
+        {"n":"剧情","v":"jqpdq"},
+        {"n":"战争","v":"zzpdq"}
       ]},
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
         {"n":"大陆","v":"/area/大陆"},
