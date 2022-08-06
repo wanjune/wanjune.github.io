@@ -1,15 +1,20 @@
 {
+  "author": "wanjune",
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
-  "homeUrl": "https://ikan6.vip/",
-  "cateManual": {"电影":"1","国产剧":"2","日韩剧":"15","欧美剧":"16","港台剧":"14","记录片":"20","综艺":"3","动漫":"4"},
-  "homeVodNode": "//div[@class='module-item']",
+  "homeUrl": "https://ikan6.vip", // https://ikan6.cc
+  "dcVipFlag": "true",
+  "pCfgJs": "https://ikan6.vip/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","+港台":"14","电影":"1"},
+  "homeVodNode": "//div[@class='module-list module-lines-list']/div/div[@class='module-item']",
   "homeVodName": "//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@title",
   "homeVodId": "//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@href",
   "homeVodIdR": "/voddetail/(\\S+)",
   "homeVodImg": "//div[@class='module-item-cover']//div[@class='module-item-pic']/img/@data-src",
   "homeVodMark": "//div[@class='module-item-text']/text()",
   "cateUrl": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
-  "author": "Jonee",
   "cateVodNode": "//div[@class='module-item']",
   "cateVodName": "//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@title",
   "cateVodId": "//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@href",
@@ -22,7 +27,7 @@
   "dtImg": "//*[@id='main']/div/div[1]/div[2]/div/div/img/@data-src",
   "dtCate": "//*[@id='main']/div/div[1]/div[3]/div[1]/div/div/div/a/text()",
   "dtArea": "//*[@id='main']/div/div[1]/div[3]/div[1]/div/div/a[3]/text()",
-  "dtYear": "//*[@id='main']/div/div[1]/div[3]/div[2]/div[3]/div/text()",
+  "dtYear": "//*[@id='main']/div/div[1]/div[3]/div[1]/div/div/a[2]/text()",
   "dtDesc": "//*[@id='main']/div/div[1]/div[3]/div[2]/div[6]/div/span/text()",
   "dtActor": "//*[@id=main]/div/div[1]/div[3]/div[2]/div[2]/div/descendant::*/text()",
   "dtDirector": "//*[@id='main']/div/div[1]/div[3]/div[2]/div[1]/div/a/text()",
@@ -44,14 +49,14 @@
   "filter": {
     "1": [
       {"name":"分类","key":"cateId","value":[{"n":"全部","v":"1"},
-        {"n":"动作片","v":"6"},
-        {"n":"喜剧片","v":"7"},
-        {"n":"爱情片","v":"8"},
-        {"n":"科幻片","v":"9"},
-        {"n":"恐怖片","v":"10"},
-        {"n":"剧情片","v":"11"},
-        {"n":"战争片","v":"12"},
-        {"n":"灾难片","v":"24"}
+        {"n":"动作","v":"6"},
+        {"n":"喜剧","v":"7"},
+        {"n":"爱情","v":"8"},
+        {"n":"科幻","v":"9"},
+        {"n":"恐怖","v":"10"},
+        {"n":"剧情","v":"11"},
+        {"n":"战争","v":"12"},
+        {"n":"灾难","v":"24"}
       ]},
       {"name":"剧情","key":"class","value":[{"n":"全部","v":""},
         {"n":"喜剧","v":"喜剧"},
@@ -195,6 +200,14 @@
       ]},
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
+    "13": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
     "14": [
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
         {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
@@ -212,14 +225,6 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "16": [
-      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
-        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
-        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
-        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
-      ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
-    ],
-    "20": [
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
         {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
