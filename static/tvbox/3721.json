@@ -3,6 +3,9 @@
   "sites":[
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dyhd.json"},
     {"key":"csp_xpath_miaomiaohd","name":"喵喵影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiaohd.json"},
+    {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrdhd.json"},
+    {"key":"csp_xpath_dianyingn","name":"!电影牛[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dianyingnhd.json"},
+    // https://www.mfdytt.com/
     {"key":"91md","name":"\u0039\u0031\u9ebb\u8c46","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://91md.me/api.php/provide/vod/at/xml/"},
     {"key":"smzy","name":"\u8272\u732b\u8d44\u6e90","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.maozyapi.com/inc/api.php","categories":["\u56fd\u4ea7\u81ea\u62cd","\u65e5\u672c\u65e0\u7801","\u6b27\u7f8e\u7cbe\u54c1","\u65e5\u672c\u7d20\u4eba","\u6620\u753b\u4f20\u5a92","\u7f51\u7ea2\u4e3b\u64ad","\u4eba\u59bb\u719f\u5973","\u7f8e\u4e73\u5de8\u4e73","\u9ad8\u6e05\u540d\u4f18","\u841d\u8389\u5c11\u5973","\u4e2d\u6587\u5b57\u5e55","\u6210\u4eba\u52a8\u6f2b"]},
     {"key":"523zy","name":"\u0035\u0032\u0033","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.523zyw.com/inc/api.php","categories":["\u4f26\u7406\u7efc\u827a","\u6210\u4eba\u52a8\u6f2b","\u4e3b\u64ad\u7cbe\u9009","\u56fd\u4ea7\u7cbe\u54c1","\u65e5\u97e9\u65e0\u7801","\u6b27\u7f8e\u98ce\u60c5"]},
@@ -27,9 +30,6 @@
     {"key":"fedzy","name":"\u5bcc\u4e8c\u4ee3","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://f2dcj6.com/sapi?ac=videolist","categories":["\u56fd\u4ea7\u7cbe\u54c1","\u4e3b\u64ad\u5927\u79c0","\u6296\u9634\u89c6\u9891","\u56fd\u4ea7\u4e71\u4f26","\u91ce\u5408\u8f66\u9707","\u804c\u573a\u540c\u4e8b","\u5a07\u59bb\u7d20\u4eba","\u7f8e\u719f\u5c11\u5987","\u7a7a\u59d0\u6a21\u7279","\u5973\u795e\u5b66\u751f","\u56fd\u4ea7\u540d\u4eba","\u798f\u5229\u59ec","\u7f51\u66dd\u95e8\u4e8b\u4ef6"]},
     {"key":"ykzy","name":"\u5f71\u5e93\u8d44\u6e90","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","categories":["\u97e9\u56fd\u4f26\u7406","\u65e5\u672c\u4f26\u7406","\u6b27\u7f8e\u4f26\u7406","\u9999\u6e2f\u4f26\u7406","\u53f0\u6e7e\u4f26\u7406","\u65e5\u672c\u5199\u771f"]},
     {"key":"damimi","name":"\u5927\u004d\u004d","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","categories":["\u56fd\u4ea7\u81ea\u62cd","\u56fd\u4ea7\u5077\u62cd","\u65e5\u97e9\u65e0\u7801","\u6b27\u7f8e\u65e0\u7801","\u4e09\u7ea7\u5267\u60c5","\u4e2d\u6587\u5b57\u5e55","\u5361\u901a\u52a8\u6f2b","\u65e5\u97e9\u6709\u7801"]},
-    {"key":"net_ukuzy","name":"U酷资源[NET]","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","categories":["动漫","综艺","电视剧","国产剧","韩剧","日剧","欧美剧","电影","\u4f26\u7406\u7247"]},
-    {"key":"net_gqc","name":"共青春[NET]","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"https://jx.parwix.com:4433/player/?url=","categories":["动漫","综艺","连续剧","大陆剧","韩剧","日剧","美剧","海外剧","TVB","电影","\u798f\u5229\u7247","\u4f26\u7406\u7247"]},
-    {"key":"net_lehootv","name":"乐活影视[NET]","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://lehootv.com/api.php/provide/vod/","categories":["动漫","综艺","连续剧","国产剧","韩剧","日剧","美剧","海外剧","电影","\u4f26\u7406\u7247"]}
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
