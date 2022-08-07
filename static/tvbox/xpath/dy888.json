@@ -7,7 +7,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"16","+欧美":"16","+港台":"14","电影":"1"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"14","+欧美":"16","+港台":"15","电影":"1"},
   "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contains(@class, 'vodlist_thumb lazyload')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -31,7 +31,7 @@
   "dtArea": "//span[contains(text(),'地区')]/following-sibling::a[1]/text()",
   "dtDesc": "//span[contains(text(),'简介')]/parent::*/text()[2]",
   "dtDescR": "",
-  "dtFromNode": "//a[@class='active' and contains(@href, 'javascript')]",
+  "dtFromNode": "//div[contains(@class, 'play_source_tab')]/a[contains(@href, 'javascript')]",
   "dtFromName": "/text()",
   "dtUrlNode": "//div[@id='playlistbox' and contains(@class, 'playlist_notfull')]",
   "dtUrlSubNode": "/ul//li/a",
@@ -85,9 +85,9 @@
     "2": [
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"2"},
         {"n":"国产","v":"13"},
-        {"n":"日韩","v":"15"},
+        {"n":"日韩","v":"14"},
         {"n":"欧美","v":"16"},
-        {"n":"港台","v":"14"}
+        {"n":"港台","v":"15"}
       ]},
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
         {"n":"大陆","v":"/area/内地"},
