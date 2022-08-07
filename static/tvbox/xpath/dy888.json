@@ -8,7 +8,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"16","+欧美":"16","+港台":"14","电影":"1"},
-  "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contaißns(@class, 'vodlist_thumb lazyload')]",
+  "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contains(@class, 'vodlist_thumb lazyload')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/index.php/vod/detail/id/(\\s+).html",
@@ -26,10 +26,10 @@
   "dtName": "//div[contains(@class,'pannel_head clearfix')]/h2[contains(@class,'title')]/text()",
   "dtImg": "//div[contains(@class,'content_thumb fl')]/a[contains(@class,'vodlist_thumb lazyload')]/@data-original",
   "dtImgR": "",
-  "dtCate": "//span[contains(text(),'类型')]/following-sibling::*/text()",
-  "dtYear": "//span[contains(text(),'年份')]/following-sibling::*/text()",
-  "dtArea": "//span[contains(text(),'地区')]/following-sibling::*/text()",
-  "dtDesc": "//span[contains(text(),'简介')]/following-sibling::*/text()",
+  "dtCate": "//span[contains(text(),'类型')]/following-sibling::a/text()",
+  "dtYear": "//span[contains(text(),'年份')]/following-sibling::a[1]/text()",
+  "dtArea": "//span[contains(text(),'地区')]/following-sibling::a[1]/text()",
+  "dtDesc": "//span[contains(text(),'简介')]/parent::*/text()[2]",
   "dtDescR": "",
   "dtFromNode": "//a[@class='active' and contains(@href, 'javascript')]",
   "dtFromName": "/text()",
@@ -171,4 +171,5 @@
       ]},
       {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ]
+  }
 }
