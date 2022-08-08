@@ -45,7 +45,7 @@
   "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[@id='y-playList']/div/span",
   "dtFromName": "/text()",
   "dtFromNameR": "",
-  "dtUrlNode": "//div[contains(@class,'module-play-list')]/div[@class='module-play-list-content  module-play-list-base']",
+  "dtUrlNode": "//div[contains(@class,'module-play-list')]/div[contains(@class,'module-play-list-content')]",
   "dtUrlSubNode": "/a",
   "dtUrlId": "/@href",
   "dtUrlIdR": "/vodplay/(\\S+).html",
