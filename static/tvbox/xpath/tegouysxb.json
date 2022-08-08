@@ -1,9 +1,11 @@
 ﻿{
-  "name": "特狗影视[XP]",
+  "author": "wanjune",
+  "name": "特狗影视[XB]",
   "url": "https://www.tegouys.com",
   "tihuan": "cnzz.com",
   "User": "空",
-  "fenlei": "动漫$/vodshow/id/4/page/#综艺$/vodshow/id/3/page/#剧集$/vodshow/id/2/page/#大陆$/vodshow/area/内地/id/2/page/#韩国$/vodshow/area/韩国/id/2/page/#日本$/vodshow/area/日本/id/2/page/#美国$/vodshow/area/美国/id/2/page/#英国$/vodshow/area/英国/id/2/page/#电影$/vodshow/id/1/page/",
+  "shouye": "1",
+  "fenlei": "动漫$/vodshow/id/4/page/#综艺$/vodshow/id/3/page/#剧集$/vodshow/id/2/page/#+国产$/vodshow/area/内地/id/2/page/#+韩国$/vodshow/area/韩国/id/2/page/#+日本$/vodshow/area/日本/id/2/page/#+美国$/vodshow/area/美国/id/2/page/#+英国$/vodshow/area/英国/id/2/page/#电影$/vodshow/id/1/page/",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
