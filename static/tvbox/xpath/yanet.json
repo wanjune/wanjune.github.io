@@ -25,7 +25,7 @@
   "cateVodImg": "//img/@data-original",
   "cateVodImgR": "(http\\S+)",
   "cateVodMark": "//div[@class='module-item-note']/text()",
-  "dtUrl": "https://yanetflix.com/index.php/voddetail/{vid}.html",
+  "dtUrl": "https://yanetflix.com/voddetail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'module-info-heading')]/h1/text()",
   "dtNameR": "",
