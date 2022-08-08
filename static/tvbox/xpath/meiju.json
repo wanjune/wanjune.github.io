@@ -1,13 +1,13 @@
 {
   "author": "wanjune",
-  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "https://www.meiju56.com",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.meiju56.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-   //20理论
+  // 20理论
   "cateManual": {"少儿":"29","动漫":"4","综艺":"5","剧集":"2"  ,"+国产":"13","+日韩":"15","+欧美":"16","+港台":"14","+其他":"22","电影":"1","纪录":"3","哔哩":"24"},
   "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
   "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
