@@ -50,7 +50,7 @@
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
   "dtUrlIdR": "",
-  "dtUrlName": "/text",
+  "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://mf.777777.xn--tckwe{playUrl}",
   "playUa": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
