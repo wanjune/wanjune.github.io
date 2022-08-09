@@ -21,7 +21,7 @@
   "cateVodImg": "/a/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/a/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "http://www.cerrd.com{vid}",
+  "dtUrl": "http://www.cerrd.com/{vid}.html", 
   "dtNode": "//body",
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
