@@ -37,7 +37,7 @@
   "dtDirector": "//span[contains(text(), '导演')]/following-sibling::a/text()",
   "dtActor": "//span[contains(text(), '主演')]/following-sibling::a/text()",
   "dtDesc": "//div[@class='col-pd text-collapse content']/p[last()]/text()",
-  "dtFromNode": "//div[@class='myui-panel_hd']/div[.//h3[contains(text(),'播放地址')]]/ul/li/a",
+  "dtFromNode": "//div[@class='myui-panel_hd']/div[contains(.//h3/text(),'播放地址')]/ul/li/a",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@id,'playlist')]/ul[contains(@class,'myui-content__list')]",
