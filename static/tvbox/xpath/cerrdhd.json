@@ -10,7 +10,7 @@
   "homeVodImg": "/a/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//a/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "http://www.cerrd.com/films/{cateId}_{catePg}{by}.html",
+  "cateUrl": "http://www.cerrd.com/films/{cateId}_{catePg}?order=time",
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div[@class='stui-vodlist__box']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
