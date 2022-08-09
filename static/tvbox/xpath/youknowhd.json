@@ -11,7 +11,7 @@
   "homeVodNode": "//ul[@class='fed-list-info fed-part-rows']/li",
   "homeVodName": "/a[contains(@class,'fed-list-title')]/text()",
   "homeVodId": "/a[contains(@class,'fed-list-pics')]/@href",
-  "homeVodIdR": "/voddetail/(\\S+)/",
+  "homeVodIdR": "/voddetail/(.*)/",
   "homeVodImg": "/a[contains(@class,'fed-list-pics')]/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'fed-list-desc')]/text()",
@@ -19,7 +19,7 @@
   "cateVodNode": "//ul[@class='fed-list-info fed-part-rows']/li",
   "cateVodName": "/a[contains(@class,'fed-list-title')]/text()",
   "cateVodId": "/a[contains(@class,'fed-list-pics')]/@href",
-  "cateVodIdR": "/voddetail/(\\S+)/",
+  "cateVodIdR": "/voddetail/(.*)/",
   "cateVodImg": "/a[contains(@class,'fed-list-pics')]/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'fed-list-desc')]/text()",
@@ -29,7 +29,7 @@
   "dtNameR": "",
   "dtImg": "//dt[contains(@class,'fed-deta-images')]/a/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "//li[contains(@class,'fed-part-eone') and .//span[contains(text(),'分类')]]/a/text()",
+  "dtCate": "//li[contains(@class,'fed-part-eone') and .//span[contains(text(),'类别')]]/a/text()",
   "dtCateR": "",
   "dtYear": "//li[contains(@class,'fed-part-eone') and .//span[contains(text(),'年份')]]/a/text()",
   "dtYearR": "",
@@ -49,7 +49,7 @@
   "dtUrlNode": "//ul[contains(@class,'fed-tabs-btm')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/vodplay/(\\S+)/",
+  "dtUrlIdR": "/vodplay/(.*)/",
   "dtUrlName": "/text",
   "dtUrlNameR": "",
   "playUrl": "https://mf.777777.xn--tckwe/vodplay/{playUrl}/",
@@ -63,11 +63,11 @@
   "scVodMark": "",
   "filter": {
     "1": [
-      {"key":"channel","name":"渠道","value":[{"n":"全部","v":""},
+      {"key":"channel","name":"来源","value":[{"n":"全部","v":""},
         {"n":"\u0039\u0031","v":"\u0039\u0031"},
         {"n":"\u874c\u86aa","v":"\u874c\u86aa"}
       ]},
-      {"key":"class","name":"分类","value":[{"n":"全部","v":""},
+      {"key":"class","name":"类别","value":[{"n":"全部","v":""},
         {"n":"国产","v":"国产"},
         {"n":"日本","v":"日本"},
         {"n":"欧美","v":"欧美"},
@@ -76,7 +76,7 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "2": [
-      {"key":"channel","name":"渠道","value":[{"n":"全部","v":""},
+      {"key":"channel","name":"来源","value":[{"n":"全部","v":""},
         {"n":"\u004a\u0061\u0062\u006c\u0065","v":"\u006a\u0061\u0062\u006c\u0065"},
         {"n":"\u0048\u0044\u65e0\u7801","v":"\u9ad8\u6e05\u65e0\u7801"},
         {"n":"\u5b57\u5e55","v":"\u5b57\u5e55"},
@@ -89,7 +89,7 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "3": [
-      {"key":"channel","name":"渠道","value":[{"n":"全部","v":""},
+      {"key":"channel","name":"来源","value":[{"n":"全部","v":""},
         {"n":"\u8272\u732b","v":"\u8272\u732b"},
         {"n":"\u5976\u8336","v":"\u5976\u8336"},
         {"n":"\u7231\u64ad","v":"\u7231\u64ad"},
@@ -103,7 +103,7 @@
         {"n":"\u8272\u7a9d","v":"\u8272\u7a9d"},
         {"n":"\u63a2\u63a2","v":"\u63a2\u63a2"}
       ]},
-      {"key":"class","name":"分类","value":[{"n":"全部","v":""},
+      {"key":"class","name":"类别","value":[{"n":"全部","v":""},
         {"n":"国产","v":"国产"},
         {"n":"日本","v":"日本"},
         {"n":"欧美","v":"欧美"},
