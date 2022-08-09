@@ -7,7 +7,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"dongman","综艺":"zongyi","剧集":"dianshiju","电影":"dianying","\u002b\u4f26\u7406":"lilun"},
+  "cateManual": {"动漫":"dongman","综艺":"zongyi","剧集":"dianshiju","电影":"dianying","\u4f26\u7406":"lilun"},
   "homeVodNode": "//ul[contains(@class,'fed-list-info fed-part-rows')]/li",
   "homeVodName": "/a[contains(@class,'fed-list-title')]/text()",
   "homeVodId": "/a[contains(@class,'fed-list-title')]/@href",
