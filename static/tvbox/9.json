@@ -54,7 +54,6 @@
     {"key":"csp_appysv2_kyys","name":"快云影音[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuaiyunyy.com/api.php/app/","categories":["动漫","综艺","连续剧","电影","纪录片"]},
     {"key":"csp_appysv2_ysdq","name":"小城影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_lstv","name":"冷视TV[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]}
-    //https://www.1dedy.com/eshow/1-----------/
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
