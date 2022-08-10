@@ -1,12 +1,12 @@
 {
   "spider":"https://wanjune.github.io/static/tvbox/sp0701.dylib?raw=true;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
   "sites":[
-    {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dyhd.json"},
-    {"key":"csp_xpath_miaomiaohd","name":"喵喵影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiaohd.json"},
-    {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrdhd.json"},
-    {"key":"csp_xpath_mfdytt","name":"电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/mfdytthd.json"},
-    {"key":"csp_xpath_youknow","name":"你懂的[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/youknowhd.json"},
-    {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meijuhd.json"},
+    {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/555dy.json"},
+    {"key":"csp_xpath_miaomiaohd","name":"喵喵影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/miaomiao.json"},
+    {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/cerrd.json"},
+    {"key":"csp_xpath_mfdytt","name":"电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/mfdytt.json"},
+    {"key":"csp_xpath_youknow","name":"你懂的[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/youknow.json"},
+    {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/meiju.json"},
     {"key":"91md","name":"\u0039\u0031\u9ebb\u8c46","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://91md.me/api.php/provide/vod/at/xml/"},
     {"key":"smzy","name":"\u8272\u732b\u8d44\u6e90","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.maozyapi.com/inc/api.php","categories":["\u56fd\u4ea7\u81ea\u62cd","\u65e5\u672c\u65e0\u7801","\u6b27\u7f8e\u7cbe\u54c1","\u65e5\u672c\u7d20\u4eba","\u6620\u753b\u4f20\u5a92","\u7f51\u7ea2\u4e3b\u64ad","\u4eba\u59bb\u719f\u5973","\u7f8e\u4e73\u5de8\u4e73","\u9ad8\u6e05\u540d\u4f18","\u841d\u8389\u5c11\u5973","\u4e2d\u6587\u5b57\u5e55","\u6210\u4eba\u52a8\u6f2b"]},
     {"key":"523zy","name":"\u0035\u0032\u0033","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.523zyw.com/inc/api.php","categories":["\u4f26\u7406\u7efc\u827a","\u6210\u4eba\u52a8\u6f2b","\u4e3b\u64ad\u7cbe\u9009","\u56fd\u4ea7\u7cbe\u54c1","\u65e5\u97e9\u65e0\u7801","\u6b27\u7f8e\u98ce\u60c5"]},
