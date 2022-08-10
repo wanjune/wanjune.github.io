@@ -7,7 +7,7 @@
     
     {"key":"csp_Kmys","name":"酷猫[SP]","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
-    {"key":"csp_SP293","name":"2️93视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SP293","name":"293视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_JianYing","name":"简影[SP]","type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
     {"key":"csp_ZJMiao","name":"追剧喵[SP]","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ekan","name":"E看[SP]","type":3,"api":"csp_Ekan","filterable":1,"quickSearch":1,"searchable":1},
