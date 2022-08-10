@@ -1,5 +1,4 @@
 {
-  //"spider":"https://wanjune.github.io/static/tvbox/sp0701.dylib?raw=true;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
   "spider": "https://wanjune.github.io/static/tvbox/sp0806.dylib;md5;4225AA3FC3EDEDC4984A2E727F15C840",
   "sites":[
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/555dy.json"},
