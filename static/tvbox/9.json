@@ -5,9 +5,9 @@
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"csp_QQ","name":"腾讯[SP]","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"sp0000"},
-    {"key":"csp_MGTV","name":"芒果[SP]","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"sp0000"},
-    {"key":"csp_IQIYI","name":"爱奇艺[SP]","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"sp0000"},
+    {"key":"csp_QQ","name":"腾讯[SP]","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/sp0000.dylib"},
+    {"key":"csp_MGTV","name":"芒果[SP]","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/sp0000.dylib"},
+    {"key":"csp_IQIYI","name":"爱奇艺[SP]","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/sp0000.dylib;md5;6C9D469988E4BB580898E7FD5BC3DA2A"},
 
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_SP293","name":"293视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
