@@ -7,12 +7,9 @@
     {"key":"csp_Ekan","name":"E看资源[SP]","type":3,"api":"csp_Ekan","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-
+    {"key":"csp_xpath_fantuan","name":"饭团[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qdpdwjx001/ziyuan/raw/branch/master/xpath/fantuan.json"},
+    {"key":"csp_xpath_dandanzan","name":"蛋蛋赞[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/VIP/raw/branch/TV/xpath/%E8%9B%8B%E8%9B%8B%E8%B5%9E.json"},
     
-    {"key":"csp_biubiu_lanmei","name":"蓝莓影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mt123456888/VIP/src/branch/TV/lanmei.json"},
-
-    {"key":"csp_xpath_bdcl","name":"哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/bidid.json"},
-
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_jbb","name":"剧白白[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jubaibai.json"},
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lib.json"},
