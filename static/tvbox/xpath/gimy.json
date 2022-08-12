@@ -61,7 +61,7 @@
   "scVodMark": "//span[contains(@class, 'pic-text')]/text()",
   "filter": {
     "movies": [
-      {"key":"cateId","name":"分类","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"分类","value":[{"n":"全部","v":"movies"},
         {"n":"劇情","v":"drama"},
         {"n":"動作","v":"action"},
         {"n":"科幻","v":"scifi"},
@@ -93,7 +93,7 @@
       ]}
     ],
     "tvseries": [
-      {"key":"cateId","name":"分类","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"分类","value":[{"n":"全部","v":"tvseries"},
         {"n":"国产","v":"cn"},
         {"n":"韩国","v":"kr"},
         {"n":"美国","v":"us"},
