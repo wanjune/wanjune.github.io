@@ -7,11 +7,9 @@
     {"key":"csp_Ekan","name":"E看资源[SP]","type":3,"api":"csp_Ekan","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"csp_xpath_bttoo","name":"两个变态[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXP/bttwoo.json"},
-    {"key":"csp_AliPanSou","name":"阿里盘搜[SP]","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-    {"key":"csp_FindZY","name":"找资源[SP]","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-    {"key":"csp_biubiu_voflix","name":"voflix[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXB/voflix.json"},
-    {"key":"csp_biubiu_hdmoli","name":"hdmoli[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXB/hdmoli.json"},
+    {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
+    {"key":"csp_biubiu_voflix","name":"VOFLIX[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"hhttps://wanjune.github.io/static/tvbox/xpath/xb/voflix.json"},
+    {"key":"csp_biubiu_hdmoli","name":"HDmoli[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/hdmoli.json"},
 
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_jbb","name":"剧白白[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jubaibai.json"},
@@ -74,7 +72,7 @@
     {"key":"csp_Xxys","name":"小熊TV[SP]","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SP293","name":"293视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"两个BT[SP]","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_Bttoo","name":"两个BT[SP]","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appysv2_btys","name":"百淘影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_appysv2_dyys","name":"段友影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_akys","name":"爱酷影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
@@ -104,8 +102,7 @@
     {"name":"9亿","type":1,"url":"https://m3u8.look4you.top/?url="}
   ],
   "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","哔哩","xigua","西瓜","tudou","土豆","wasu","华数","xfyun","讯飞","renrenmi","人人迷","cl4k","CL4K","le","rx","wuduzy","ziqie","leduo","ltnb","mahua","m1905","ckm3u8","tkm3u8","m3u8"],
-  //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["\u0070\u0072\u006f\u0078\u0079\u003a\u002f\u002f\u0064\u006f\u003d\u006c\u0069\u0076\u0065\u0026\u0074\u0079\u0070\u0065\u003d\u0074\u0078\u0074\u0026\u0065\u0078\u0074\u003d\u0061\u0048\u0052\u0030\u0063\u0048\u004d\u0036\u004c\u0079\u0039\u0033\u0059\u0057\u0035\u0071\u0064\u0057\u0035\u006c\u004c\u006d\u0064\u0070\u0064\u0047\u0068\u0031\u0059\u0069\u0035\u0070\u0062\u0079\u0039\u007a\u0064\u0047\u0046\u0030\u0061\u0057\u004d\u0076\u0064\u0048\u005a\u0069\u0062\u0033\u0067\u0076\u0062\u0047\u006c\u0032\u005a\u0054\u006b\u0075\u0064\u0048\u0068\u0030"]}]}],
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc2hhZG93Y2hpdS9UVkJveC9yYXcvYnJhbmNoL21haW4vdHYvc2NsaXZlLnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["\u0070\u0072\u006f\u0078\u0079\u003a\u002f\u002f\u0064\u006f\u003d\u006c\u0069\u0076\u0065\u0026\u0074\u0079\u0070\u0065\u003d\u0074\u0078\u0074\u0026\u0065\u0078\u0074\u003d\u0061\u0048\u0052\u0030\u0063\u0048\u004d\u0036\u004c\u0079\u0039\u0033\u0059\u0057\u0035\u0071\u0064\u0057\u0035\u006c\u004c\u006d\u0064\u0070\u0064\u0047\u0068\u0031\u0059\u0069\u0035\u0070\u0062\u0079\u0039\u007a\u0064\u0047\u0046\u0030\u0061\u0057\u004d\u0076\u0064\u0048\u005a\u0069\u0062\u0033\u0067\u0076\u0062\u0047\u006c\u0032\u005a\u0054\u006b\u0075\u0064\u0048\u0068\u0030"]}]}],
   "ijk":[
     {"group":"软解码","options":[
         {"category":4,"name":"opensles","value":"0"},
