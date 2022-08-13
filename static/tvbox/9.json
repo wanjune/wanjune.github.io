@@ -67,7 +67,7 @@
     {"key":"csp_Xxys","name":"小熊TV[SP]","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SP293","name":"293视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"两个BT[SP]","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}
+    {"key":"csp_Bttoo","name":"两个BT[SP]","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appysv2_btys","name":"百淘影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_appysv2_dyys","name":"段友影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_akys","name":"爱酷影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
