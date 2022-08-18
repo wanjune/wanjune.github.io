@@ -45,6 +45,7 @@
     {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
     {"name":"诺讯1","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
     {"name":"诺讯2","type":1,"url":"https://www.nxflv.com/?url="},
+    {"name":"诺讯3","type":1,"url":"https://www.ckmov.com/?url="},
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":1,"url":"https://nbjx.vip/?url="},
     {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
@@ -52,7 +53,11 @@
     {"name":"腾讯云","type":1,"url":"https://api.jhdyw.vip/?url="},
     {"name":"星驰","type":1,"url":"https://vip.swuii.top/?url="},
     {"name":"人人迷","type":1,"url":"https://jx.blbo.cc:4433/?url="},
-    {"name":"9亿","type":1,"url":"https://m3u8.look4you.top/?url="}
+    {"name":"9亿","type":1,"url":"https://m3u8.look4you.top/?url="},
+    {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+    {"name":"LELE","type":1,"url":"https://lecurl.cn/?url="},
+    {"name":"JY","type":1,"url":"https://jx.playerjy.com/?url="},
+    {"name":"MAO","type":1,"url":"https://www.mtosz.com/erzi.php?url="}
   ],
   "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","哔哩","xigua","西瓜","tudou","土豆","wasu","华数","xfyun","讯飞","renrenmi","人人迷","cl4k","CL4K","le","rx","wuduzy","ziqie","leduo","ltnb","mahua","m1905","ckm3u8","tkm3u8","m3u8"],
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["\u0070\u0072\u006f\u0078\u0079\u003a\u002f\u002f\u0064\u006f\u003d\u006c\u0069\u0076\u0065\u0026\u0074\u0079\u0070\u0065\u003d\u0074\u0078\u0074\u0026\u0065\u0078\u0074\u003d\u0061\u0048\u0052\u0030\u0063\u0048\u004d\u0036\u004c\u0079\u0039\u0033\u0059\u0057\u0035\u0071\u0064\u0057\u0035\u006c\u004c\u006d\u0064\u0070\u0064\u0047\u0068\u0031\u0059\u0069\u0035\u0070\u0062\u0079\u0039\u007a\u0064\u0047\u0046\u0030\u0061\u0057\u004d\u0076\u0064\u0048\u005a\u0069\u0062\u0033\u0067\u0076\u0062\u0047\u006c\u0032\u005a\u0054\u006b\u0075\u0064\u0048\u0068\u0030"]}]}],
