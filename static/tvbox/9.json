@@ -24,7 +24,6 @@
     // {"key":"csp_xpath_juztv","name":"桔子TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/juztv.json"},
     {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json"}, 
     {"key":"csp_xpath_lranc","name":"天天影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lranc.json"},
-    // {"key":"csp_xpath_dy888","name":"DY888[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dy888.json"},
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},
     {"key":"csp_xpath_4kyu","name":"一只鱼[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/4kyu.json"},
     {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
