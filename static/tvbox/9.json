@@ -1,18 +1,27 @@
 {
   "spider":"https://wanjune.github.io/static/tvbox/sp0822.dylib;md5;8D444231CBA4E6FE7B8EFA6A08E32949",
   "sites":[
-    {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+
  
     {"key":"csp_appysv2_ling00","name":"零刻影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_mengdandan","name":"萌蛋蛋[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_qunxinys","name":"群鑫影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_wnvod","name":"万能影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod","categories":["儿童节目","动漫","综艺","连续剧","电影","纪录片"]},
+    {"key":"csp_appysv2_dyys","name":"段友影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_shuhai","name":"淘剧社[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_miniku","name":"迷你库[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_scp00","name":"筑梦云[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"csp_appysv2_dpp8","name":"鹿城GT[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod","categories":["动漫","综艺","剧集","电影"]},
+    {"key":"csp_appysv2_yingku","name":"影库[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yingku1.cc/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
 
     {"key":"csp_kunyu77","name":"酷云77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_ZJMiao","name":"追剧喵[SP]","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_jbb","name":"剧白白[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jubaibai.json"},
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lib.json"},
@@ -65,7 +74,7 @@
     {"key":"csp_biubiu_lgyy","name":"蓝光影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/lgyy.json"},
     {"key":"csp_biubiu_tegouys","name":"特狗影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tegouys.json"},
     {"key":"csp_appysv2_btys","name":"百淘影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_appysv2_dyys","name":"段友影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
+    
     {"key":"csp_appysv2_akys","name":"爱酷影视[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_lstv","name":"冷视TV[M2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
