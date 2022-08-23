@@ -5,8 +5,13 @@
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
  
-    {"key":"app_ttzy","name":"天堂资源[APP]","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影","明星库"]},
-
+    {"key":"app_vipmv","name":"天堂资源[APP]","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"app_ddzyz","name":"多多资源[APP]","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"app_beiyan","name":"北雁影视[APP]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"app_nxflv","name":"诺讯资源[APP]","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫频道","综艺频道","连续剧","国产剧","日韩剧","欧美剧","电影","综合频道"]},
+    {"key":"app_anltv","name":"忆梦影视[APP]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动画","动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影","纪录片/微电影"]},
+    // {"key":"app_mzkj","name":"木子看剧[APP]","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"app_mzkj","name":"木子看剧[APP]","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
     {"key":"csp_kunyu77","name":"酷云77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
