@@ -1,7 +1,14 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/sp0811.dylib;md5;06ED1A662FC19E4EA22F60F02770F4B6",
+  "spider":"https://wanjune.github.io/static/tvbox/sp0822.dylib;md5;8D444231CBA4E6FE7B8EFA6A08E32949",
   "sites":[
-    {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+ 
+    {"key":"app_ttzy","name":"天堂资源[APP]","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影","明星库"]},
+
+
+    {"key":"csp_kunyu77","name":"酷云77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
