@@ -7,8 +7,6 @@
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/heihu.json"},
     {"key":"csp_xpath_mfdytt","name":"电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/mfdytt.json"},
     {"key":"csp_xpath_youknow","name":"你懂的[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/youknow.json"},
-    {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/meiju.json"},
-    {"key":"csp_appysv2_douli","name":"兜里TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.douli.cc/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","午夜"]},
     {"key":"csp_biubiu_readav","name":"爱看影院[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/readavxb.json"},
     {"key":"csp_biubiu_gaoaa","name":"GAOAA[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/gaoaaxb.json"},
     {"key":"91md","name":"\u0039\u0031\u9ebb\u8c46","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://91md.me/api.php/provide/vod/at/xml/"},
