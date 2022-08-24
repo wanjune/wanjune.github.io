@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/sp0822.dylib;md5;8D444231CBA4E6FE7B8EFA6A08E32949",
+  "spider":"https://wanjune.github.io/static/tvbox/sp0822w.dylib;md5;1562E75C678EBD35BA4908F1C431309B",
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
