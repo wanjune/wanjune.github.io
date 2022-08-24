@@ -74,13 +74,13 @@
     {"key":"csp_appysv2_mmhkj","name":"鑫总资源[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_pntao","name":"悟空影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","B站"]},
     {"key":"csp_appysv2_tcspvip","name":"天诚影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","蓝光"]},
-    {"key":"csp_appysv2_nnys","name":"诺诺影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","B站"]},
+    {"key":"csp_appysv2_nnys","name":"诺诺影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影","B站"]},
     {"key":"csp_appysv2_douli","name":"兜里TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.douli.cc/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
-    {"key":"csp_appysv2_lstv","name":"冷视TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_idianying","name":"爱电影[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.idianying.com.cn/mogai_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_appysv2_mxyy","name":"MX影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.889998.xyz/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
-    {"key":"csp_appysv2_qingdou","name":"青豆资源[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod","categories":["动漫","综艺","电视剧","电影","B站"]},
+    {"key":"csp_appysv2_qingdou","name":"青豆视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod","categories":["动漫","综艺","电视剧","电影","B站"]},
     {"key":"csp_appysv2_dd88","name":"迪迪影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/","categories":["动漫","综艺","连续剧","电影","纪录片"]},
+    {"key":"csp_appysv2_lstv","name":"冷视TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
