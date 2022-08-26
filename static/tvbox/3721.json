@@ -1,7 +1,6 @@
 {
   "spider":"https://wanjune.github.io/static/tvbox/sp0822w.dylib;md5;1562E75C678EBD35BA4908F1C431309B",
   "sites":[
-    {"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1},
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/555dy.json"},
     {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/cerrd.json"},
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/heihu.json"},
@@ -19,6 +18,7 @@
     {"key":"99zy","name":"\u7396\u7396","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0,"categories":["\u56fd\u4ea7\u7cbe\u54c1","\u65e0\u7801\u4e13\u533a","\u4e2d\u6587\u5b57\u5e55","\u0053\u004d\u6346\u7ed1","\u5f3a\u5978\u4e71\u4f26","\u4eba\u59bb\u719f\u5973","\u4e9a\u6d32\u60c5\u8272","\u5236\u670d\u4e1d\u889c"]},
     {"key":"bttcj","name":"\u535a\u5929\u5802","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0,"categories":["\u56fd\u4ea7\u4f26\u7406","\u65e5\u672c\u4f26\u7406","\u97e9\u56fd\u4f26\u7406","\u6b27\u7f8e\u4f26\u7406","\u9999\u6e2f\u4f26\u7406"]},
     {"key":"maozy","name":"\u8272\u732b\u8d44\u6e90","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://api.maozyapi.com/inc/api.php","categories":["\u56fd\u4ea7\u81ea\u62cd","\u65e5\u672c\u65e0\u7801","\u6b27\u7f8e\u7cbe\u54c1","\u65e5\u672c\u7d20\u4eba","\u6620\u753b\u4f20\u5a92","\u7f51\u7ea2\u4e3b\u64ad","\u4eba\u59bb\u719f\u5973","\u7f8e\u4e73\u5de8\u4e73","\u9ad8\u6e05\u540d\u4f18","\u841d\u8389\u5c11\u5973","\u4e2d\u6587\u5b57\u5e55","\u6210\u4eba\u52a8\u6f2b"]},
+    {"key":"010ai","name":"\u0030\u0031\u0030\u7231","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1},
     {"key":"secj","name":"\u8272\u8272","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://secj8.com/inc/sapi.php?ac=videolist","categories":["\u5077\u62cd\u81ea\u62cd","\u65e0\u7801\u4e13\u533a","\u6b27\u7f8e\u6027\u7231","\u4e9a\u6d32\u60c5\u8272","\u4e2d\u6587\u5b57\u5e55","\u4eba\u59bb\u719f\u5973","\u5f3a\u5978\u4e71\u4f26","\u4e1d\u889c\u7f8e\u817f","\u5236\u670d\u5e08\u751f","\u5361\u901a\u52a8\u6f2b"]}
   ],
   "parses":[
