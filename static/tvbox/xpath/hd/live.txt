@@ -144,7 +144,7 @@ TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 龙华电影,http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8
 龙祥时代,http://171.108.239.96:8181/tsfile/live/1011_1.m3u8
 
-XHM\u76f4\u64ad,#genre#
+XHM直播,#genre#
 淫女集中营,http://awnda.dianfenglanqiu.cn/live/cx_358563.flv
 混血美少女战士,http://l4.iiun666.cn/live/cx_14954.flv
 冰淇淋女孩,http://ufo.qxiaolei.top/live/cx_360406.flv
@@ -184,7 +184,7 @@ SM制服控,http://02b.expo-hf.com/live/cx_357227.flv
 红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
 大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
 
-YY\u76f4\u64ad,#genre#
+YY直播,#genre#
 993热舞,http://mmitv.top/pltv/yy.php?id=22490906
 佳人如画-郭MINI,http://mmitv.top/pltv/yy.php?id=1349606469
 温馨美人-兰梦莎,http://mmitv.top/pltv/yy.php?id=90144176
@@ -676,7 +676,7 @@ YY王祖贤清纯甜宝,http://mmitv.top/pltv/yy.php?id=1450285522
 甜酷辣妹暖心子,http://mmitv.top/pltv/yy.php?id=1354997439
 妩媚女神冉冉,http://mmitv.top/pltv/yy.php?id=1382701787
 
-KAWAI\u76f4\u64ad,#genre#
+KAWAI直播,#genre#
 秀妹儿,http://bter.widtb.cn/live/cx_9727.flv#http://pull.58hsjf.com/live/cx_10228.flv
 水蜜桃G,http://bter.widtb.cn/live/cx_9273.flv
 小雅,http://bter.widtb.cn/live/cx_7853.flv
@@ -745,7 +745,7 @@ KAWAI\u76f4\u64ad,#genre#
 漂亮姐姐,http://awnda.dianfenglanqiu.cn/live/cx_357858.flv
 糯米团子.,http://77bo.xasy-edu.com/live/cx_6993.flv
 
-AV\u76f4\u64ad,#genre#
+AV直播,#genre#
 JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 彩虹E,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹E,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
