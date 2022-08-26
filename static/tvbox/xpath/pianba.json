@@ -16,7 +16,6 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.pbpb.tv/class/{cateId}-{area}-{by}------{catePg}---{year}.html",
-  //"cateUrl": "https://www.pbpb.tv/sort/{cateId}-{catePg}.html",
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]//li//a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
