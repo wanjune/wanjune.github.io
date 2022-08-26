@@ -1,6 +1,7 @@
 ﻿{
   "author": "wanjune",
-  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
+  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  // https://www.jubaibai.top https://www.jubaibai.xyz/
   "homeUrl": "https://www.jubaibai.cc",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
