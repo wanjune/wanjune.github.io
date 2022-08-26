@@ -653,11 +653,11 @@ TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+澳门Macau,http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
+澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
+澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://epg.112114.xyz/lotus
-澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
-澳门葡语,http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
-澳门葡语,http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
 澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w600459343.m3u8
 澳门葡语,http://61.244.22.4/ch2/ch2.live/master.m3u8
 澳门葡语,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
@@ -804,7 +804,6 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
 路飞海盗,http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
 猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-猫和老鼠,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=6664ed8cca112d7969a8054d5cca0e16&wsTime=61c07290&uid=581998485&seqid=1640520617000.0&t=103&uuid=3033046507&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 猫和老鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 名贞探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
