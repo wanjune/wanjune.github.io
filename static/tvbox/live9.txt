@@ -649,19 +649,18 @@ CNC-新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m
 HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-澳门Macau,http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
-澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
-澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://epg.112114.xyz/lotus
-澳门葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w600459343.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/master.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
+澳门葡语,http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
+澳门葡语,http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
+澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w600459343.m3u8
+澳门葡语,http://61.244.22.4/ch2/ch2.live/master.m3u8
+澳门葡语,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门葡语,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
@@ -910,7 +909,17 @@ CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
 
 🇨🇳丨上海,#genre#
-东方,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-dongfangstv/1.m3u8?IASHttpSessionId=OTT?zshangd
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+上海纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
 东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8?zshangd
 第一财经,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8?zshangd
