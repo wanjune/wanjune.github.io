@@ -25,7 +25,7 @@
     {"key":"csp_xpath_miaole","name":"喵乐[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaole.json"},
     {"key":"csp_xpath_94sm","name":"神马影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/94sm.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json"},
-    {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json"},
+    {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","+港台","电影"]},
     {"key":"csp_xpath_lranc","name":"天天影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lranc.json"},
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},
     {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
