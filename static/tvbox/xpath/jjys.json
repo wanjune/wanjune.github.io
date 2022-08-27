@@ -1,4 +1,4 @@
-{
+{ // 94sm 神马影视
   "author": "wanjune",
   "ua": "",
   "homeUrl": "https://www.jiujiukanpian.com",
@@ -8,7 +8,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
-  "homeVodNode": "(//div[@class='movie-item' and not(.//img[@class='indexfl'])]/a)[position()<13]",
+  "homeVodNode": "//div[@class='row'][1]//div[@class='movie-item']/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/show/(\\w+).html",
