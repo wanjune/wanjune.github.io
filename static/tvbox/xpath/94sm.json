@@ -1,0 +1,80 @@
+{
+  "author": "wanjune",
+  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "homeUrl": "https://www.hyingku.com",
+  "dcVipFlag": "true",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateManual": {"动漫":"3","综艺":"4","剧集":"2","电影":"1","音乐":"6","u4f26\u7406":"5"},
+  "homeVodNode": "//div[contains(@class, 'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/show/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
+  "cateUrl": "https://www.hyingku.com/type/{cateId}{by}/{catePg}.html",
+  "cateVodNode": "//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/show/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
+  "dtUrl": "https://www.hyingku.com/show/{vid}.html",
+  //"dtNode": "//div[contains(@class,'stui-content col-pd')]",
+  "dtNode": "//body",
+  "dtName": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/@title",
+  "dtNameR": "",
+  "dtImg": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate":  "//span[contains(@class,'text-muted') and contains(text(), '类型')]/following-sibling::a[1]/text()",
+  "dtCateR": "",
+  "dtArea": "//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::a[1]/text()",
+  "dtAreaR": "",
+  "dtDirector": "//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::a/text()",
+  "dtDirectorR": "",
+  "dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::a/text()",
+  "dtActorR": "",
+  "dtYear": "//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::a[1]/text()",
+  "dtYearR": "",
+  "dtMark": "//div[contains(@class,'remarks-bg')]/text()",
+  "dtMarkR": "",
+  "dtDesc": "//span[@class='detail-sketch']/text()",
+  "dtDescR": "",
+  "dtFromNode": "//a[@data-toggle='tab' and contains(@href,'play')]",
+  "dtFromName": "/text()",
+  "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/player/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.hyingku.com/player/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://www.hyingku.com/search?wd={wd}",
+  "scVodNode": "//a[@class='v-thumb stui-vodlist__thumb lazyload']",
+  "scVodName": "@title",
+  "scVodId": "@href",
+  "scVodIdR": "/show/(\\w+).html",
+  "scVodImg": "@data-original",
+  "scVodMark": "",
+  "filter": {
+    "1": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "2": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "3": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "4": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "5": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "6": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ]
+  }
+}
