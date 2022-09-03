@@ -28,7 +28,7 @@
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//p[@class='data hidden-xs'][1]/text()",
   "dtCateR": "类型：(\\S+) / 地区",
-  "dtYear": "/p[@class='data visible-xs'][3]/text()",
+  "dtYear": "//p[@class='data visible-xs'][3]/text()",
   "dtYearR": "年份：(\\S+)",
   "dtArea": "//p[@class='data visible-xs'][1]/text()",
   "dtAreaR": "地区：(\\S+)",
