@@ -26,18 +26,18 @@
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'stui-content__thumb')]/a/img/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "//p[contains(@class,'data')][4]/text()",
-  "dtCateR": "\\S+：(\\S+)",
-  "dtYear": "//p[contains(@class,'data')][3]/text()",
-  "dtYearR": "\\S+：(\\S+)",
-  "dtArea": "//p[contains(@class,'data')][1]/text()",
-  "dtAreaR": "\\S+：(\\S+)",
-  "dtMark": "//p[contains(@class,'data')][7]/text()",
-  "dtMarkR": "\\S+：(\\S+)",
-  "dtDirector": "//p[contains(@class,'data')][6]/text()",
-  "dtDirectorR": "\\S+：(\\S+)",
-  "dtActor": "//p[contains(@class,'data')][5]/text()",
-  "dtActorR": "\\S+：(\\S+)",
+  "dtCate": "//p[@class='data hidden-xs'][1]/text()",
+  "dtCateR": "类型：(\\S+) / 地区",
+  "dtYear": "/p[@class='data visible-xs'][3]/text()",
+  "dtYearR": "年份：(\\S+)",
+  "dtArea": "//p[@class='data visible-xs'][1]/text()",
+  "dtAreaR": "地区：(\\S+)",
+  "dtMark": "//p[@class='data']/span/text()",
+  "dtMarkR": "",
+  "dtDirector": "//p[@class='data' and contains(text(),'导演：')]/a/text()",
+  "dtDirectorR": "",
+  "dtActor": "//p[@class='data' and contains(text(),'主演：')]/a/text()",
+  "dtActorR": "",
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[@class='nav nav-tabs dpplay pull-right']/li/a",
@@ -96,7 +96,7 @@
       {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
       {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
     ]},
-    {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+    {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "2": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
@@ -137,7 +137,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "3": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
@@ -184,7 +184,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "4": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
@@ -219,7 +219,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "19": [
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
@@ -227,7 +227,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ]
   
   }
