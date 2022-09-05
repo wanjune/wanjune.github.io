@@ -2,10 +2,7 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0902w.dylib;md5;F91D55955E02050E04EF22C0307C3585",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"9E03","name":"9E国语[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/lh2513/live/raw/branch/root/json/9E03.jar"},
-    {"key":"csp_Alist","name":"Alist[SP]","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/Alist.json"},
-    {"key":"csp_Juhuang","name":"剧荒[SP]","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"学堂","name":"📚学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","日韩剧","欧美剧","电影"]},
@@ -49,6 +46,7 @@
     {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
     {"key":"csp_biubiu_fantuan","name":"饭团影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/fantuan.json"},
     // {"key":"csp_biubiu_daxiangtv","name":"大象TV[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/daxiangtv.json"},
+    {"key":"csp_biubiu_bcys","name":"北川影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/bcys.json"},
     {"key":"csp_biubiu_shdy","name":"骚火电影[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/shdy.json"},
     {"key":"csp_biubiu_ysgc","name":"影视工厂[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/ysgc.json"},
     {"key":"csp_biubiu_vip280","name":"VIP电影[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/vip1280.json"},
