@@ -2,7 +2,10 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0902w.dylib;md5;F91D55955E02050E04EF22C0307C3585",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"csp_BBB","name":"B站[SP]","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/%E5%93%94%E5%93%A9.json"},
+    {"key":"9E03","name":"9E国语[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/lh2513/live/raw/branch/root/json/9E03.jar"},
+    {"key":"csp_Alist","name":"Alist[SP]","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/Alist.json"},
+    {"key":"csp_Juhuang","name":"剧荒[SP]","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"学堂","name":"📚学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","日韩剧","欧美剧","电影"]},
