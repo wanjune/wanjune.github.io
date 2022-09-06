@@ -38,7 +38,6 @@
     {"key":"csp_xpath_dianyingn","name":"电影牛[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dianyingn.json"},
     {"key":"csp_xpath_1010","name":"双十电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/1010dy.json"},
     {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
-    {"key":"csp_xpath_135kan","name":"135看看[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/135kan.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
     {"key":"csp_xpath_czzy","name":"厂长资源[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/czzy.json"},
@@ -88,6 +87,7 @@
     {"key":"csp_appysv2_qingdou","name":"青豆视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod","categories":["动漫","综艺","电视剧","电影","B站"]},
     {"key":"csp_appysv2_dd88","name":"迪迪影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/","categories":["动漫","综艺","连续剧","电影","纪录片"]},
     {"key":"csp_appysv2_lstv","name":"冷视TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
+    {"key":"net_beiyan","name":"北燕资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["动漫","综艺","连续剧","国产剧","港台剧","日韩剧","欧美剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
