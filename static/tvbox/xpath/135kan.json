@@ -15,7 +15,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "/span[@class='pic-text text-right']/text()",
-  "cateUrl": "https://www.135kan.com/show/{cateId}{area}{by}{year}/page/{catePg}/",
+  "cateUrl": "https://www.135kan.com/show/{cateId}{area}{by}/page/{catePg}{year}/",
   "cateVodNode": "//div[@class='myui-vodlist__box']/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
