@@ -90,6 +90,7 @@
     {"key":"net_youku","name":"优酷[NET]","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","动漫","综艺","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","奇幻片","纪录片"]},
     {"key":"net_mzkj","name":"木子看剧[NET]","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"net_yim","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"net_beiyan","name":"北雁资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","国产剧","日韩剧","欧美剧","港台剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
