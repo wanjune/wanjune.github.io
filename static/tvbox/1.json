@@ -95,6 +95,8 @@
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
+    {"name":"并发","type":2,"url":"Parallel"},
+    {"name":"轮询","type":2,"url":"Sequence"},
     {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name":"PWix0","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"PWix1","type":0,"url":"https://vip.parwix.com:4433/player/?url="},
