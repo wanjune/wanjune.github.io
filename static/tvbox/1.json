@@ -120,6 +120,7 @@
     {"name":"人人迷","type":1,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"9亿","type":1,"url":"https://m3u8.look4you.top/?url="},
     {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+    {"name":"PRO","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
     {"name":"LELE","type":1,"url":"https://lecurl.cn/?url="},
     {"name":"JY","type":1,"url":"https://jx.playerjy.com/?url="},
     {"name":"MAO","type":1,"url":"https://www.mtosz.com/erzi.php?url="}
