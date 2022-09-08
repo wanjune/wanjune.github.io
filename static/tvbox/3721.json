@@ -1,15 +1,12 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/sp0902w.dylib;md5;F91D55955E02050E04EF22C0307C3585",
+  "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
 
 
-    {"key":"putaozy","name":"葡萄","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"naichaapi","name":"奶茶","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","playUrl":"https://jiexi.naichaapi.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"xinlangapi","name":"新浪","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"ylzy","name":"鱼乐","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"nguozy","name":"南国","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"sakurazy","name":"樱花","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"leyuzyapi","name":"乐鱼","type":0,"api":"https://www.leyuzyapi.com/inc/seacmsapi.php","playUrl":"https://player.leyuzy.net/?url="},
 
