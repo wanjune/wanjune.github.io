@@ -93,7 +93,6 @@
     {"key":"net_yim","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_beiyan","name":"北雁资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","国产剧","日韩剧","欧美剧","港台剧","电影"]},
-    {"key":"csp_appysv2_ttsp","name":"天天视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
