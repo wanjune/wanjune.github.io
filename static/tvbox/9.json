@@ -93,6 +93,7 @@
     {"key":"net_yim","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_beiyan","name":"北雁资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","国产剧","日韩剧","欧美剧","港台剧","电影"]},
+    {"key":"csp_appysv2_ttsp","name":"天天视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
@@ -108,9 +109,8 @@
     {"name":"爱酷","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
     {"name":"珂语","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
-    {"name":"诺讯1","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-    {"name":"诺讯2","type":1,"url":"https://www.nxflv.com/?url="},
-    {"name":"诺讯3","type":1,"url":"https://www.ckmov.com/?url="},
+    {"name":"诺讯1","type":1,"url":"https://www.nxflv.com/?url="},
+    {"name":"诺讯2","type":1,"url":"https://www.ckmov.com/?url="},
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":1,"url":"https://nbjx.vip/?url="},
     {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
