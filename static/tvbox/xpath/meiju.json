@@ -7,7 +7,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"少儿":"29","动漫":"4","综艺":"5","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","纪录":"3","哔哩":"24","\u4f26\u7406":"lunli"},
+  "cateManual": {"少儿":"29","动漫":"4","综艺":"5","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","纪录":"3","哔哩":"24"},
   "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
   "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
   "homeVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
@@ -214,9 +214,6 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"按更新","v":"time"},{"n":"周人气","v":"hits_week"},{"n":"月人气","v":"hits_month"}]}
-    ],
-    "lunli": [
       {"key":"by","name":"排序","value":[{"n":"按更新","v":"time"},{"n":"周人气","v":"hits_week"},{"n":"月人气","v":"hits_month"}]}
     ]
   }
