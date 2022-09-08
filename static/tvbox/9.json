@@ -4,9 +4,7 @@
   "sites":[
 
 
-    
-
-    {"key":"csp_biubiu_renren","name":"人人影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/00700/tomato/src/branch/main/XPath/rttks.json"},
+    {"key":"csp_xpath_renren","name":"人人影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/00700/tomato/src/branch/main/XPath/rttks.json"},
 
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
