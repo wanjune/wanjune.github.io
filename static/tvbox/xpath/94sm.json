@@ -5,7 +5,7 @@
   "dcVipFlag": "true",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6","\u4f26\u7406":"5"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
   "homeVodNode": "//div[contains(@class,'stui-pannel stui-pannel-bg')][1]//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -67,12 +67,6 @@
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ],
     "4": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
-    ],
-    "5": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
-    ],
-    "6": [
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ]
   }
