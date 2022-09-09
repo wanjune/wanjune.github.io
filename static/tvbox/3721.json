@@ -45,6 +45,7 @@
     {"name":"诺讯2","type":1,"url":"https://www.ckmov.com/?url="},
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":1,"url":"https://nbjx.vip/?url="},
+    {"name":"TC","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}},
     {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
     {"name":"8090","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
     // {"name":"爱酷","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
