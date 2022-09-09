@@ -206,7 +206,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 
-# 上海本地
+🍃丨上海,#genre#
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
@@ -216,6 +216,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+东方财经,http://140.207.241.3:8080/live/program/live/dfcj/1300000/d1.m3u8
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
 上海新闻,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/2300000/mnf.m3u8
@@ -356,6 +358,9 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 优漫卡通,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 哈哈炫动,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
+动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 金鹰卡通,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
