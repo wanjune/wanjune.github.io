@@ -11,6 +11,11 @@
     {"key":"csp_biubiu_readav","name":"爱看影院[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/readavxb.json"},
     {"key":"csp_biubiu_sogouyy","name":"搜狗影院[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/sogouyy.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
 
+    {"key":"csp_appysv2_btys","name":"百淘影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
+    {"key":"csp_appysv2_wnvod","name":"万能影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+    {"key":"csp_appysv2_douli","name":"兜里TV[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://app.douli.cc/api.php/v1.vod"},
+
+
     {"key":"yulezy","name":"\u4e50\u9c7c","type":0,"api":"https://www.leyuzyapi.com/inc/seacmsapi.php","playUrl":"https://player.leyuzy.net/?url=","categories":["\u56fd\u4ea7\u81ea\u62cd","\u65e5\u672c\u65e0\u7801","\u6b27\u7f8e\u7cbe\u54c1","\u4e2d\u6587\u5b57\u5e55"]},
     {"key":"wmcj","name":"\u73af\u4e9a","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"xiuse","name":"\u79c0\u8272","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u56fd\u4ea7\u7cbe\u54c1","\u6b27\u7f8e\u7cbe\u54c1","\u81ea\u62cd\u5077\u62cd","\u9ad8\u6e05\u534e\u8bed","\u65e5\u97e9\u65e0\u7801","\u5c0f\u89c6\u9891","\u4eba\u59bb\u7cfb\u5217","\u0053\u004d\u91cd\u53e3\u5473","\u6f6e\u5439\u55b7\u5c04"]},
