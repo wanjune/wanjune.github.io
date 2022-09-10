@@ -4,7 +4,7 @@
   // https://www.1010dy2.com  https://www.1010dy3.com  https://www.1010dy.fun  https://www.2020dy.cc
   "homeUrl": "https://www.1010dy1.com",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.1010dy1.com/js/playerconfig.js",
+  "pCfgJs": "https://www.1010dy1.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
