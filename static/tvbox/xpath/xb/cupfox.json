@@ -18,7 +18,7 @@
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=50",
-  "sousuohouzhui": "/voddetail/",
+  "sousuohouzhui": "/cupfox/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -52,7 +52,7 @@
   "bfyjiequhou": "空",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "<span>",
+  "bfbiaotiqian": "<span >",
   "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
