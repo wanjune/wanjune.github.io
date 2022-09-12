@@ -2,8 +2,6 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"csp_biubiu_cupfox","name":"茶杯狐[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/cupfox.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
-
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_biubiu_tingbook","name":"🎶听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
@@ -13,6 +11,7 @@
     {"key":"csp_xpath_mfdytt","name":"电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/mfdytt.json"},
     {"key":"csp_biubiu_readav","name":"爱看影院[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/readavxb.json"},
     {"key":"csp_biubiu_sogouyy","name":"搜狗影院[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/sogouyy.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
+    {"key":"csp_biubiu_cupfox","name":"茶杯狐[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/cupfox.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"yulezy","name":"\u4e50\u9c7c","type":0,"api":"https://www.leyuzyapi.com/inc/seacmsapi.php","playUrl":"https://player.leyuzy.net/?url=","categories":["\u56fd\u4ea7\u81ea\u62cd","\u65e5\u672c\u65e0\u7801","\u6b27\u7f8e\u7cbe\u54c1","\u4e2d\u6587\u5b57\u5e55"]},
     {"key":"wmcj","name":"\u73af\u4e9a","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"xiuse","name":"\u79c0\u8272","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u56fd\u4ea7\u7cbe\u54c1","\u6b27\u7f8e\u7cbe\u54c1","\u81ea\u62cd\u5077\u62cd","\u9ad8\u6e05\u534e\u8bed","\u65e5\u97e9\u65e0\u7801","\u5c0f\u89c6\u9891","\u4eba\u59bb\u7cfb\u5217","\u0053\u004d\u91cd\u53e3\u5473","\u6f6e\u5439\u55b7\u5c04"]},
@@ -51,7 +50,6 @@
     {"name":"TC","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}},
     {"name":"OK","type":1,"url":"https://okjx.cc/?url="},
     {"name":"8090","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
-    // {"name":"爱酷","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
     {"name":"腾讯云","type":1,"url":"https://api.jhdyw.vip/?url="},
     {"name":"星驰","type":1,"url":"https://vip.swuii.top/?url="},
     {"name":"人人迷","type":1,"url":"https://jx.blbo.cc:4433/?url="},
