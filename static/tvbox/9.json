@@ -2,6 +2,9 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
+    {"key":"csp_Smdyy","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_AppTT","name":"🐰tutu(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":0,"searchable":0,"categories":["动漫","综艺","电视剧","日韩剧","欧美剧","电影"]},
