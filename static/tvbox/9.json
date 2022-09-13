@@ -1,5 +1,6 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
+  // "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
+  "spider": "https://gitea.com/kewinserry/TVBox/raw/branch/main/jar/xxoo911.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_Smdyy","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
