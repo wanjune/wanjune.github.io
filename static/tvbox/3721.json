@@ -2,7 +2,8 @@
   "spider":"https://wanjune.github.io/static/tvbox/sp0907xc.dylib;md5;md5;3107005833F4C801D3BA9E871AF57021",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影"]},
+    {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
+    {"key":"goldnecklace","name":"金莲","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
     {"key":"csp_xpath_555hd","name":"555影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
