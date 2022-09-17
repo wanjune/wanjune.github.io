@@ -7,7 +7,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","记录":"5"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","记录":"29"},
   "homeVodNode": "//a[@class='module-poster-item module-item']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
