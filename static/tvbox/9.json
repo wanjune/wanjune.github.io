@@ -38,7 +38,6 @@
     {"key":"csp_xpath_yanet","name":"鸭奈飞[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yanet.json"},
     {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_dianyingn","name":"电影牛[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dianyingn.json"},
-    {"key":"csp_xpath_1010","name":"双十电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/1010dy.json"},
     {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
