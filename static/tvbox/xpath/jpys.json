@@ -3,7 +3,7 @@
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "https://www.jpys.me",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.5dy6.cc/static/js/playerconfig.js",
+  "pCfgJs": "https://www.jpys.me/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
