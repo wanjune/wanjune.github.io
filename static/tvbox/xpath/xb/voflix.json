@@ -8,7 +8,7 @@
   "fenlei": "动漫$/show/4--time------#综艺$/show/3--time------#剧集$/show/2--time------#+国产$/show/13--time------#+日韩$/show/15--time------#+欧美$/show/16--time------#电影$/show/1--time------",
   "houzhui": "---.html",
   "shifouercijiequ": "1",
-  "jiequqian": "module-page",
+  "jiequqian": "module-items module-poster-items-base",
   "jiequhou": "class=\"fixedGroup",
   "jiequshuzuqian": "<a",
   "jiequshuzuhou": "no-referrer",
