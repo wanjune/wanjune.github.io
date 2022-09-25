@@ -3,10 +3,8 @@
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","searchable":0,"quickSearch":0,"filterable":1},
-    {"key":"csp_appysv2_9303","name":"9亿国语[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
-    {"key":"csp_SP293","name":"293视频[SP]","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/293.dylib;md5;2EEC1CE94F1FC91E75CF240F23677037"},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
+    {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","searchable":0,"quickSearch":0,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","综艺","韩剧","日剧","美剧","英剧","电影","纪录片","其他","全部"]},
@@ -64,6 +62,10 @@
     {"key":"csp_biubiu_niumatv","name":"牛马TV[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/niumatv.json"},
     {"key":"csp_biubiu_huamaotv","name":"花猫TV[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/huamaotv.json"},
     {"key":"csp_biubiu_citydy","name":"城市电影[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/citydy.json"},
+    {"key":"net_beiyan","name":"北雁资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","国产剧","日韩剧","欧美剧","港台剧","电影"]},
+    {"key":"net_yimeng","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"csp_appysv2_9eguoyu","name":"9亿国语[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_52kj","name":"52看剧[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_appysv2_btys","name":"百淘影视[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_appysv2_akys","name":"爱酷影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
@@ -77,9 +79,6 @@
     {"key":"csp_appysv2_pntao","name":"悟空影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","B站"]},
     {"key":"csp_appysv2_tcspvip","name":"天诚影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_dd88","name":"迪迪影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/","categories":["动漫","综艺","连续剧","电影","纪录片"]},
-    {"key":"net_yimeng","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
-    {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
-    {"key":"net_beiyan","name":"北雁资源[NET]","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","国产剧","日韩剧","欧美剧","港台剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
