@@ -29,7 +29,7 @@
     {"key":"csp_xpath_wmkk","name":"完美看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wmkk.json"},
     {"key":"csp_xpath_wnvod","name":"万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
-    {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
+    {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
     {"key":"csp_xpath_miaole","name":"喵乐TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaole.json"},
     {"key":"csp_xpath_94sm","name":"神马影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/94sm.json"},
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json"},
