@@ -15,7 +15,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://zxzj.vip/vodshow/{cateId}--{by}-{class}-----{catePg}---{year}.html",
+  "cateUrl": "https://zxzj.vip/list/{cateId}-{catePg}.html",
   "cateVodNode": "//a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
