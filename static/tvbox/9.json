@@ -37,7 +37,7 @@
     {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
     {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_dianyingn","name":"电影牛[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dianyingn.json"},
-    {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
+    {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_czzy","name":"厂长资源[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/czzy.json"},
     {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrd.json","categories":["动漫","综艺","剧集","电影"]},
@@ -78,7 +78,7 @@
     {"key":"csp_appysv2_pntao","name":"悟空影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影","B站"]},
     {"key":"csp_appysv2_tcspvip","name":"天诚影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_dd88","name":"迪迪影院[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/","categories":["动漫","综艺","连续剧","电影","纪录片"]},
-    {"key":"csp_appysv2_klys","name":"可乐影视[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://klyingshi.com/api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
+    {"key":"csp_appysv2_klys","name":"可乐影视[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://klyingshi.com/api.php/v1.vod","categories":["动漫","综艺","电视剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "parses":[
