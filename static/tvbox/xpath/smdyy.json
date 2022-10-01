@@ -14,6 +14,7 @@
   "homeVodId": "/@href",
   "homeVodIdR": "/kan/(\\w+).html",
   "homeVodImg": "/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.smdyy.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
@@ -21,6 +22,7 @@
   "cateVodId": "/@href",
   "cateVodIdR": "/kan/(\\w+).html",
   "cateVodImg": "/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://www.smdyy.cc/kan/{vid}.html",
   "dtNode": "//body",
@@ -58,7 +60,8 @@
   "scVodId": "@href",
   "scVodIdR": "/kan/(\\w+).html",
   "scVodImg": "@data-original",
-  "scVodMark": "",
+  "scVodImgR": "\\S+(http\\S+)",
+  "scVodMark": "/span[contains(@class,'pic-text')]/text()",
   "filter": {
     "1": [
       {"name":"分类","key":"cateId","value":[{"n":"全部","v":"1"},
