@@ -45,7 +45,7 @@
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[@class='stui-pannel__head clearfix' and contains(./h3/@class,'play')]",
-  "dtFromName": "normalize-space(/h3/text())",
+  "dtFromName": "/h3/text()",
   "dtUrlNode": "//div[@class='stui-pannel__head clearfix' and contains(./h3/@class,'play')]/parent::*/ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
