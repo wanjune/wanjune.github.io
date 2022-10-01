@@ -31,7 +31,7 @@
     {"key":"csp_xpath_wnvod","name":"万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
     {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
-    {"key":"csp_xpath_94sm","name":"神马影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/94sm.json"},
+    {"key":"csp_xpath_hyingku","name":"嗨影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hyingku.json"},
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json"},
     {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","+港台","电影"]},
     {"key":"csp_xpath_rttks","name":"人人影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/rttks.json"},
