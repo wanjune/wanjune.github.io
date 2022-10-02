@@ -18,6 +18,7 @@
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lib.json"},
     {"key":"csp_xpath_789ba","name":"789BA[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
     {"key":"csp_xpath_348z","name":"348电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/348z.json"},
+    {"key":"csp_xpath_shdy","name":"骚火电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/shdy.json"},
     {"key":"csp_xpath_cokemv","name":"Cokemv[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
     {"key":"csp_xpath_ddg","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_xqmi","name":"小强迷[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xqmi.json"},
@@ -27,7 +28,7 @@
     {"key":"csp_xpath_007","name":"007影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/007.json"},
     {"key":"csp_xpath_umkan","name":"UM影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/umkan.json"},
     {"key":"csp_xpath_pianba","name":"片吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pianba.json"},
-    {"key":"csp_xpath_6dtv","name":"6度TV[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/6dtv.json"},
+    {"key":"csp_xpath_6dtv","name":"6度TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/6dtv.json"},
     {"key":"csp_xpath_doujiao","name":"豆角网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/doujiaow.json"},
     {"key":"csp_xpath_wmkk","name":"完美看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wmkk.json"},
     {"key":"csp_xpath_wnvod","name":"万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
@@ -47,9 +48,6 @@
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_biubiu_cupfox","name":"茶杯狐[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/cupfox.json","categories":["动漫","综艺","剧集","+国产","+韩国","+日本","+欧美","电影"]},
     {"key":"csp_biubiu_bcys","name":"北川影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/bcys.json"},
-    {"key":"csp_biubiu_shdy","name":"骚火电影[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/shdy.json"},
-
-
     {"key":"csp_biubiu_wuguiyy","name":"乌龟影院[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/wuguiyy.json"},
     {"key":"csp_biubiu_ysgc","name":"影视工厂[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/ysgc.json"},
     {"key":"csp_biubiu_vip280","name":"VIP电影[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/vip1280.json"},
