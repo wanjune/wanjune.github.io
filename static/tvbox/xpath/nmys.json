@@ -15,7 +15,7 @@
   "homeVodImg": "//@data-echo",
   "homeVodImgR": "",
   "homeVodMark": "/div/span[2]/span/text()",
-  "cateUrl": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}--pg-{catePg}-order--by-{by}-year-{year}-area-{area}.html",
+  "cateUrl": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html",
   "cateVodNode": "//ul[@class='resize_list']/li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
