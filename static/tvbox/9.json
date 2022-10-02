@@ -17,11 +17,8 @@
     {"key":"csp_xpath_pipipao","name":"皮皮泡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pipipao.json"},
     {"key":"csp_xpath_lib","name":"LIBVIO[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lib.json"},
     {"key":"csp_xpath_789ba","name":"789BA[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
-
-
     {"key":"csp_xpath_348z","name":"348电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/348z.json"},
     {"key":"csp_xpath_zjmiao","name":"追剧喵[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zjmiao.json"},
-
     {"key":"csp_xpath_cokemv","name":"Cokemv[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
     {"key":"csp_xpath_ddg","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_xqmi","name":"小强迷[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xqmi.json"},
