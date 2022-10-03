@@ -1,9 +1,9 @@
 {
     "author": "春风",
     "ua": "",
-    "homeUrl": "https://juhuang.tv/",
+    "homeUrl": "https://juhuang.tv",
     "dcVipFlag": "true",
-    "pCfgJs": "https://juhuang.tv//static/js/playerconfig.js",
+    "pCfgJs": "https://juhuang.tv/static/js/playerconfig.js",
     "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
