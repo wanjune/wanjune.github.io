@@ -16,9 +16,6 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[@class='pack-prb hidden']/text()",
   "cateUrl": "https://zjmiao.com/index.php/vod/show/id/{cateId}{area}{class}{by}/page/{catePg}{year}.html",
-  https://zjmiao.com/index.php/vod/show/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/by/hits/class/%E5%96%9C%E5%89%A7/id/1/year/2022/
-  https://zjmiao.com/index.php/vod/show/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/id/1/page/2/year/2022/
-  https://zjmiao.com/index.php/vod/show/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/class/%E5%96%9C%E5%89%A7/id/1/year/2022/
   "cateVodNode": "//div[contains(@class,'vodlist hotgrow')]//a[@class='aplus-exp ecimgbor']",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
