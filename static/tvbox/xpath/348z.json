@@ -9,7 +9,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1"},
-  "homeVodNode": "//div[contains(@class,'vodlist hotgrow') and @id='hot1']//a[@class='aplus-exp ecimgbor']",
+  "homeVodNode": "//div[contains(@class,'vodlist hotgrow') and contains(@id,'hot')]//a[@class='aplus-exp ecimgbor']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\w+).html",
