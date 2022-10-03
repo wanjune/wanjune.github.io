@@ -8,7 +8,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"国产剧":"2","日韩剧":"5","欧美剧":"4","港台剧":"3","泰剧":"22","电影":"1"},
-  "homeVodNode": "//div[@class='stui-pannel stui-pannel-bg clearfix'][position()>2]//div[@class='stui-vodlist__box']/a",
+  "homeVodNode": "//div[@class='stui-vodlist__box']/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/movie/index(\\S+).html",
