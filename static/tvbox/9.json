@@ -20,8 +20,9 @@
     {"key":"csp_xpath_shdy","name":"骚火电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/shdy.json"},
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},
     
-    
+    {"key":"csp_xpath_jubaibai","name":"剧白白[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jubaibai.json"},
     {"key":"csp_xpath_f7yy","name":"F7影院[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/f7yy.json"},
+    {"key":"csp_xpath_zjmiao","name":"追剧喵[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zjmiao.json"},
 
 
     {"key":"csp_xpath_ddg","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
