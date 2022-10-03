@@ -2,38 +2,6 @@
   "spider":"https://wanjune.github.io/static/tvbox/jar/1001.dylib;md5;B8FA3D2B798DD85E23D35EBA410BA30C",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-
-    {
-      "key": "csp_xpath_lkvod",
-      "name": "耐看点播(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/66a6u6x4.json"
-      },
-      {
-        "key": "csp_xpath_dingzidy",
-        "name": "钉子电影(XP)",
-        "type": 3,
-        "api": "csp_XPath",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/1x0cqm4e.json"
-      },
-      {
-        "key": "csp_xpath_zj883",
-        "name": "追剧网(XP)",
-        "type": 3,
-        "api": "csp_XPath",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ueqwdv26.json"
-      },
-
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_KanSJ","name":"看视界[SP]","type":3,"api":"csp_KanSJ","searchable":0,"quickSearch":0,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -53,6 +21,12 @@
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},    
     {"key":"csp_xpath_f7yy","name":"F7影院[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/f7yy.json"},
     {"key":"csp_xpath_shdy","name":"骚火电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/shdy.json"},
+
+
+    {"key":"csp_xpath_lkvod","name":"耐看点播[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lkvod.json"},
+    {"key":"csp_xpath_zj883","name":"追剧网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zj883.json"},
+
+
     {"key":"csp_xpath_ddg","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_xqmi","name":"小强迷[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xqmi.json"},
     {"key":"csp_xpath_pianku","name":"片库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pianku.json"},
