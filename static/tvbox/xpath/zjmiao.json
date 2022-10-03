@@ -12,7 +12,7 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/index.php/vod/detail/id/(\\w+)/",
-  "homeVodImg": "/div/@data-original",
+  "homeVodImg": "/img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[@class='pack-prb hidden']/text()",
   "cateUrl": "https://zjmiao.com/index.php/vod/show/id/{cateId}{area}{class}{by}/page/{catePg}{year}.html",
