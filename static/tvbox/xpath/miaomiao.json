@@ -6,7 +6,7 @@
 	"dcShow2Vip": {},
   "dcPlayUrl": "true",
 	"cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6","\u4f26\u7406":"5"},
-	"homeVodNode": "//div[contains(@id,'listId') and not(contains(@id, '6'))]/div[contains(@class,'movie-list-body')]/div[contains(@class,'movie-list-item')]",
+	"homeVodNode": "//div[contains(@id,'listId') and not(contains(@id,'6'))]/div[contains(@class,'movie-list-body')]/div[contains(@class,'movie-list-item')]",
 	"homeVodName": "/a/div[2]/div[1]/text()",
 	"homeVodId": "/a/@href",
 	"homeVodIdR": "/v(\\S+).html",
