@@ -15,7 +15,7 @@
   "homeVodImg": "/img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[@class='pack-prb hidden']/text()",
-  "cateUrl": "https://zjmiao.com/index.php/vod/show/id/{cateId}{area}{class}{by}/page/{catePg}{year}.html",
+  "cateUrl": "https://zjmiao.com/index.php/vod/show/id/{cateId}{area}{by}{class}/page/{catePg}{year}/",
   "cateVodNode": "//div[contains(@class,'vodlist hotgrow')]//a[@class='aplus-exp ecimgbor']",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
