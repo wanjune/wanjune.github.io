@@ -40,7 +40,6 @@
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json"},
     {"key":"csp_xpath_555dy","name":"555电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/555dy.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","+港台","电影"]},
     {"key":"csp_xpath_rttks","name":"人人影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/rttks.json"},
-    {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
     // {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_bttoo","name":"两个BT[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bttwoo.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
