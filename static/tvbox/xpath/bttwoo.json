@@ -1,11 +1,11 @@
 {
   "author": "wanjune",
+  "desc": "https://www.bttwo.vip",
   "ua": "",
-  // https://www.bttwo.vip
   "homeUrl": "https://www.bttwoo.com",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
-  "cateManual": {"最热":"hot-month","国产剧":"zgjun","欧美剧":"meiju","日韩剧":"jpsrtv","电影":"new-movie"},
+  "cateManual": {"最热":"hot-month","剧集":"dsj","+国产":"zgjun","+日韩":"jpsrtv","+欧美":"meiju","电影":"new-movie"},
   "homeVodNode": "//div[contains(@class,'bt_img')]/ul/li",
   "homeVodName": "/h3/a/text()",
   "homeVodId": "/a/@href",
