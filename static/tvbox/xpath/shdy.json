@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
+  "desc": "https://shdy2.com / https://shdy3.com",
   "ua": "Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0",
-  // https://shdy2.com https://shdy3.com
   "homeUrl": "https://saohuo.vip",
   "dcVipFlag": "true",
   "dcShow2Vip": {},
@@ -13,7 +13,6 @@
   "homeVodIdR": "/movie/(\\w+).html",
   "homeVodImg": "/a/img/@data-original",
   "homeVodMark": "/div[@class='v_note']/text()",
-  // "cateUrl": "https://saohuo.vip/list/{cateId}-{catePg}.html",
   "cateUrl": "https://saohuo.vip/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
   "cateVodNode": "//ul[@class='v_list']/li/div[@class='v_img']",
   "cateVodName": "/a/@title",
