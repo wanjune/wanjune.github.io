@@ -8,7 +8,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"少儿":"19","动漫":"3","综艺":"4","剧集":"2","电影":"1"},
-  "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
+  "homeVodNode": "//div[@class='stui-vodlist__head' and contains(.//h3/text(),'热播推荐')]/following-sibling::ul[1]//div[contains(@class,'stui-vodlist__box')]/a",
   "homeVodName": "/@title",
   "homeVodNameR": "",
   "homeVodId": "/@href",
@@ -115,7 +115,10 @@
         {"n":"恐怖","v":"恐怖"},
         {"n":"经典","v":"经典"},
         {"n":"乡村","v":"乡村"},
-        {"n":"情景","v":"情景"}
+        {"n":"情景","v":"情景"},
+        {"n":"商战","v":"商战"},
+        {"n":"网剧","v":"网剧"},
+        {"n":"其他","v":"其他"}
       ]},
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
         {"n":"大陆","v":"大陆"},
