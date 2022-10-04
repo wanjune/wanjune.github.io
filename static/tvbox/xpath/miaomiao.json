@@ -13,7 +13,7 @@
 	"homeVodImg": "/a/div[1]/div/@data-original",
 	"homeVodImgR": "\\S+(http\\S+)",
 	"homeVodMark": "/a/div[2]/div[3]/text()",
-	"cateUrl": "https://www.2345ka.com/t/{cateId}/{catePg}.html",
+	"cateUrl": "https://www.2345ka.com/t/{cateId}{by}/{catePg}.html",
 	"cateVodNode": "//div[@class='movie-list-body flex']/div[contains(@class,'movie-list-item')]",
 	"cateVodName": "/a/div[2]/div[1]/text()",
 	"cateVodId": "/a/@href",
@@ -58,5 +58,25 @@
 	"scVodId": "/div/a/@href",
 	"scVodIdR": "/v(\\S+).html",
 	"scVodImg": "/div/a/div/@data-original",
-	"scVodMark": "/div/div/div[1]/div[3]/text()"
+	"scVodMark": "/div/div/div[1]/div[3]/text()",
+  "filter": {
+    "1": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "2": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "3": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "4": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "5": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "6": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ]
+  }
 }
