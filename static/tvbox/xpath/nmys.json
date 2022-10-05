@@ -4,7 +4,7 @@
   "homeUrl": "https://v.xiangdao.me",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
-  "cateManual": {"综艺":"3","动漫":"4","剧集":"2","+国产":"12","+日韩":"14","+欧美":"15","电影":"1"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"12","+日韩":"14","+欧美":"15","电影":"1"},
   "homeVodNode": "//section/section[position()>2]//ul[@class='resize_list']/li/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
