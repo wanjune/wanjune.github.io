@@ -8,7 +8,7 @@
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","直播":"52"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1"},
   "homeVodNode": "//div[contains(@class,'vodlist hotgrow') and contains(@id,'hot')]//a[@class='aplus-exp ecimgbor']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -159,12 +159,6 @@
         {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
       ]},
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
-    ],
-    "52": [
-      {"key":"cateId","name":"分类","value":[{"n":"全部","v":"52"},
-        {"n":"央视","v":"53"},
-        {"n":"卫视","v":"54"}
-      ]}
     ],
     "13": [
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
