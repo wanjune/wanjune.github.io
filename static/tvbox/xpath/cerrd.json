@@ -14,7 +14,7 @@
   "homeVodImg": "/a/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//a/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "http://www.cerrd.com/films/{cateId}_{catePg}.html?order={by}",
+  "cateUrl": "http://www.cerrd.com/films/{cateId}_{catePg}.html?order=time",
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div[@class='stui-vodlist__box']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -59,25 +59,5 @@
   "scVodId": "//a/@href",
   "scVodIdR": "",
   "scVodImg": "//a/@data-original",
-  "scVodMark": "//div[contains(@class,'detail')]/allText()",
-  "filter": {
-    "1": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "2": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "3": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "4": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "5": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ],
-    "6": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
-    ]
-  }
+  "scVodMark": "//div[contains(@class,'detail')]/allText()"
 }
