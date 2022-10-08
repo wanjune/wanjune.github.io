@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://cokemv.co 或 https://cokemv.org",
-  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "ua": "",
   "homeUrl": "https://cokemv.me",
   "dcVipFlag": "true",
   "pCfgJs": "https://cokemv.me/static/js/playerconfig.js",
