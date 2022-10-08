@@ -36,7 +36,7 @@
   "dtDirectorR": "",
   // "dtActor": "//span[contains(text(),'主演')]/following-sibling::a/text()",
   // "dtActorR": "",
-  "dtActor": "contact(//span[contains(text(),'主演')]/parent::*//text())",
+  "dtActor": "concat(//span[contains(text(),'主演')]/parent::*//text())",
   "dtActorR": "主演: (\\S+)",
   "dtDesc": "//article[@class='detail-con']/p/text()",
   "dtDescR": "",
