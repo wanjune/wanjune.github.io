@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://cokemv.co 或 https://cokemv.org",
-  "ua": "",
+  "ua": "Dart/2.14 (dart:io)",
   "homeUrl": "https://cokemv.me",
   "dcVipFlag": "true",
   "pCfgJs": "https://cokemv.me/static/js/playerconfig.js",
