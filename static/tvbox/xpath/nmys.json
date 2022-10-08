@@ -32,7 +32,7 @@
   "dtYearR": "",
   "dtArea": "",
   "dtAreaR": "",
-  "dtDirector": "concat(//span[contains(text(),'导演')]/following-sibling::a/text())",
+  "dtDirector": "//span[contains(text(),'导演')]/following-sibling::a/text()",
   "dtDirectorR": "",
   "dtActor": "//span[contains(text(),'主演')]/following-sibling::a/text()",
   "dtActorR": "",
