@@ -3,6 +3,7 @@
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
+    {"key":"csp_xpath_taojuya","name":"淘剧鸭[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/taojuya.json"},
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xpath_hyingku","name":"嗨影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hyingku.json","categories":["动漫","综艺","剧集","电影","音乐","\u4f26\u7406"]},
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json","categories":["动漫","综艺","剧集","电影","音乐","\u4f26\u7406"]},
