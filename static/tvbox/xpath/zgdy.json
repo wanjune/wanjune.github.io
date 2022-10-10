@@ -16,7 +16,7 @@
   "homeVodImg": "//img/@data-src",
   "homeVodImgR": "(https?.+)",
   "homeVodMark": "/div[@class='module-item-text']/text()",
-  "cateUrl": "https://www.chinady.ga/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "cateUrl": "https://www.chinady.ga/vodshow/{cateId}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//div[@class='module-items']/div[@class='module-item']",
   "cateVodName": "//div[@class='module-item-pic']/a/@title",
   "cateVodId": "//div[@class='module-item-pic']/a/@href",
