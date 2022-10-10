@@ -8,16 +8,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {
-    "动漫": "4-",
-    "综艺": "3-",
-    "剧集": "2-",
-    "+国产": "2-内地",
-    "+韩国": "2-韩国",
-    "+日本": "2-日本",
-    "+美国": "2-美国",
-    "电影": "1-"
-  },
+  "cateManual": {"动漫":"4-","综艺":"3-","剧集":"2-","+国产":"2-内地","+韩国":"2-韩国","+日本":"2-日本","+美国":"2-美国","电影":"1-"},
   "homeVodNode": "//a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
