@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "ua": "Mozilla/5.0 (Linux; Android 10; LYA-AL00 Build/HUAWEILYA-AL00L; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.121 Mobile Safari/537.36",
+  "ua": "",
   "homeUrl": "https://juhuang.tv",
   "dcVipFlag": "true",
   "pCfgJs": "https://juhuang.tv/static/js/playerconfig.js",
@@ -8,7 +8,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+中国":"14","+韩国":"13","+日本":"15","+美国":"16","电影":"1","纪录":"21"},
-  "homeVodNode": "//div[@class='module-item']",
+  "homeVodNode": "//div[contains(@class,'module') and (contains(.//h2/text(),'最近更新'))]//div[contains(@class,'selected')]//div[@class='module-item']",
   "homeVodName": "//div[@class='module-item-pic']/a/@title",
   "homeVodId": "//div[@class='module-item-pic']/a/@href",
   "homeVodIdR": "/play/(\\S+)_play_1_1.html",
