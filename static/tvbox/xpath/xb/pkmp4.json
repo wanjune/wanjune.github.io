@@ -48,7 +48,7 @@
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
-  "juqingqian": "<p class=\"sqjj_a",
+  "juqingqian": "<p class=\"sqjj_a\" style=\"display: none;\">",
   "juqinghou": "</p>",
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
