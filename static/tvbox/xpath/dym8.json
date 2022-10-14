@@ -15,7 +15,7 @@
   "homeVodImg": "/a[1]/img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span/em/text()",
-  "cateUrl": "https://www.dym8.com/vod/list/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "cateUrl": "https://www.dym8.com/vod/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//li[contains(@class,'item')]/div[contains(@class,'item-con')]",
   "cateVodName": "/a[1]/@title",
   "cateVodId": "/a[1]/@href",
