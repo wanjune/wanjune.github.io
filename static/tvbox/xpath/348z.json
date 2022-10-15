@@ -40,7 +40,7 @@
   "dtMarkR": "状态：(\\S+)VIP",
   "dtActor": "//p[contains(@class,'item') and contains(./span/text(),'演员')]/a/text()",
   "dtActorR": "",
-  "dtDirector": "//p[contains(@class,'item') and contains(./span/text(),'导演')]/a/text()",
+  "dtDirector": "//p[contains(@class,'item') and contains(./span/text(),'导演')]/span/following-sibling::*/text()",
   "dtDirectorR": "",
   "dtDesc": "//div[contains(@class,'desc_txt')]/span/text()",
   "dtDescR": "(\\S+)348",
