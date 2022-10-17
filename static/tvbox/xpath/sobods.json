@@ -18,7 +18,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/span[@class='pic-text text-right']/text()",
   "homeVodMarkR": "",
-  "cateUrl": "https://www.sobods.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "cateUrl": "https://www.sobods.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
