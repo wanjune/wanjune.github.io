@@ -1,7 +1,8 @@
 ﻿{
   "author": "wanjune",
   "desc": "https://www.sobods.com",
-  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+  //"ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+  "ua": "",
   "homeUrl": "https://www.sobods.com",
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","\u4f26\u7406":"20"},
