@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1012ys.dylib;md5;C14E6D5F5ED7D18D21C001478499FF14",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1015ys.dylib;md5;50F526FE9C971FB1AC5AD1840289A040",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -11,6 +11,7 @@
     {"key":"csp_xpath_jubaibai","name":"剧白白[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jubaibai.json"},
     {"key":"csp_xpath_pipipao","name":"皮皮泡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pipipao.json"},
     {"key":"csp_xpath_libvio","name":"LIBVIO[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
+    {"key":"csp_xpath_sobods","name":"真不卡1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/sobods.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
     {"key":"csp_xpath_789ba","name":"789影吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
     {"key":"csp_xpath_bcys","name":"北川影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bcys.json"},
     {"key":"csp_xpath_xfeiji","name":"小小影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
@@ -46,7 +47,7 @@
     {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","综艺","韩剧","日剧","美剧","英剧","电影","纪录片","其他","全部"]},
     {"key":"csp_AppTT","name":"图图TV[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_xpath_czzy","name":"厂长资源[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/czzy.json"},
-    {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrd.json","categories":["动漫","综艺","剧集","电影"]},
+    {"key":"csp_xpath_cerrd","name":"真不卡2[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrd.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/heihu.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_hyingku","name":"嗨影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hyingku.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_jjys","name":"久久影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json","categories":["动漫","综艺","剧集","电影"]},
