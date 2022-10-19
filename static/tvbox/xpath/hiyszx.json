@@ -13,7 +13,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "/span[@class='note textbg']/text()",
-  "cateUrl": "https://www.hiyszx.com?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+  "cateUrl": "https://www.hiyszx.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
   "cateVodNode": "//a[contains(@class,'videopic')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
