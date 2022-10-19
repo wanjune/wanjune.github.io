@@ -45,7 +45,7 @@
   "dtUrlNode": "//div[@class='playlist collapse in']/ul",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/video/?(\\S+).html",
+  "dtUrlIdR": "/video/\\?(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.hiyszx.com/video/?{playUrl}.html",
