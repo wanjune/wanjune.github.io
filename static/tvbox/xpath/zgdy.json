@@ -51,7 +51,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.zgdy.cn/vodplay/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.zgdy.cn/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
+  "searchUrl": "https://www.zgdy.cn/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
