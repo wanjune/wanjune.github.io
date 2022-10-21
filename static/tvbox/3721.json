@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1020ys.dylib;md5;94685B55873A2352DD12C00D7C5F5160",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1020ys.dylib;md5;CD152892D6F6BB546B7059A3D23C9E49",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
@@ -22,6 +22,9 @@
     {"key":"bttcj","name":"\u535a\u5929\u5802","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u56fd\u4ea7\u4f26\u7406","\u65e5\u672c\u4f26\u7406","\u97e9\u56fd\u4f26\u7406","\u6b27\u7f8e\u4f26\u7406","\u9999\u6e2f\u4f26\u7406"]},
     {"key":"secj","name":"\u8272\u8272","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://secj8.com/inc/sapi.php?ac=videolist","categories":["\u5077\u62cd\u81ea\u62cd","\u65e0\u7801\u4e13\u533a","\u6b27\u7f8e\u6027\u7231","\u4e9a\u6d32\u60c5\u8272","\u4e2d\u6587\u5b57\u5e55","\u4eba\u59bb\u719f\u5973","\u5f3a\u5978\u4e71\u4f26","\u4e1d\u889c\u7f8e\u817f","\u5236\u670d\u5e08\u751f","\u5361\u901a\u52a8\u6f2b"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+  ],
+  "rules":[
+    {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]}
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},

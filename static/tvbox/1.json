@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1020ys.dylib;md5;94685B55873A2352DD12C00D7C5F5160",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1020ys.dylib;md5;CD152892D6F6BB546B7059A3D23C9E49",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -74,6 +74,9 @@
     {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_xyui","name":"XYUI[NET]","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+  ],
+  "rules":[
+    {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]}
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
