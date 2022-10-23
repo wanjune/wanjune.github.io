@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "desc": "https://jubaibai.vip / https://jubaibai.top / https://jubaibai.xyz",
+  "desc": "https://jubaibai.vip  https://jubaibai.top  https://jubaibai.xyz ",
   "ua": "Mozilla/5.0 (Linux; Android 12; M2007J1SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.48 Mobile Safari/537.36",
   "homeUrl": "https://www.jubaibai.me",
   "dcVipFlag": "true",
@@ -63,7 +63,7 @@
   "scVodMark": "",
   "filter": {
     "dianying": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianying"},
         {"n":"动作","v":"dongzuopian"},
         {"n":"喜劇","v":"xijupian"},
         {"n":"愛情","v":"aiqingpian"},
@@ -100,7 +100,7 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "dianshiju": [
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":""},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianshiju"},
         {"n":"国产","v":"guochanju"},
         {"n":"日韓","v":"rihanju"},
         {"n":"欧美","v":"oumeiju"},
