@@ -7,7 +7,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6","\u4f26\u7406":"5"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6"},
   "homeVodNode": "//div[@class='row'][1]//div[@class='movie-item']/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -70,9 +70,6 @@
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ],
     "4": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
-    ],
-    "5": [
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ],
     "6": [
