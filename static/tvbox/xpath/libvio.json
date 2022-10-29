@@ -42,7 +42,7 @@
   "dtDesc": "//div[contains(@class,'stui-content__detail')]/p[6]/span[3]/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]/div[contains(@class,'stui-pannel__head clearfix')]/h3",
-  "dtFromName": "/text()",
+  "dtFromName": "concat(/text(),'-源')",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
