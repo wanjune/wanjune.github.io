@@ -12,7 +12,8 @@
     {"key":"csp_xpath_pipipao","name":"皮皮泡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pipipao.json"},
     {"key":"csp_xpath_libvio","name":"LIBVIO[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"csp_xpath_ysgc","name":"影视工厂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ysgc.json"},
-    {"key":"csp_xpath_wuguiyy","name":"乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wuguiyy.json"},
+    {"key":"csp_xpath_wugui","name":"乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wugui.json"},
+    {"key":"csp_xpath_gimytv","name":"劇迷影音[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/gimytv.json"},
     {"key":"csp_Alist","name":"网盘资源[SP]","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/alist.json"},
     {"key":"csp_xpath_789ba","name":"789影吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
     {"key":"csp_xpath_bcys","name":"北川影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bcys.json"},
@@ -112,9 +113,7 @@
     {"name":"林谷","type":1,"url":"http://s.lingutv.cn/?url="},
     {"name":"猪蹄","type": 0,"url": "https://jx.iztyy.com/svip/?url="}
   ],
-  "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","imgo","芒果","le","letv","leshi","乐视","pptv","PPTV","sohu","搜狐","bilibili","BiLiBiLi","哔哩哔哩","哔哩","xigua","西瓜"
-          ,"tudou","土豆","wasu","华数","xfyun","讯飞","renrenmi","人人迷","cntv","cctv","央视","1905","m1905","cl4k","CL4K","le","rx","wuduzy","ziqie","leduo"
-          ,"ltnb","mahua","ckm3u8","tkm3u8","m3u8","kkm3u8","lbm3u8","lym3u8","wjm3u8","xlm3u8","ddzy","duoduozy","多多资源","wolong"
+  "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","leshi","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","哔哩","xigua","西瓜","tudou","土豆","wasu","华数","m1905","1905"
   ],
   "ijk":[
     {"group":"软解码","options":[
