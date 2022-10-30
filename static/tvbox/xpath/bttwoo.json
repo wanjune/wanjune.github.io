@@ -3,8 +3,6 @@
   "desc": "https://www.bttwo.vip",
   "ua": "",
   "homeUrl": "https://www.bttwoo.com",
-  "dcVipFlag": "true",
-  "dcPlayUrl": "true",
   "cateManual": {"最热":"hot-month","剧集":"dsj","+国产":"zgjun","+日韩":"jpsrtv","+欧美":"meiju","电影":"new-movie"},
   "homeVodNode": "//div[contains(@class,'bt_img')]/ul/li",
   "homeVodName": "/h3/a/text()",

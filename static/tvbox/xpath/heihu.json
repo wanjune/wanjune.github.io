@@ -1,11 +1,8 @@
 {
   "author": "wanjune",
+  "desc": "https://heihu.info ",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
-  // https://heihu.info
   "homeUrl": "http://www.heihu.tv",
-  "dcVipFlag": "true",
-  "dcShow2Vip": {},
-  "dcPlayUrl": "true",
   "cateManual": {"动漫":"3","综艺":"4","剧集":"2","电影":"1","\u4f26\u7406":"40"},
   "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div[@class='stui-vodlist__box']",
   "homeVodName": "/a/@title",

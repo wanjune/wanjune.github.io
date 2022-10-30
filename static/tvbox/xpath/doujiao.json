@@ -2,8 +2,6 @@
   "author": "wanjune",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "https://m.doujiaow5.com",
-  "dcVipFlag": "true",
-  "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"30","剧集":"2","+国产":"12","+韩国":"15","+日本":"17","+美国":"16","电影":"1"},
   "homeVodNode": "//div[@class='con']/a",
   "homeVodName": "/@title",
