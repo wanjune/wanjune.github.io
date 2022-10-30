@@ -35,7 +35,7 @@
   "dtActorR": "",
   "dtDirector": "//div[@class='module-info-item' and contains(./span/text(),'导演')]/div[@class='module-info-item-content']/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[@class='module-info-item module-info-introduction']/div/span/text()",
+  "dtDesc": "//div[contains(@class,'module-info-introduction-content')]/p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div/span",
   "dtFromName": "/text()",
