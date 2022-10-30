@@ -18,7 +18,7 @@
     {"key":"csp_xpath_789ba","name":"789影吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
     {"key":"csp_xpath_xfeiji","name":"小小影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
     {"key":"csp_xpath_348z","name":"348电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/348z.json"},
-    {"key":"csp_xpath_zxdy8","name":"在线电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxdy8.json"},
+    {"key":"csp_xpath_zxdy","name":"在线电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxdy.json"},
     {"key":"csp_xpath_yszx","name":"影视在线[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yszx.json"},
     {"key":"csp_xpath_zjmiao","name":"追剧喵[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zjmiao.json"},
     {"key":"csp_xpath_jpys","name":"极品影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jpys.json"},
