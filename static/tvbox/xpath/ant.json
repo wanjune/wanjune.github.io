@@ -33,7 +33,7 @@
   "dtDirector": "//span[contains(text(),'导演')]/following-sibling::a/text()",
   "dtActor": "//span[contains(text(),'主演')]/following-sibling::a/text()",
   "dtDesc": "//span[@class='data']/p/text()",
-  "dtFromNode": "//ul[@class='nav nav-tabs active']/li/a",
+  "dtFromNode": "//div[contains(./h3/text(),'播放地址')]/ul[@class='nav nav-tabs active']/li/a",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[@class='myui-content__list scrollbar sort-list clearfix']",
