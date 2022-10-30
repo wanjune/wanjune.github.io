@@ -38,7 +38,6 @@
   "dtDesc": "//span[contains(@class,'detail-sketch')]/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'playlist')]//h3",
-  //"dtFromName": "concat(/text(),'-源')",
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",
   "dtUrlSubNode": "/li/a",

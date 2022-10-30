@@ -43,7 +43,7 @@
   "dtActor": "//p[contains(@class,'data')][7]/a/text()",
   "dtActorR": "\\S+：(\\S+)",
   "dtDesc": "//span[@class='detail-content']/text()",
-  "dtFromNode": "//div[@class='stui-vodlist__head']/h3",
+  "dtFromNode": "//div[@class='stui-vodlist__head' and contains(.//ul/@class,'stui-content__playlist')]/h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
