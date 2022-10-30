@@ -27,7 +27,7 @@
   "dtYear": "//div[@class='module-info-tag']/div[@class='module-info-tag-link'][1]/a/text()",
   "dtArea": "//div[@class='module-info-tag']/div[@class='module-info-tag-link'][2]/a/text()",
   "dtActor": "concat(//div[@class='module-info-items']//span[contains(@class,'module-info-item-title') and contains(text(),'主演')]/following-sibling::div[1]//text())",
-  "dtDirector": "concat(//div[@class='module-info-items']//span[contains(@class,'module-info-item-title') and contains(text(),'导演')]/following-sibling::div[1]//text())",
+  "dtDirector": "//div[@class='module-info-items']//span[contains(@class,'module-info-item-title') and contains(text(),'导演')]/following-sibling::div[1]/a/text()",
   "dtDesc": "//div[contains(@class,'module-info-introduction')]//p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-items-box')]/div[contains(@class,'module-tab-item')]/span",
