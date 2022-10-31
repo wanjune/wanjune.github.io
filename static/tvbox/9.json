@@ -55,7 +55,7 @@
     {"key":"csp_Nkdy","name":"南柯电影[SP]","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Zjdr","name":"追剧达人[SP]","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_Lgyy","name":"蓝光影院[SP]","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
-    {"key":"csp_Fantuan","name":"饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
+    {"key":"csp_Fantuan","name":"饭团影视[SP]","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_Mjxq","name":"美剧星球[SP]","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","综艺","韩剧","日剧","美剧","英剧","电影","纪录片","其他","全部"]},
     {"key":"csp_AppTT","name":"图图TV[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
