@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "",
-  "ua": "Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0",
+  "ua": "okhttp/4.1.0",
   "homeUrl": "https://www.smdyy.cc",
   "dcVipFlag": "true",
 	"dcShow2Vip": {},
@@ -47,7 +47,7 @@
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "playUrl": "https://www.smdyy.cc/play/{playUrl}.html",
-  "playUa": "Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0",
+  "playUa": "okhttp/4.1.0",
   "searchUrl": "https://www.smdyy.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
   "scVodNode": "json:list",
   "scVodName": "name",
