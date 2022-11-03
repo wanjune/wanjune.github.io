@@ -56,7 +56,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.sobods.com/vodplay/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.sobods.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.sobods.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
