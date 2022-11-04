@@ -1,0 +1,81 @@
+{
+  "author": "wanjune",
+  "ua": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-7306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "desc": "https://www.ququmc.com https://www.90yc.com https://www.69kankan.com https://www.1kbz.com https://www.2kbz.com https://www.8kbz.com https://www.56kx.com ",
+  "homeUrl": "https://www.ququmc.com",
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6","\u4f26\u7406":"5"},
+  "homeVodNode": "//ul[contains(@class,'tbox_m')]/li[contains(@class,'vbox')]/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/show/(\\w+).html",
+  "homeVodImg": "/@style",
+  "homeVodImgR": "background-image: url\\((\\S+)\\)",
+  "homeVodMark": "/span/text()",
+  "cateUrl": "https://www.ququmc.com/type/{cateId}{by}/{catePg}.html",
+  "cateVodNode": "//ul[contains(@class,'tbox_m')]/li[contains(@class,'vbox')]/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/show/(\\w+).html",
+  "cateVodImg": "/@style",
+  "cateVodImgR": "background-image: url\\((\\S+)\\)",
+  "cateVodMark": "/span/text()",
+  "dtUrl": "https://www.ququmc.com/show/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[contains(@class,'data')]/h4/text()",
+  "dtNameR": "",
+  "dtImg": "//div[@class='img']/@style",
+  "dtImgR": "background-image: url\\((\\S+)\\)",
+  "dtCate": "substring-after(//div[contains(@class,'data')]/p[@class='yac']/text(),'/')",
+  "dtCateR": "",
+  "dtArea": "",
+  "dtAreaR": "",
+  "dtDirector": "//div[contains(@class,'data')]/p[@class='dir']/text()",
+  "dtDirectorR": "",
+  "dtActor": "///div[contains(@class,'data')]/p[@class='act']/text()",
+  "dtActorR": "",
+  "dtYear": "substring-before(//div[contains(@class,'data')]/p[@class='yac']/text(),'/')",
+  "dtYearR": "",
+  "dtMark": "",
+  "dtMarkR": "",
+  "dtDesc": "//div[contains(@class,'tbox')]/div[@class='tbox_js']/text()",
+  "dtDescR": "",
+  "dtFromNode": "//div[contains(@class,'tbox tabs')]",
+  "dtFromName": "/div[@class='tbox_t']/h3/text()",
+  "dtFromNameR": "(.*) \\(",
+  "dtUrlNode": "//ul[contains(@class,'list_block show')]",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "/play/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.ququmc.com/play/{playUrl}.html",
+  "playUa": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-7306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "searchUrl": "https://www.ququmc.com/search?wd={wd}",
+  "scVodNode": "//ul[contains(@class,'tbox_m')]/li/a",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
+  "scVodIdR": "/show/(\\w+).html",
+  "scVodImg": "/@style",
+  "scVodImgR": "background-image: url\\((\\S+)\\)",
+  "scVodMark": "/span/text()",
+  "filter": {
+    "1": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
+    "2": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
+    "3": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
+    "4": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
+    "5": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ],
+    "6": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+    ]
+  }
+}
