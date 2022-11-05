@@ -1,6 +1,7 @@
 {
   "author": "wanjune",
-  "ua": "//http://663ck.cc http://749ck.cc http://hscangku.com ",
+  "desc": "http://663ck.cc http://749ck.cc http://hscangku.com ",
+  "ua": "",
   "homeUrl": "http://hscangku.com",
   "cateManual": {"国产":"15","日韩":"1","欧美":"21","\u65e0\u7801\u4e2d\u5b57":"8","\u65e5\u672c\u65e0\u7801":"10"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box') and not(contains(./a/@href,'http'))]",
@@ -56,14 +57,5 @@
   "scVodIdR": "/vodplay/(\\S+)/",
   "scVodImg": "//a[contains(@class,'stui-vodlist__thumb')]/@data-original",
   "scVodImgR": "\\S+(http\\S+)",
-  "scVodMark": "/span[@class='pic-text text-right']/text()",
-  "filter": {
-  "1": [
-  {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
-    {"n":"原创","v":"原创"},
-    {"n":"其他","v":"其他"}
-  ]},
-  {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
-  ]
-  }
+  "scVodMark": "/span[@class='pic-text text-right']/text()"
 }
