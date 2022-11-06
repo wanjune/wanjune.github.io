@@ -37,7 +37,7 @@
   "dtYearR": "",
   "dtMark": "",
   "dtMarkR": "",
-  "dtDesc": "//div[contains(@class,'tbox')]/div[@class='tbox_js']/text()",
+  "dtDesc": "//div[contains(@class,'tbox')]/div[@class='tbox_js']//text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'tbox tabs')]",
   "dtFromName": "/div[@class='tbox_t']/h3/text()",
