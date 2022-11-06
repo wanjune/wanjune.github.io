@@ -37,7 +37,7 @@
   "dtActorR": "",
   "dtDirector": "/div/div/div[2]/table/tbody/tr[1]/td[2]/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'movie-introduce')]/p/span/span/text()[2]",
+  "dtDesc": "//div[contains(@class,'movie-introduce')]/p/span/span/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[@id='tvTabs']/li/a",
   "dtFromName": "/text()",
