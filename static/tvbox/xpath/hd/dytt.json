@@ -54,7 +54,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.mfdytt.com/play/{playUrl}.html",
   "playUa": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "searchUrl": "https://www.mfdytt.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.mfdytt.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
