@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1108ys.dylib;md5;CD3F89F218985E3C3BA577CEBF5C039C",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1109ys.dylib;md5;9E2D9DD7789D3C4702B7D29D7162668E",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -16,7 +16,6 @@
     {"key":"csp_xpath_gimytv","name":"劇迷影音[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/gimytv.json"},
     {"key":"csp_xpath_auete","name":"Auete[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/auete.json"},
     {"key":"csp_xpath_libvio","name":"LIBVIO[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
-    // {"key":"csp_Alist","name":"网盘资源[SP]","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/alist.json"},
     {"key":"csp_xpath_meiju","name":"美剧网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_789ba","name":"789影吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/789ba.json"},
     {"key":"csp_xpath_xfeiji","name":"小小影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
@@ -42,8 +41,8 @@
     {"key":"csp_xpath_xqmi","name":"小强迷[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xqmi.json"},
     {"key":"csp_xpath_wmkk","name":"完美看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wmkk.json"},
     {"key":"csp_xpath_um","name":"UM影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/um.json"},
-    // {"key":"csp_xpath_ttsp","name":"*天天视频[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ttsp.json","categories":["动漫","综艺","剧集","+国产","+韩国","+日本","+美国","电影"]},
-    // {"key":"csp_xpath_doujiao","name":"*豆角网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/doujiao.json"},
+    {"key":"csp_xpath_ttsp","name":"*天天视频[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ttsp.json","categories":["动漫","综艺","剧集","+国产","+韩国","+日本","+美国","电影"]},
+    {"key":"csp_xpath_doujiao","name":"*豆角网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/doujiao.json"},
     {"key":"csp_xpath_wnvod","name":"万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
     {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
     {"key":"csp_xpath_wugui","name":"乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wugui.json"},
