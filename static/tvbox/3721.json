@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1108ys.dylib;md5;CD3F89F218985E3C3BA577CEBF5C039C",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1109ys.dylib;md5;9E2D9DD7789D3C4702B7D29D7162668E",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},

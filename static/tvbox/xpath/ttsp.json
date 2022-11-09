@@ -7,7 +7,7 @@
   "homeVodNode": "//div[not(contains(@class,'hide'))]/ul[contains(@class,'vodlist vodlist_wi')]/li[contains(@class,'vodlist_item')]",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
-  "homeVodIdR": "/index.php/voddetail/(\\w+)",
+  "homeVodIdR": "/index.php/voddetail/(\\w+).html",
   "homeVodImg": "/a/@data-original",
   "homeVodMark": "/a/span[3]/text()",
   "cateUrl": "https://www.tiantian58.com/index.php/vodshow/{cateId}-{by}-{class}-----{catePg}---{year}.html",
