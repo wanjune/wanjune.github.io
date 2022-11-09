@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1107ys.dylib;md5;FE325993A7A775E29DB0FA35ADD5787D",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1108ys.dylib;md5;CD3F89F218985E3C3BA577CEBF5C039C",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
@@ -40,9 +40,9 @@
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
-    {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-    {"name":"云YOU","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="},
     {"name":"KeYu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"云YOU","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="},
+    {"name":"酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
     {"name":"鸿途","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"融兴","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"Parwix1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
