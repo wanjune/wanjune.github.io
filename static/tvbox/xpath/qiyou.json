@@ -27,7 +27,7 @@
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//span[contains(text(),'类型')]/following-sibling::a[1]/text()",
   "dtCateR": "",
-  "dtYearR": "//span[contains(text(),'年份')]/parent::*/text()[last()]",
+  "dtYearR": "//span[contains(text(),'年份')]/parent::*/text()[5]",
   "dtArea": "//span[contains(text(),'地区')]/parent::*/text()[3]",
   "dtAreaR": "",
   "dtMark": "//span[contains(text(),'更新')]/parent::*/text()",
