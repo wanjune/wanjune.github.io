@@ -2,7 +2,6 @@
   "spider":"https://wanjune.github.io/static/tvbox/jar/1109ys.dylib;md5;9E2D9DD7789D3C4702B7D29D7162668E",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"t4_douban","name":" 🔍影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -13,6 +12,7 @@
     {"key":"csp_xpath_pipipao","name":"皮皮泡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pipipao.json"},
     {"key":"csp_xpath_cokemv","name":"COKEMV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
     {"key":"csp_xpath_yanetflix","name":"鸭奈非[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yanetflix.json"},
+    {"key":"csp_xpath_newfii","name":"奈落影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/newfii.json"},
     {"key":"csp_xpath_bcys","name":"北川影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bcys.json"},
     {"key":"csp_xpath_ysgc","name":"影视工厂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ysgc.json"},
     {"key":"csp_xpath_gimytv","name":"劇迷影音[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/gimytv.json"},
