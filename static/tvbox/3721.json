@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1109ys.dylib;md5;9E2D9DD7789D3C4702B7D29D7162668E",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1113ys.dylib;md5;DF9E39F198F5C88289BC056700447A51",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_biubiu_tingbook","name":"🎧听书网[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
@@ -55,7 +55,7 @@
     {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url="},
     {"name":"So","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
-    {"name":"猪蹄","type": 0,"url": "https://jx.iztyy.com/svip/?url="},
+    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
     {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url="},
     {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="},
