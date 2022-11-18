@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1118ys.dylib;md5;md5;20D545792E5C8AAA53A6804E1FA81EBC",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/1118ys.dylib;md5;20D545792E5C8AAA53A6804E1FA81EBC",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_xBPQ_98ju","name":"98影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/98ju.json"}
