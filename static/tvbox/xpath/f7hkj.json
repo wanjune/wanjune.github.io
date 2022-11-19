@@ -3,7 +3,7 @@
   "ua": "",
   "homeUrl": "https://www.f7hkj.cc",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","哔哩":"20"},
-  "homeVodNode": "//div[@class='module-items scroll-box']/a",
+  "homeVodNode": "//div[@class='module-main tab-list  active']//a[@class='module-poster-item module-item']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\S+).html",
