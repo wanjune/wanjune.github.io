@@ -11,6 +11,7 @@
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "module-item-note\">&&</div>",
   "搜索链接": "href=\"&&\"",
+  "影片类型": "<div class=\"module-info-tag\"&&<div class=\"module-mobile-play\">",
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
