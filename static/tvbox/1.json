@@ -54,6 +54,8 @@
     {"key":"csp_xpath_92cj","name":"路漫漫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/92cj.json"},
     {"key":"csp_xBPQ_ikan","name":"爱看影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
     {"key":"csp_xBPQ_98ju","name":"98影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/98ju.json"},
+    {"key":"csp_xBPQ_smdyy","name":"神马影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/smdyy.json"},
+    {"key":"csp_xBPQ_lgyy","name":"蓝光影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/lgyy.json"},
     {"key":"csp_xBPQ_panghu","name":"胖虎影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/panghu.json"},
     {"key":"csp_appysv2_mengdandan","name":"萌蛋蛋[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_dyys","name":"段友影视[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
