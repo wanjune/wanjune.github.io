@@ -119,6 +119,7 @@
     {"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v="}
   ],
   // "flags":["qq","qiyi","iqiyi","youku","mgtv","letv","leshi","pptv","sohu","bilibili","xigua","tudou","wasu","m1905"],
+  "flags":["m1905"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
