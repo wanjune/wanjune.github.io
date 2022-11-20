@@ -11,11 +11,12 @@
   "搜索标题": "alt=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "搜索副标题": "module-item-note\">&&</div>",
+  "影片类型": "<div class=\"module-info-tag\"&&<div class=\"module-mobile-play\">",
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>＃]",
   "播放数组": "<div class=\"module-play-list\">&&</div>",
   "筛选":{
     "1":[
