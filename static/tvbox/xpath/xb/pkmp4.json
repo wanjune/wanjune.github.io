@@ -1,10 +1,10 @@
 {
   "author": "wanjune",
   "name": "片库[XB]",
-  "desc": "http://www.pkmp4.xyz / http://www.mp4do.com / https://www.qwshu.com / https://www.qmp4.com/",
+  "desc": "http://www.pkmp4.xyz / https://www.pkmp4.com / https://www.qwshu.com / https://www.qmp4.com/",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
-  "url": "https://www.pkmp4.com",
+  "url": "http://www.mp4do.com",
   "shouye": "1",
   "fenlei": "动漫$/ms/3--time------#综艺$/ms/4--time------#剧集$/ms/2--time------#+国产$/ms/2-大陆-time------#+韩国$/ms/2-韩国-time------#+日本$/ms/2-日本-time------#+美国$/ms/2-美国-time------#电影$/ms/1--time------",
   "houzhui": "---.html",
