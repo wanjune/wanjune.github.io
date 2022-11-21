@@ -1,8 +1,8 @@
 {
   "作者": "wanjune",
-  "主页url": "https://m.fenggoudy3.com",
+  "主页url": "https://www.fenggoudy3.com",
   "分类": "动漫$3#综艺$4#剧集$2#电影$1",
-  "分类url": "https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state-正片-order-{by}-p-{catePg}.html",
+  "分类url": "https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state-正片-order-{by}-p-{catePg}.html",
   "数组": "<div class=\"v_pic\">&&</li>",
   "图片": "data-src=\"&&\"",
   "标题": "title=\"&&\"",
