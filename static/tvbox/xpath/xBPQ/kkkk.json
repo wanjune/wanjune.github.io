@@ -1,7 +1,7 @@
 {
   "作者": "wanjune",
   "主页url": "http://kkkk.plus",
-  "分类": "动漫$4#综艺$3#剧集#电影$1",
+  "分类": "动漫$4#综艺$3#剧集$2#电影$1",
   "分类值": "1&2&3&4",
   "分类url": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "副标题": "module-item-note\">&&</div>",
