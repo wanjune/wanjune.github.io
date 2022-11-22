@@ -14,5 +14,26 @@
   "剧情": "0",
   "年份": "0",
   "排序": "0",
-  "筛选": "1"
+  "筛选": {
+    "dianyingpian":[
+      {"key":"cateId","name":"分类","value":[{"n":"全部","v":"dianyingpian"},
+        {"n":"动作","v":"dongzuopian"},
+        {"n":"爱情","v":"aiqingpian"},
+        {"n":"科幻","v":"kehuanpian"},
+        {"n":"恐怖","v":"kongbupian"},
+        {"n":"战争","v":"zhanzhengpian"},
+        {"n":"喜剧","v":"xijupian"},
+        {"n":"纪录","v":"jilupian"},
+        {"n":"剧情","v":"juqingpian"}
+      ]}
+    ],
+    "dianshiju":[
+      {"key":"cateId","name":"分类","value":[{"n":"全部","v":"dianshiju"},
+        {"n":"国产","v":"guochanju"},
+        {"n":"港台","v":"gangtaiju"},
+        {"n":"日韩","v":"rihanju"},
+        {"n":"欧美","v":"oumeiju"}
+      ]}
+    ]
+  }
 }
