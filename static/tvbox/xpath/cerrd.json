@@ -11,7 +11,7 @@
   "homeVodImg": "/a/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//a/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "http://www.kan8.tv/films/{cateId}_{catePg}.html?order=time",
+  "cateUrl": "http://www.kan8.tv/films/{cateId}_{catePg}.html?order={by}&year={year}",
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div[@class='stui-vodlist__box']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -52,9 +52,51 @@
   "playUa": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "searchUrl": "http://www.kan8.tv/search.php?searchword={wd};post",
   "scVodNode": "//ul[contains(@class,'stui-vodlist__media')]/li",
-  "scVodName": "//a/@title",
-  "scVodId": "//a/@href",
-  "scVodIdR": "",
-  "scVodImg": "//a/@data-original",
-  "scVodMark": "//div[contains(@class,'detail')]/allText()"
+  "scVodName": "/div/a/@title",
+  "scVodId": "/div/a/@href",
+  "scVodIdR": "/view/(\\w+).html",
+  "scVodImg": "/div/a/@data-original",
+  "scVodMark": "/div/a/span[@class='pic-text text-right']/text()",
+  "filter": {
+    "1": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "2": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "3": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "4": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "40": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ]
+  }
 }
