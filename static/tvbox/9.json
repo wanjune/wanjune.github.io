@@ -76,6 +76,7 @@
     {"key":"csp_xBPQ_52kanju","name":"52看剧[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/52kanju.json"},
     {"key":"csp_xBPQ_hdik","name":"HDIK[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/hdik.json"},
     {"key":"csp_xBPQ_filmmr","name":"电影先生[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/filmmr.json"},
+    {"key":"csp_xBPQ_gfys","name":"干饭影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/gfys.json"},
     {"key":"csp_appysv2_mdd","name":"萌蛋蛋[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_dyys","name":"段友影视[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_Nkdy","name":"南柯电影[SP]","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
