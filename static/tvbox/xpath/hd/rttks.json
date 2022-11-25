@@ -3,7 +3,7 @@
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "https://www.rttks.com",
   "cateManual": {"动漫":"rrdm","综艺":"rrzy","剧集":"rrdsj","+国产":"rrgcj","+韩剧":"rrhgj","+日剧":"rrrbj","+海外":"rrhwj","电影":"rrdy","记录":"rrjlp"},
-  "homeVodNode": "//div[contains(@class='col-lg-wide-75 col-xs-1 padding-0') and not(contains(.//h2/a/text(),'电影解说'))]//div[@class='stui-vodlist__box']/a",
+  "homeVodNode": "//div[@class='stui-vodlist__box']/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "https://www.rttks.com/rrtv/(\\w+).html",
