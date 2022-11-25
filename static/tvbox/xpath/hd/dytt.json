@@ -1,9 +1,10 @@
 {
   "author": "wanjune",
+  "desc": "https://www.yuztv.com",
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.mfdytt.com",
   "cateManual": {"剧集":"2","电影":"1"},
-  "homeVodNode": "//li[contains(@class,'vodlist-item')]",
+  "homeVodNode": "//div[@class='pannel clearfix' and not(contains(.//h3//text(),'最新综艺'))]//li[contains(@class,'vodlist-item')]",
   "homeVodName": "/*[@class='vodlist-title']/a/@title",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/movie/(\\w+).html",

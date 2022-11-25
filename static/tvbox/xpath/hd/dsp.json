@@ -1,12 +1,8 @@
 {
   "author": "wanjune",
+  "desc": "https://www.yuztv.com",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
   "homeUrl": "https://dsp.4321.xn--5tzm5g",
-  // "dcVipFlag": "true",
-  // "pCfgJs": "https://dsp.4321.xn--5tzm5g/static/js/playerconfig.js",
-  // "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-  // "dcShow2Vip": {},
-  // "dcPlayUrl": "true",
   "cateManual": {"短视频":"1"},
   "homeVodNode": "//li[contains(@class,'hl-list-item')]",
   "homeVodName": "/a/@title",
@@ -67,7 +63,7 @@
         {"n":"原创","v":"原创"},
         {"n":"其他","v":"其他"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"}]}
     ]
   }
 }
