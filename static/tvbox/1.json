@@ -98,16 +98,24 @@
     {"key":"csp_biubiu_tingshu","name":"🎧520听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingshu.json"}
   ],
   "rules":[
-    {"host":"*","rule":["default.365yg.com"]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
     {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
     {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
-    {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
-    {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
-    {"host":"*","rule":["douyin.com/aweme","video_id="]},
+    {"host":"www.007ts.me","rule":["hls.pchj.net",".m3u8"]},
+    {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
+    {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".m3u8"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mp4"]},
+    {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mkv"]},
+    {"host":"*","rule":["/m3u8.php?path=",".m3u8"]},
+    {"host":"*","rule":["/API.php?time=","key=","path=",".m3u8"]},
+    {"host":"*","rule":["oss-cn-m3u8","myqcloud.com.zh188.net","?url=",".m3u8"]},
+    {"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
     {"host":"*","rule":["huoshan.com","/item/video/"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
+    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
+    {"host":"*","rule":["mp3"]},
+    {"host":"*","rule":["m4a"]}
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
