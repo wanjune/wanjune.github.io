@@ -94,6 +94,10 @@
     {"key":"net_vipmv","name":"天堂资源[NET]","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影","哔哩哔哩"]},
     {"key":"net_anltv","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","动画","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"net_vodimg","name":"影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
+    {"key":"net_6u","name":"6U资源[NET]","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"net_fq","name":"番茄资源[NET]","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"net_kuaibo","name":"快播资源[NET]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"net_hongniu","name":"红牛资源[NET]","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_biubiu_tingbook","name":"🎧天天听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
     {"key":"csp_biubiu_tingshu","name":"🎧520听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingshu.json"}
   ],
