@@ -18,7 +18,7 @@
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "搜索链接前缀": "https://www.jubaibaia.com",
-  "分类": "动漫$dongman#综艺$zongyi#剧集$dianshiju#+国产$guochanju#+日韩$rihanju#+欧美$oumeiju#电影$dianying",
+  "分类": "动漫$dongman#综艺$zongyi#剧集$lianxuju#+国产$guochanju#+日韩$rihanju#+欧美$oumeiju#电影$dianying",
   "分类url": "https://www.jubaibaia.com/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
   "筛选": {
     "dianying":[
@@ -87,8 +87,8 @@
       ]},
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
-    "dianshiju":[
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianshiju"},
+    "lianxuju":[
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"lianxuju"},
         {"n":"国产","v":"guochanju"},
         {"n":"港台","v":"gangtaiju"},
         {"n":"日韩","v":"rihanju"},
