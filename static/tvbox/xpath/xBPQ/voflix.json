@@ -6,7 +6,7 @@
   "副标题": "module-item-note\">&&</div>",
   "搜索模式": "1",
   "搜索url": "https://www.voflix.com/search/{wd}----------{pg}---.html",
-  "搜索数组": "module-item\">&&</a>",
+  "搜索数组": "module-card-item-class\">&&</a>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索链接": "href=\"&&\"",
