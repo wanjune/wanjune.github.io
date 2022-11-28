@@ -14,10 +14,6 @@
     {"key":"csp_xpath_dytt","name":"💿电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dytt.json"},
     {"key":"csp_xpath_yp","name":"💿YP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
     {"key":"csp_xpath_dsp","name":"💿短视频[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dsp.json"},
-
-    {"key":"csp_xpath_olevod","name":"欧乐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/olevod.json","categories":["动漫","综艺","电影","\u4f26\u7406"]},
-
-
     {"key":"asmr","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"523zy","name":"523资源","type":0,"api":"https://caiji.523zyw.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u5fae\u62cd\u798f\u5229","\u4e3b\u64ad\u7cbe\u9009","\u56fd\u4ea7\u7cbe\u54c1","\u4f26\u7406\u7efc\u827a","\u6b27\u7f8e\u98ce\u60c5","\u65e5\u97e9\u65e0\u7801","\u65e5\u97e9\u6709\u7801","\u6210\u4eba\u52a8\u6f2b"]},
     {"key":"91md","name":"\u0039\u0031\u9ebb\u8c46","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":1},
