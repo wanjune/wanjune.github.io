@@ -19,6 +19,13 @@
   "免嗅": "1",
   "分类": "动漫$4#综艺$3#剧集$2#电影$1",
   "分类url": "https://www.gfysys1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/{wd}----------1---.html", 
+  "搜索数组": "<a class=\"stui-vodlist__thumb&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索链接前缀": "https://www.gfysys1.com",
   "筛选":{
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},

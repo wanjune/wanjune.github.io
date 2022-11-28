@@ -16,6 +16,14 @@
   "线路数组": "<a class=\"channelname swiper-slide&&/a>",
   "线路标题": "nbsp;&&<",
   "播放数组": "<ul class=\"content_playlist&&</ul>",
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/{wd}----------1---.html", 
+  "搜索数组": "<a class=\"aplus-exp ecimgbor\"&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索副标题": "<span class=\"pack-prb\">&&</span>",
+  "搜索链接": "href=\"&&\"",
+  "搜索链接前缀": "https://www.zjtu.cc",
   "筛选": {
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},

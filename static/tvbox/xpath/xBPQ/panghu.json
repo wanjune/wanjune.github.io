@@ -5,8 +5,6 @@
   "副标题": "module-item-note\">&&</div>",
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>[替换:</span><small>>>＃]",
-  "搜索模式": "1",
-  "搜索副标题": "div class=\"module-item-note\">&&</div>",
   "影片类型": "<div class=\"module-info-tag\"&&立即播放",
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
@@ -15,6 +13,14 @@
   "免嗅": "1",
   "分类": "动漫$4#综艺$3#剧集$2#电影$1",
   "分类url": "http://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+  "搜索模式": "1",
+  "搜索url": " /vodsearch/{wd}-/page/1.html", 
+  "搜索数组": "module-card-item-class&&referrerpolicy=\"no-referrer\"",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "module-item-note\">&&</div>",
+  "搜索链接": "href=\"&&\"",
+  "搜索链接前缀": "https://www.zjtu.cc",
   "筛选":{
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
