@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "ua": "Mozilla/5.0 (Linux; Android 10; ZenFone Max Pro M1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://www.olevod.com",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"202","+日韩":"204","+欧美":"201","电影":"1","\u4f26\u7406":"5"},
   "homeVodNode": "//div[contains(@class,'pannel') and not(contains(.//h2/text(),'VIP蓝光影院'))]//div[contains(@class,'cbox1')]/ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li//a[contains(@class,'vodlist_thumb')]",
