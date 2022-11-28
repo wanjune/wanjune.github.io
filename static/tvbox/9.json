@@ -29,7 +29,12 @@
     {"key":"csp_xpath_vip1280","name":"VIP电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/vip1280.json"},
     {"key":"csp_xpath_007","name":"零零七[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/007.json"},
     {"key":"csp_xpath_1010dy","name":"双十电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/1010dy.json"},
-    {"key":"csp_xpath_135kan","name":"135看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/135kan.json","categories":["电影","剧集","+国产","+韩国","+日本","+美国"]},
+    {"key":"csp_xpath_135kan","name":"135看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/135kan.json"},
+    
+    
+
+    {"key":"csp_xpath_olevod","name":"欧乐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/olevod.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
+
     {"key":"csp_xpath_pianku","name":"片库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pianku.json"},
     {"key":"csp_xpath_pianba","name":"片吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pianba.json"},
     {"key":"csp_xpath_zgdy","name":"中国电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zgdy.json"},
