@@ -8,7 +8,7 @@
   "简介": "display: none;\">&&</span>",
   "播放数组": "class=\"myui-content__list &&</ul>",
   "搜索模式": "1",
-  "搜索url": "/vod/search/page/1/wd/{wd}.html", 
+  "搜索url": "/index.php/vod/search/page/1/wd/{wd}.html", 
   "搜索数组": "<a class=\"myui-vodlist__thumb&&</a>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",
