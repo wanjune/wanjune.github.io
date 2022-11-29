@@ -1,7 +1,8 @@
 var rule = {
   title: '剧荒TV',
   host: 'https://www.juhuang.tv',
-  url: '/type/fyclass_type_fypage.html',
+  //url: '/type/fyclass_type_fypage.html',
+  url: '/type/fyclass_type.html',
   searchUrl: 'https://so.juhuang.tv/?s=**',
   searchable: 2,
   quickSearch: 1,
