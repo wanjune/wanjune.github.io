@@ -5,6 +5,18 @@
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
+
+    {"key":"drpy_69mj","name":"69美剧[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/69美剧.js"},
+    {"key":"drpy_kuke","name":"酷客影院[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/酷客影院.js"},
+    {"key":"drpy_thefree","name":"TheFree[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/TF影院.js"},
+    {"key":"drpy_lanhua","name":"兰花影院[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/兰花影院.js"},
+    {"key":"drpy_juhuang","name":"剧荒TV[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/剧荒.js"},
+    {"key":"drpy_tugou","name":"土狗影院[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/土狗影院.js"},
+    {"key":"drpy_duonao","name":"多瑙影视[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/多瑙影视.js"},
+    {"key":"drpy_xiaobao","name":"小宝影视[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/小宝影视.js"},
+    {"key":"drpy_kanb","name":"看B站[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/看BZ影视.js"},
+    {"key":"drpy_dietiao","name":"碟调影视[DRPY]","type":3,"api":"https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/碟调影视.js"},
+
     {"key":"csp_Nmys","name":"农民影视[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/nmys.json"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_koudaitv","name":"口袋TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/koudaitv.json"},
