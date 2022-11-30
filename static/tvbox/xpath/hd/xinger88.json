@@ -31,9 +31,9 @@
   "dtYearR": "",
   "dtArea": "//span[contains(@class,'text_muted') and(contains(text(),'地区'))]/parent::*//text()[4]",
   "dtAreaR": "",
-  "dtActor": "//span[contains(text(),'主演')]/parent::*//text()",
+  "dtActor": "//span[contains(text(),'主演')]/parent::*/text()",
   "dtActorR": "",
-  "dtDirector": "//span[contains(text(),'导演')]/parent::*//text()",
+  "dtDirector": "//span[contains(text(),'导演')]/parent::*/text()",
   "dtDirectorR": "",
   "dtMark": "//span[contains(text(),'状态')]/following-sibling::span[1]/text()",
   "dtMarkR": "",
@@ -69,8 +69,8 @@
         {"n":"星空","v":"44"},
         {"n":"SWAG","v":"45"},
         {"n":"葫芦","v":"46"},
-        {"n":"其它","v":"47"},
-        {"n":"糖心","v":"49"}
+        {"n":"糖心","v":"49"},
+        {"n":"其它","v":"47"}
       ]},
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
         {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
@@ -83,7 +83,6 @@
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"1"},
         {"n":"中文有码","v":"12"},
         {"n":"中文字幕","v":"10"},
-        {"n":"日本无码","v":"11"},
         {"n":"日本有码","v":"21"},
         {"n":"中文无码","v":"20"},
         {"n":"美女写真","v":"48"},
@@ -100,7 +99,6 @@
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"1"},
         {"n":"国产专区","v":"22"},
         {"n":"主播视频","v":"25"},
-        {"n":"国产厂商","v":"51"},
         {"n":"黑料事件","v":"52"}
       ]},
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},
