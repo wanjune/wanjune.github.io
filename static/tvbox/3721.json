@@ -12,6 +12,7 @@
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/heihu.json"},
     {"key":"csp_xbpq_juren","name":"🍀巨人影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/juren.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xpath_dytt","name":"💿电影天堂[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dytt.json"},
+    {"key":"csp_xpath_xinger88","name":"💿星儿吧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/xinger88.json"},
     {"key":"csp_xpath_yp","name":"💿YP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
     {"key":"csp_xpath_dsp","name":"💿短视频[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dsp.json"},
     {"key":"asmr","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
