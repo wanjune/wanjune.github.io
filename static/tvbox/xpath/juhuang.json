@@ -34,7 +34,7 @@
   "dtDesc": "//p[@class='sqjj_a']/text()",
   "dtFromNode": "//div[@class='module' and not(contains(.//h2/text(),'相关影片'))]", 
   "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[@class='module' and not(contains(.//h2/text(),'相关影片'))]) + 1)",
-  "dtFromNameR": "",
+  "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//div[@class='scroll-content']",
   "dtUrlSubNode": "/a",
   "dtUrlId": "@href",
