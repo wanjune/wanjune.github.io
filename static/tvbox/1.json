@@ -45,9 +45,10 @@
     {"key":"csp_xpath_ant","name":"蚂蚁影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ant.json","categories":["动漫","综艺","剧集","+国产","+日韩","+欧美","电影"]},
     {"key":"csp_xpath_wugui","name":"乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wugui.json"},
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
+    {"key":"csp_xpath_xuanmao","name":"炫猫影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xuanmao.json"},
     {"key":"csp_xpath_juhuang","name":"剧荒TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/juhuang.json"},
-    {"key":"csp_xpath_dm84","name":"动漫巴士[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dm84.json"},
-    {"key":"csp_xpath_92cj","name":"路漫漫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/92cj.json"},
+    {"key":"csp_xpath_dm84","name":"🐼动漫巴士[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dm84.json"},
+    {"key":"csp_xpath_92cj","name":"🐼路漫漫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/92cj.json"},
     {"key":"csp_xbpq_ikan","name":"🍀爱看影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
     {"key":"csp_xbpq_98ju","name":"🍀98影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/98ju.json"},
     {"key":"csp_xbpq_smdyy","name":"🍀神马影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/smdyy.json"},
@@ -157,7 +158,7 @@
     {"name":"托乌","type":0,"url":"https://jx.ppjbk.cn/?url="},
     {"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v="}
   ],
-  "flags":["qq","qiyi","iqiyi","youku","mgtv","letv","leshi","pptv","sohu","bilibili","xigua","tudou","wasu","m1905"],
+  "flags":["qq","qiyi","iqiyi","youku","mgtv","letv","leshi","pptv","sohu","bilibili","xigua","tudou","wasu","m1905","优酷","爱奇艺","芒果","搜狐","乐视","西瓜","土豆"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
