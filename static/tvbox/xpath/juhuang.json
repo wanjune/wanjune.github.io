@@ -2,7 +2,7 @@
   "author": "wanjune",
   "ua": "",
   "homeUrl": "https://juhuang.tv",
-  "cateManual": {"动漫":"4","综艺":"3","+港台":"14","+韩国":"13","+日本":"15","+美国":"16","电影":"1","纪录":"21"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+韩国":"13","+日本":"15","+美国":"16","电影":"1","纪录":"21"},
   "homeVodNode": "//div[@class='module' and(contains(.//h2/text(),'最近更新'))]//div[contains(@class,'selected')]//div[@class='module-item']",
   "homeVodName": "//div[@class='module-item-pic']/a/@title",
   "homeVodId": "//div[@class='module-item-pic']/a/@href",

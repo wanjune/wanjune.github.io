@@ -40,7 +40,7 @@
   "dtActorR": "",
   "dtDirector": "//p[@class='data']/span[contains(text(),'导演')]/following-sibling::a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(@class,'sketch content')]/following-sibling::span[1]/text()",
+  "dtDesc": "//span[contains(@class,'sketch content')]/following-sibling::span[1]//text()",
   "dtDescR": "",
   "dtFromNode": "//h3[not(contains(text(),'猜你喜欢'))]/following-sibling::ul[1][contains(@class,'nav nav-tabs')]/li/a",
   "dtFromName": "/text()",

@@ -35,7 +35,7 @@
   "dtActorR": "",
   "dtDirector": "//span[contains(@class,'fed-text-muted') and contains(text(),'导演')]/following-sibling::a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(@class,'fed-text-muted') and contains(text(),'简介')]/following-sibling::p[1]/text()",
+  "dtDesc": "//div[@class='fed-tabs-boxs']/div[2]/p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'fed-play-item')]/ul[contains(@class,'fed-drop-head')]/li[contains(@class,'fed-part-eone')]",
   "dtFromName": "/text()",
