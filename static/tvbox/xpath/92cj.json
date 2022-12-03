@@ -3,7 +3,7 @@
   "desc": "路漫漫在线动漫 https://dm.wydy8.com https://www.17skr.com",
   "ua": "",
   "homeUrl": "https://www.92cj.com",
-  "cateManual": {"电影":"2","剧集":"1","+国产":"7","+日本":"6","+欧美":"8"},
+  "cateManual": {"国产":"7","日本":"6","欧美":"8","电影":"2"},
   "homeVodNode": "//div[contains(@class,'video-img-box')]",
   "homeVodName": "/div[contains(@class,'detail')]/h6/a/text()",
   "homeVodId": "/div[contains(@class,'img-box')]/a/@href",
