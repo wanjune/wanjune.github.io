@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/1201ys.dylib;md5;6C04A4F7D5670D22A4AF997BC7C83E31",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/221203.dylib;md5;0883C16C05F842241FC1A5F38DF19813",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -91,6 +91,9 @@
     {"key":"drpy_llyady","name":"🌐利丽娅电影[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/llyady.js"},
     {"key":"drpy_audi","name":"🌐四个圈影视[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/audi.js"},
     {"key":"drpy_898tv","name":"🌐898影城[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/898tv.js"},
+    {"key":"drpy_mhys","name":"🌐麻花影视[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/mhys.js","categories":["动漫","综艺","综艺","电影"]},
+    {"key":"drpy_kokyy","name":"🌐KOK影视[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kokyy.js"},
+    {"key":"drpy_leyu","name":"🌐乐鱼影视[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/leyu.js"},
     {"key":"csp_appysv2_mdd","name":"萌蛋蛋[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_appysv2_dyys","name":"段友影视[APP]","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_Nkdy","name":"南柯电影[SP]","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},

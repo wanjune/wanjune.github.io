@@ -1,0 +1,21 @@
+var rule = {
+  title: '麻花影视',
+  // https://www.mh620.com https://www.mmhys.com https://www.mhyyy.com
+  host: 'https://www.mhyyy.com',
+  url: '/show/fyclass/by/time/page/fypage.html',
+  searchUrl: '/search/page/1/wd/**.html',
+  searchable: 2,
+  quickSearch: 1,
+  filterable: 1,
+  headers: { 'User-Agent': 'MOBILE_UA' },
+  class_name: '动漫&综艺&剧集&电影&\u4f26\u7406',
+  class_url: '4&3&2&1&5',
+  play_parse: true,
+  lazy: '',
+  limit: 8,
+  推荐: '.module-items;.module-poster-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href',
+  double: true,
+  一级: '.module-poster-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href',
+  二级: { "title": "h1&&Text;.module-info-tag-link:eq(2)&&Text", "img": ".ls-is-cached.lazy.lazyload&&data-original", "desc": ".module-info-content&&.module-info-item:eq(-2)&&Text;.module-info-content&&.module-info-item:eq(-2)&&Text;.module-info-content&&.module-info-item:eq(-2)&&Text;.module-info-content&&.module-info-item:eq(2)&&.module-info-item-content&&Text;.module-info-content&&.module-info-item:eq(1)&&.module-info-item-content&&Text", "content": ".module-info-introduction-content&&Text", "tabs": ".module-tab-items-box:eq(0)&&.module-tab-item", "lists": ".module-list:eq(#id)&&.module-play-list-content a" },
+  搜索: '.module-card-item.module-item;.module-card-item-title&&Text;img&&data-original;.module-item-note&&Text;a.play-btn-o&&href',
+}
