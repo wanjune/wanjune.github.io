@@ -35,7 +35,7 @@
   "dtActorR": "",
   "dtDirector": "//p[@class='data']/span[contains(text(),'導演')]/following-sibling::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'col-pd')]/p/text()",
+  "dtDesc": "concat(//div[@class='col-pd text-collapse content']//text())",
   "dtDescR": "",
   "dtFromNode": "//div[@class='myui-panel_hd']/div/h3/text()[2]",
   "dtFromName": "/text()",
