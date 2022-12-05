@@ -16,7 +16,7 @@
   "cateUrl": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//a[@class='module-poster-item module-item']",
   "cateVodName": "/@title",
-  "cateVodId": "//@href",
+  "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\w+).html",
   "cateVodImg": "//img/@data-original",
   "cateVodImgR": "(http\\S+)",
