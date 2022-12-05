@@ -35,7 +35,7 @@
   "dtActorR": "",
   "dtMark": "//span[contains(text(),'集数')]/following-sibling::*/text()",
   "dtMarkR": "",
-  "dtDesc": "//span[contains(text(),'剧情')]/following-sibling::div//text()",
+  "dtDesc": "concat(//span[contains(text(),'剧情')]/following-sibling::div//text())",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-content')]/div[contains(@class,'module-tab-item')]/span",
   "dtFromName": "/text()",
