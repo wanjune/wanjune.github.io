@@ -14,7 +14,7 @@
   "homeVodMark": "//div[@class='module-item-note']/text()",
   "homeVodMarkR": "",
   "cateUrl": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  "cateVodNode": "//div[@class='module-items module-poster-items-base ']/a",
+  "cateVodNode": "//a[@class='module-poster-item module-item']",
   "cateVodName": "/@title",
   "cateVodId": "//@href",
   "cateVodIdR": "/voddetail/(\\w+).html",
