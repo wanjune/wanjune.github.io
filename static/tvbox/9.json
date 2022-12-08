@@ -121,7 +121,6 @@
     {"key":"net_vodimg","name":"🐝影图资源[NET]","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"csp_xpath_kuqimv","name":"🎙酷奇MV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/kuqimv.json"},
     {"key":"csp_xbpq_sharenice","name":"🍀短视频[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/sharenice.json"},
-    {"key":"drpy_ysxs8","name":"🎧有声小说[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/ysxs8.js"},
     {"key":"csp_biubiu_tingbook","name":"🎧天天听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
     {"key":"csp_biubiu_tingshu","name":"🎧520听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingshu.json"}
   ],
