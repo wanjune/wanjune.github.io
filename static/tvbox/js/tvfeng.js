@@ -1,0 +1,21 @@
+
+var rule = {
+  title: 'TV蜂',
+  host: 'https://www.tvfeng.net',
+  url: '/tvfenshow/fyclass--time------fypage---.html',
+  searchUrl: '/tvfensearch/**----------1---.html',
+  searchable: 2,
+  quickSearch: 1,
+  filterable: 1,
+  headers: { 'User-Agent': 'MOBILE_UA' },
+  class_name: '动漫&综艺&剧集&+国产&+日韩&+欧美&电影',
+  class_url: '4&3&2&13&15&16&1',
+  play_parse: true,
+  lazy: '',
+  limit: 8,
+  推荐: '.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+  double: true,
+  一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+  二级: { "title": "h1&&Text;.tag-link&&Text", "img": ".module-item-pic&&img&&data-src", "desc": ".video-info-items:eq(0)&&Text;.video-info-items:eq(3)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(1)&&Text", "content": ".vod_content&&Text", "tabs": ".module-tab-item", "lists": ".module-player-list:eq(#id)&&.scroll-content&&a" },
+  搜索: '.module-items .module-search-item;h3&&Text;img&&data-src;.video-serial&&Text;a&&href',
+}
