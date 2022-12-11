@@ -3,7 +3,7 @@
   "ua": "",
   "homeUrl": "https://xfeiji.com",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1"},
-  "homeVodNode": "//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
+  "homeVodNode": "//div[@class='myui-panel-box clearfix' and contains(.//h3/text(),'最新') and not(contains(.//h3/text(),'说电影')) and not(contains(.//h3/text(),'资讯'))]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/display/(\\w+).html",
