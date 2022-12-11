@@ -1,0 +1,9 @@
+{
+  "drives":[
+    {"name":"9T","server":"https://drive.9t.ee"},
+    {"name":"木偶","server":"https://www.kugutsu.ml"},
+    {"name":"晴园","server":"https://alist.52qy.repl.co"},
+    {"name":"梓澪","server":"https://zi0.cc"},
+    {"name":"1只鱼","server":"https://alist.youte.ml"}
+  ]
+}
