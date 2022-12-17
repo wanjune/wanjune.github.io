@@ -9,7 +9,6 @@
     {"key":"csp_Nmys","name":"农民影视[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/nmys.json"},
     {"key":"csp_xpath_meiju","name":"🐼美剧网[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_xuanmao","name":"🐼炫猫影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xuanmao.json"},
-    {"key":"csp_xpath_007","name":"🐼零零七[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/007.json"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_koudaitv","name":"口袋TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/koudaitv.json"},
     {"key":"csp_xpath_cokemv","name":"COKEMV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
