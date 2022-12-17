@@ -21,6 +21,7 @@
   "搜索副标题": "module-item-note\">&&</div>",
   "搜索链接": "href=\"&&\"",
   "搜索链接前缀": "http://www.panghuys.com",
+  "搜索后缀": "/v/",
   "筛选":{
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
