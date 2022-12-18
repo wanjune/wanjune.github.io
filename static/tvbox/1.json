@@ -21,7 +21,6 @@
     {"key":"csp_xpath_xfeiji","name":"小小影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
     {"key":"csp_xpath_348z","name":"348电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/348z.json"},
     {"key":"csp_xpath_zxdy","name":"在线电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxdy.json"},
-    {"key":"csp_xpath_yszx","name":"影视在线[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yszx.json"},
     {"key":"csp_xpath_f7hkj","name":"F7好看剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/f7hkj.json"},
     {"key":"csp_xpath_dadagui","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_vip1280","name":"VIP电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/vip1280.json"},
