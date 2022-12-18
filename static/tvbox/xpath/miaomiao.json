@@ -2,7 +2,7 @@
 	"author": "wanjune",
 	"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 	"homeUrl": "https://www.2345ka.com",
-	"cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","音乐":"6","\u4f26\u7406":"5"},
+	"cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","\u4f26\u7406":"5"},
 	"homeVodNode": "//div[contains(@id,'listId') and not(contains(@id,'5')) and not(contains(@id,'6'))]/div[contains(@class,'movie-list-body')]/div[contains(@class,'movie-list-item')]",
 	"homeVodName": "/a/div[2]/div[1]/text()",
 	"homeVodId": "/a/@href",
@@ -70,9 +70,6 @@
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ],
     "5": [
-      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
-    ],
-    "6": [
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ]
   }
