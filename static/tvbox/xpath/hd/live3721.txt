@@ -553,8 +553,10 @@ AIPTV-Russian,http://cdn.adultiptv.net/russian.m3u8
 AIPTV-Teen,http://cdn.adultiptv.net/teen.m3u8
 AIPTV-Threesome,http://cdn.adultiptv.net/threesome.m3u8
 AIPTV-Woman,http://live.redtraffic.net/woman.m3u8
-MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+FashionTV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 MiamiTV-Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 MyCamTV-Anal,http://live.mycamtv.com/anal.m3u8
 MyCamTV-Asian,http://live.mycamtv.com/asian.m3u8
 MyCamTV-Big Ass,http://live.mycamtv.com/defstream.m3u8
@@ -566,4 +568,3 @@ MyCamTV-Latina,http://live.mycamtv.com/latina.m3u8
 MyCamTV-Skinny,http://live.mycamtv.com/arab.m3u8
 MyCamTV-Squirt,http://live.mycamtv.com/squirt.m3u8
 MyCamTV-White,http://live.mycamtv.com/white.m3u8
-Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
