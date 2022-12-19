@@ -2,9 +2,9 @@
   "spider":"https://wanjune.github.io/static/tvbox/jar/221215.dylib;md5;046F07E8D4E0898921EABF6753AC6DA8",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
-    {"key":"csp_QQ","name":"腾讯视频[SP]","type":3,"api":"csp_QQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib"},
-    {"key":"csp_IQIYI","name":"爱奇艺[SP]","type":3,"api":"csp_IQIYI","playerType":2,"quickSearch":1,"searchable":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib"},
-    {"key":"csp_Mgtv","name":"芒果TV[SP]","type":3,"api":"csp_Mgtv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib"},
+    {"key":"csp_QQ","name":"腾讯视频[SP]","type":3,"api":"csp_QQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib","categories":["少儿","动漫","电视剧","电影","纪录片"]},
+    {"key":"csp_IQIYI","name":"爱奇艺[SP]","type":3,"api":"csp_IQIYI","playerType":2,"quickSearch":1,"searchable":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib","categories":["儿童","动漫","综艺","电视","电影","记录"]},
+    {"key":"csp_Mgtv","name":"芒果TV[SP]","type":3,"api":"csp_Mgtv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wanjune.github.io/static/tvbox/jar/Pandora.dylib","categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
