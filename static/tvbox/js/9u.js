@@ -1,0 +1,21 @@
+
+var rule = {
+  desc: 'https://www.9udyw.com https://www.9udyw.top https://www.9udyw.xyz',
+  title: '9U电影',
+  host: 'https://www.9udy.com',
+  url: '/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
+  searchUrl: '/index.php/vod/search/page/1/wd/**.html',
+  searchable: 2,
+  quickSearch: 1,
+  filterable: 1,
+  class_name: '动画&综艺&剧集&+国产&+日韩&+欧美&电影',
+  class_url: '4&3&2&13&15&16&1',
+  play_parse: true,
+  lazy: '',
+  limit: 8,
+  推荐: '.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+  double: true,
+  一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+  二级: { "title": "h1&&Text;.tag-link&&Text", "img": ".module-item-pic&&img&&data-src", "desc": ".video-info-items:eq(-2)&&Text;.video-info-items:eq(-1)&&Text;.video-info-items:eq(-2)&&Text;.video-info-items:eq(1)&&.video-info-item&&Text;.video-info-items:eq(-2)&&.video-info-item&&Text", "content": ".zkjj_a&&Text", "tabs": ".module-tab-item", "lists": ".module-player-list:eq(#id)&&.scroll-content&&a" },
+  搜索: '.module-items .module-search-item;h3&&Text;*;.video-serial&&Text;*',
+}
