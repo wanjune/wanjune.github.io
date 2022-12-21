@@ -85,14 +85,7 @@
     {"key":"csp_biubiu_vtuapp","name":"七年影视[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/vtuapp.json"},
     {"key":"csp_biubiu_8kvod","name":"8K影视[XB]","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/8kvod.json"},
     {"key":"csp_biubiu_huamaotv","name":"花猫TV[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/huamaotv.json"},
-
-    {"key":"app_nqcode","name":"玖卿乐播","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
-    {"key":"app_yc","name":"尘云影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
-    {"key":"net_mbo","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-    {"key":"net_vodimg","name":"影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"net_vipmv","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"net_100t","name":"百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+    {"key":"net_anltv","name":"忆梦影视[NET]","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"https://vip.anltv.cn/?url=","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_xbpq_sharenice","name":"🍀短视频[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/sharenice.json"},
     {"key":"csp_xpath_kuqimv","name":"🎙酷奇MV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/kuqimv.json"},
     {"key":"csp_biubiu_tingbook","name":"🎧天天听书[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xb/tingbook.json"},
