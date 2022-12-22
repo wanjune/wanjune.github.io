@@ -4,7 +4,6 @@
   "ua": "Mozilla/5.0 (Linux; Android 12; M2007J1SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.48 Mobile Safari/537.36",
   "homeUrl": "https://libvio.fun",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1"},
-  // "homeVodNode": "//ul[@class='stui-vodlist clearfix'][1]//div[contains(@class,'stui-vodlist__box')]/a",
   "homeVodNode": "//ul[@class='stui-vodlist clearfix'][position()<6 and position()>1]/li[position()<7]/div[contains(@class,'stui-vodlist__box')]/a",
   "homeVodName": "/@title",
   "homeVodNameR": "",
