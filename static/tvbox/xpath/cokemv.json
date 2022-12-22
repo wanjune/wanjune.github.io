@@ -10,7 +10,7 @@
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"3","综艺":"29","剧集":"2","+国产":"13","+韩国":"14","+日本":"15","+欧美":"32","电影":"1"},
   // "homeVodNode": "//div[@class='module-main scroll-box']//a[@class='module-poster-item module-item']",
-  "homeVodNode": "(//div[contains(@class,'module-main tab-list') and contains(@class,'active')])[position()<5]//a[@class='module-poster-item module-item'][position()<7]",
+  "homeVodNode": "//div[@class='module' and not(contains(.//h2//text(),'抖音')) and not(contains(.//h2//text(),'新片'))]//div[contains(@class,'module-main tab-list') and contains(@class,'active')]//a[@class='module-poster-item module-item'][position()<7]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\w+).html",
