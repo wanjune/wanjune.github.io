@@ -52,7 +52,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.fun4k.com/vodplay/{playUrl}/",
   "playUa": "",
-  "searchUrl": "https://www.fun4k.com//index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.fun4k.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
