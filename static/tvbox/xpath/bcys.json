@@ -9,7 +9,6 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+海外":"16","电影":"1"},
-  // "homeVodNode": "//div[@class='module'][1]//a[@class='module-poster-item module-item']",
   "homeVodNode": "//div[@class='module'][position()<6 and position()>1]//div[contains(@class,'module-main tab-list  active')]//a[@class='module-poster-item module-item'][position()<7]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
