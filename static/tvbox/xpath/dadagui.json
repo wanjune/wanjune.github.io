@@ -9,7 +9,6 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
-  // "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div/a",
   "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li[position()<6]/div/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",

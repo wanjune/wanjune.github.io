@@ -2,8 +2,14 @@
   "author": "wanjune",
   "ua": "Mozilla/5.0 (Linux; Android 12; M2007J1SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.48 Mobile Safari/537.36",
   "homeUrl": "https://wnvod.net",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://wnvod.net/static/js/playerconfig.js",
+  "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
-  "homeVodNode": "//ul[@class='myui-vodlist clearfix'][1]/li/div/a[@class='myui-vodlist__thumb lazyload']",
+  // "homeVodNode": "//ul[@class='myui-vodlist clearfix'][1]/li/div/a[@class='myui-vodlist__thumb lazyload']",
+  "homeVodNode": "//div[@class='myui-panel myui-panel-bg clearfix' and not(contains(.//h3/text(),'推荐'))]//ul[@class='myui-vodlist clearfix']/li[position()<7]/div/a[@class='myui-vodlist__thumb lazyload']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\w+).html",
@@ -74,7 +80,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "2": [
       {"name":"剧情","key":"class","value":[{"n":"全部","v":""},
@@ -88,7 +94,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "3": [
       {"name":"地区","key":"area","value":[{"n":"全部","v":""},
@@ -102,7 +108,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "4": [
       {"name":"地区","key":"area","value":[{"n":"全部","v":""},
@@ -115,7 +121,7 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ]
   }
 }
