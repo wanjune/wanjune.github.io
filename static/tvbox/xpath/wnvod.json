@@ -8,7 +8,6 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
-  // "homeVodNode": "//ul[@class='myui-vodlist clearfix'][1]/li/div/a[@class='myui-vodlist__thumb lazyload']",
   "homeVodNode": "//div[@class='myui-panel myui-panel-bg clearfix' and not(contains(.//h3/text(),'推荐'))]//ul[@class='myui-vodlist clearfix']/li[position()<7]/div/a[@class='myui-vodlist__thumb lazyload']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
