@@ -9,6 +9,7 @@
     {"key":"csp_xpath_sobods","name":"真不卡1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/sobods.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xpath_cerrd","name":"真不卡2[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrd.json"},
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/heihu.json"},
+    {"key":"csp_xpath_f7hkj","name":"F7好看剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/f7hkj.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xbpq_juren","name":"🍀巨人影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/juren.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xbpq_yy6080","name":"🍀新视觉[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/yy6080.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xbpq_tk","name":"🍀天空影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/tk.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
@@ -56,6 +57,9 @@
     {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
     {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
     {"host":"www.007ts.me","rule":["hls.pchj.net",".m3u8"]},
+    {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time="]},
+    {"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
+    {"host": "www.sharenice.net","rule": ["qianpailive.com","vid="]},
     {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
     {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
     {"host":"*","rule":["aliyundrive.net","response-content-disposition=",".m3u8"]},
@@ -65,11 +69,10 @@
     {"host":"*","rule":["/API.php?time=","key=","path=",".m3u8"]},
     {"host":"*","rule":["oss-cn-m3u8","myqcloud.com.zh188.net","?url=",".m3u8"]},
     {"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
+    {"host": "*","rule":["douyin.com/aweme","video_id="]},
     {"host":"*","rule":["huoshan.com","/item/video/"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
-    {"host":"*","rule":["mp3"]},
-    {"host":"*","rule":["m4a"]}
+    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
