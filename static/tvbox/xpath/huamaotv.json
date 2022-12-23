@@ -40,7 +40,7 @@
   "dtActorR": "",
   "dtDirector": "//span[contains(text(),'导演')]/parent::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(@class,'text-muted') and contains(text(),'简介')]/parent::*/text()",
+  "dtDesc": "concat(//span[contains(@class,'text-muted') and contains(text(),'简介')]/parent::*/text())",
   "dtDescR": "",
   "dtFromNode": "//div[@class='stui-pannel clearfix' and contains(./ul/@class,'stui-content__playlist')]",
   "dtFromName": "/div/h3/text()",
