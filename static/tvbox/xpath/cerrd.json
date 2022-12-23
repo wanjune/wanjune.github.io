@@ -1,0 +1,77 @@
+{
+  "author": "wanjune",
+  "desc": "http://52kan.info http://www.kan8.tv http://www.oaboab.com http://www.2bcctv.com http://www.70kb.com http://www.kan8x.com http://www.osposp.com ",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
+  "homeUrl": "http://www.kan8.tv",
+  "cateManual": {"动漫":"3","综艺":"4","剧集":"2","电影":"1","\u4f26\u7406":"40"},
+  "homeVodNode": "//ul[contains(@class,'stui-vodlist')]/li[position()<9]/div[@class='stui-vodlist__box']",
+  "homeVodName": "/a/@title",
+  "homeVodId": "/a/@href",
+  "homeVodIdR": "/(.*).html",
+  "homeVodImg": "/a/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "//a/span[contains(@class,'pic-text')]/text()",
+  "cateUrl": "http://www.kan8.tv/films/{cateId}_{catePg}.html?order={by}",
+  "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div[@class='stui-vodlist__box']",
+  "cateVodName": "/a/@title",
+  "cateVodId": "/a/@href",
+  "cateVodIdR": "/(.*).html",
+  "cateVodImg": "/a/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/a/span[contains(@class,'pic-text')]/text()",
+  "dtUrl": "http://www.kan8.tv/{vid}.html", 
+  "dtNode": "//body",
+  "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/@title",
+  "dtNameR": "",
+  "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
+  "dtImgR": "",
+  "dtCate": "//span[contains(@class,'text-muted') and contains(text(),'类型')]/following-sibling::a[1]/text()",
+  "dtCateR": "",
+  "dtYear": "//span[contains(@class,'text-muted') and contains(text(),'年份')]/following-sibling::a[1]/text()",
+  "dtYearR": "",
+  "dtArea": "//span[contains(@class,'text-muted') and contains(text(),'地区')]/following-sibling::a[1]/text()",
+  "dtAreaR": "",
+  "dtMark": "//div[@class='stui-content__thumb']//span[@class='pic-text text-right']/text()",
+  "dtMarkR": "",
+  "dtActor": "concat(//span[contains(@class,'text-muted') and contains(text(),'主演')]/parent::*//text())",
+  "dtActorR": "主演：(.*)",
+  "dtDirector": "//span[contains(@class,'text-muted') and contains(text(),'导演')]/following-sibling::*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//*[contains(@class, 'desc') or contains(@class, 'detail-sketch')]/allText()",
+  "dtDescR": "",
+  "dtFromNode": "//ul[@class='nav nav-tabs active']/li/a",
+  "dtFromName": "text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//*[contains(@class, 'stui-content__playlist') or contains(@class,'videourl')]",
+  "dtUrlSubNode": "/li",
+  "dtUrlId": "/a/@href",
+  "dtUrlIdR": "/(.*).html",
+  "dtUrlName": "/a/text()",
+  "dtUrlNameR": "",
+  "playUrl": "http://www.kan8.tv/{playUrl}.html",
+  "playUa": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
+  "searchUrl": "http://www.kan8.tv/search.php?searchword={wd};post",
+  "scVodNode": "//ul[contains(@class,'stui-vodlist__media')]/li",
+  "scVodName": "/div/a/@title",
+  "scVodId": "/div/a/@href",
+  "scVodIdR": "/view/(\\w+).html",
+  "scVodImg": "/div/a/@data-original",
+  "scVodMark": "/div/a/span[@class='pic-text text-right']/text()",
+  "filter": {
+    "1": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "2": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "3": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "4": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ],
+    "40": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"}]}
+    ]
+  }
+}
