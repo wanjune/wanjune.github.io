@@ -31,7 +31,7 @@
   "dtYearR": "",
   "dtArea": "//span[contains(@class,'text-muted') and contains(text(),'地区')]/following-sibling::a[1]/text()",
   "dtAreaR": "",
-  "dtActor": "concat(//span[contains(@class,'text-muted') and contains(text(),'主演')]/following-sibling::a//text(),'/')",
+  "dtActor": "concat(//span[contains(@class,'text-muted') and contains(text(),'主演')]/following-sibling::a//text())",
   "dtActorR": "",
   "dtDirector": "//span[contains(@class,'text-muted') and contains(text(),'导演')]/following-sibling::a[1]/text()",
   "dtDirectorR": "",
