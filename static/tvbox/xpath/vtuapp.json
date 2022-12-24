@@ -26,7 +26,7 @@
   "cateVodMark": "/span[@class='pic-text text-right']/text()",
   "dtUrl": "https://www.whany.top/voddetail/{vid}.html",
   "dtNode": "//body",
-  "dtName": "///h1[@class='title']/text()",
+  "dtName": "//h1[@class='title']/text()",
   "dtNameR": "",
   "dtImg": "//a[contains(@class,'v-thumb')]/img/@data-original",
   "dtImgR": "",
