@@ -37,7 +37,7 @@
   "dtMark": "//span[contains(text(),'集数')]/following-sibling::div[1]/text()",
   "dtMarkR": "",
   "dtActor": "concat(//span[contains(text(),'主演')]/following-sibling::div[1]//text())",
-  "dtActorR": "",
+  "dtActorR": "/(.*)/",
   "dtDirector": "//span[contains(text(),'导演')]/following-sibling::div[1]/a[1]/text()",
   "dtDirectorR": "",
   "dtDesc": "//div[contains(@class,'vod_content')]/span/text()",

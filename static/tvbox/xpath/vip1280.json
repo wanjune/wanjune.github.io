@@ -42,7 +42,7 @@
   "dtActorR": "",
   "dtDesc": "//span[contains(@class,'detail-content')]/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'stui-pannel__head')]/h3",
+  "dtFromNode": "//div[contains(@class,'playlist')]//div[contains(@class,'stui-pannel__head')]/h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",
