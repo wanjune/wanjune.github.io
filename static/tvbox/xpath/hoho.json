@@ -44,7 +44,7 @@
   "dtDirectorR": "/(.*)/",
   "dtDesc": "//div[contains(@class,'vod_content')]/a[1]/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'module-tab-content')]/div",
+  "dtFromNode": "//div[contains(@class,'module-tab-content')]/div[contains(@class,'module-tab-item')]",
   "dtFromName": "concat(/span/text(),'＃',/small/text())",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='scroll-content']",
