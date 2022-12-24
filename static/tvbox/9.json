@@ -34,6 +34,7 @@
     {"key":"csp_xpath_qcsvip","name":"QC影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qcsvip.json"},
     {"key":"csp_xpath_vip1280","name":"VIP影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/vip1280.json"},
     {"key":"csp_xpath_hoho","name":"吼吼TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hoho.json"},
+    {"key":"csp_xpath_umkan","name":"UM电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/umkan.json"},
     {"key":"csp_xbpq_ikan","name":"🍀爱看影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
     {"key":"csp_xbpq_98ju","name":"🍀98影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/98ju.json"},
     {"key":"csp_xbpq_lgyy","name":"🍀蓝光影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/lgyy.json"},
