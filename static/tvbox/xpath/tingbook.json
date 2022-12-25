@@ -48,7 +48,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.tingbook.cc/jpplay/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.tingbook.cc/search.php?searchword=",
+  "searchUrl": "https://www.tingbook.cc/search.php?searchword={wd}",
   "scVodNode": "//div[@class='style-img clearfix']",
   "scVodName": "//a[@class='f-bold']/text()",
   "scVodId": "//a[@class='f-bold']/@href",

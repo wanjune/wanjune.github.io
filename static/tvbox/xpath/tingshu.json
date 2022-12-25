@@ -48,7 +48,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.520tingshu.net/play/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.520tingshu.net/search.php?searchword=",
+  "searchUrl": "https://www.520tingshu.net/search.php?searchword={wd}",
   "scVodNode": "//div[@class='style-img clearfix']",
   "scVodName": "//a[@class='f-bold']/text()",
   "scVodId": "//a[@class='f-bold']/@href",
