@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/221223.dylib;md5;90843F57C2A2EC547E12D3D19B447CF0",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/221225.dylib;md5;8F86EB79293B22966BA2C54A7C34E2EB",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_xpath_kbz","name":"扛把子[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kbz.json","categories":["动漫","综艺","剧集","电影","音乐","\u4f26\u7406"]},
