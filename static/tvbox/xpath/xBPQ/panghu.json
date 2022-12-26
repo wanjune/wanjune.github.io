@@ -1,7 +1,7 @@
 {
   "作者": "wanjune",
   "站名": "胖虎影视",
-  "主页url": "http://www.panghuys.com",
+  "主页url": "https://www.panghuys.com",
   "副标题": "module-item-note\">&&</div>",
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>[替换:</span><small>>>＃]",
@@ -12,7 +12,7 @@
   "播放数组": "<div class=\"module-play-list\">&&</div>",
   "免嗅": "1",
   "分类": "动漫$4#综艺$3#剧集$2#电影$1",
-  "分类url": "http://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类url": "https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
   "搜索模式": "1",
   "搜索url": "/vodsearch/{wd}-/page/1.html", 
   "搜索数组": "module-card-item-class&&referrerpolicy=\"no-referrer\"",
@@ -20,7 +20,7 @@
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "module-item-note\">&&</div>",
   "搜索链接": "href=\"&&\"",
-  "搜索链接前缀": "http://www.panghuys.com",
+  "搜索链接前缀": "https://www.panghuys.com",
   "搜索后缀": "/v/",
   "筛选":{
     "1":[
