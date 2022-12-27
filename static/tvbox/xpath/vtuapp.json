@@ -17,6 +17,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/span[@class='pic-text text-right']/text()",
   "cateUrl": "https://www.whany.top/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "cateVodNode": "//div[@class='stui-vodlist__box']/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\w+).html",
