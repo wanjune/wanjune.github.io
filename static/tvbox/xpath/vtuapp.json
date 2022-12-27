@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://www.vtuapp.com",
-  "ua": "",
+  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "https://www.whany.top",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.whany.top/static/js/playerconfig.js",
@@ -51,7 +51,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.whany.top/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "searchUrl": "https://www.whany.top/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
