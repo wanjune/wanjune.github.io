@@ -1,7 +1,8 @@
 var rule = {
   title: '楚门影视',
   host: 'https://www.chumenys.com',
-  searchUrl: '/vodsearch/**----------1---.html',
+  // searchUrl: '/vodsearch/**----------1---.html',
+  searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=10',
   searchable: 2,
   quickSearch: 1,
   filterable: 1,
@@ -27,5 +28,6 @@ var rule = {
   double: true,
   一级: '.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
   二级: { "title": ".myui-content__detail .title&&Text;.text-muted:eq(-1)&&Text", "img": ".myui-content__thumb .lazyload&&data-original", "desc": ".text-muted:eq(-1)&&Text;.text-muted:eq(-1)&&Text;.myui-content__detail p:eq(1)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text", "content": ".content&&Text", "tabs": ".nav-tabs:eq(0) li", "lists": ".myui-content__list:eq(#id) li" },
-  搜索: '#searchList li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.text-muted:eq(-1)&&Text',
+  // 搜索: '#searchList li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.text-muted:eq(-1)&&Text'
+  搜索: 'json:list;name;pic;;id'
 }
