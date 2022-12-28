@@ -16,7 +16,7 @@
   "homeVodImg": "/a[contains(@class,'fed-list-pics')]/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "//span[contains(@class,'fed-list-remarks')]/text()",
-  "cateUrl": "https://www.39kan.com/vodshow/vodshow/{cateId}{area}{by}/page/{catePg}{year}.html",
+  "cateUrl": "https://www.39kan.com/vodshow/{cateId}{area}{by}/page/{catePg}{year}.html",
   "cateVodNode": "//ul/li[contains(@class,'fed-list-item')]",
   "cateVodName": "/a[contains(@class,'fed-list-title')]/text()",
   "cateVodId": "/a[contains(@class,'fed-list-title')]/@href",
