@@ -9,7 +9,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {"动漫":"3","综艺":"29","剧集":"2","+国产":"13","+韩国":"14","+日本":"15","+欧美":"32","电影":"1"},
-  "homeVodNode": "//div[@class='module-main tab-list active']/div/a[position()<37]",
+  "homeVodNode": "//div[@class='module-main tab-list active']/div/a[position()<33]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\w+).html",
