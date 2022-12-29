@@ -3,7 +3,7 @@
   "desc": "",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "https://fulisher.com/map/index.html",
-  "cateManual": {"短视频":"36","主播":"37","传媒":"23","探花":"34","解说":"38","\u65e0\u7801":"40","国产":"20","日本":"21","欧美":"22","动漫":"52"},
+  "cateManual": {"主播":"37","传媒":"23","探花":"34","解说":"38","\u65e0\u7801":"40","国产":"20","日本":"21","欧美":"22","动漫":"52"},
   "homeVodNode": "//ul[contains(@class,'hl-rank-list')]/li[position()<25]/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
