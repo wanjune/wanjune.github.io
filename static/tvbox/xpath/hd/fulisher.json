@@ -26,17 +26,17 @@
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'hl-dc-pic')]//span[contains(@class,'hl-item-thumb')]/@data-original",
   "dtImgR": "",
-  "dtCate": "//em[contains(text(),'類型')]/following-sibling::a[1]/text()",
+  "dtCate": "//em[contains(text(),'类型')]/following-sibling::a[1]/text()",
   "dtCateR": "",
   "dtYear": "//em[contains(text(),'年份')]/parent::*/text()",
   "dtYearR": "",
-  "dtArea": "//em[contains(text(),'地區')]/parent::*/text()",
+  "dtArea": "//em[contains(text(),'地区')]/parent::*/text()",
   "dtAreaR": "",
   "dtActor": "//em[contains(text(),'主演')]/parent::*/text()",
   "dtActorR": "",
-  "dtDirector": "//em[contains(text(),'導演')]/parent::*/text()",
+  "dtDirector": "//em[contains(text(),'导演')]/parent::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//em[contains(text(),'簡介')]/parent::*/text()",
+  "dtDesc": "//em[contains(text(),'简介')]/parent::*/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'hl-rb-playlist hl-tabs-item')]//div[contains(@class,'hl-play-source')]",
   "dtFromName": "//a[contains(@class,'hl-tabs-btn')]/@alt",
@@ -79,7 +79,6 @@
         {"n":"\u841d\u8389","v":"51"},
         {"n":"\u5973\u4ec6","v":"54"}
       ]},
-
       {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "22": [
