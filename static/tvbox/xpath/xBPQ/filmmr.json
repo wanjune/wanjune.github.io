@@ -1,7 +1,7 @@
 {
   "作者": "wanjune",
-  "desc": "http://dyxs.vip",
-  "主页url": "https://dyxs25.com",
+  "desc": "http://dyxs.vip http://dyxs.me http://dyxs.de http://dianying.in",
+  "主页url": "https://dyxs29.com",
   "ua": "手机",
   "热门推荐": "1",
   "起始页": "1",
@@ -23,14 +23,14 @@
   "免嗅": "1",
   "嗅探词": ".m3u8",
   "过滤词": "",
-  "搜索url": "https://dyxs25.com/search-{wd}-------------/",
+  "搜索url": "https://dyxs29.com/search-{wd}-------------/",
   "搜索模式": "1",
   "搜索二次截取": "",
   "搜索数组": "module-search-item\">&&<h3",
   "搜索图片": "data-src=\"&&\"",
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
-  "分类url": "https://dyxs25.com/pianku-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+  "分类url": "https://dyxs29.com/pianku-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   "分类": "动漫$4#综艺$3#剧集$2#+国产$13#+日韩$15#+欧美$16#电影$1",
   "筛选": {
     "1":[
