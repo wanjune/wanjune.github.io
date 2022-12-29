@@ -17,7 +17,7 @@
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\w+).html",
-  "cateVodImg": "//div[@class='hl-item-pic']/i/@data-original",
+  "cateVodImg": "/@data-original",
   "cateVodImgR": "",
   "cateVodMark": "//div[@class='hl-pic-text']/span/text()",
   "dtUrl": "https://fulisher.com/voddetail/{vid}.html",
