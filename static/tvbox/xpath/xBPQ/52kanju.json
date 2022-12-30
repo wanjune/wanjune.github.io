@@ -4,6 +4,7 @@
   "分类": "动漫$4#综艺$3#剧集$2#电影$1",
   "分类url": "https://985pc.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "副标题": "module-item-note\">&&</div>",
+  "链接":"href=\"&&\"",
   "搜索模式": "1",
   "搜索url": "/vodsearch/{wd}----------{pg}---.html",
   "搜索数组": "module-item\">&&</a>",
@@ -11,12 +12,15 @@
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "module-item-note\">&&</div>",
   "搜索链接": "href=\"&&\"",
+  "搜索后缀":"/voddetail/",
+  "影片类型":"<div class=\"module-info-tag\"&&立即播放",
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>[替换:</span><small>>>＃]",
   "播放数组": "module-play-list\">&&</div>",
+  "免嗅":"1",
   "筛选": {
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
