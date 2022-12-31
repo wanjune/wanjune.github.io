@@ -9,7 +9,6 @@
     {"key":"csp_Nkdy","name":"南柯[SP]","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788","categories":["动漫","综艺","连续剧","电影"]},
-    {"key":"csp_Fantuan","name":"饭团[SP]","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
     {"key":"csp_xpath_cokemv","name":"COKEMV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
     {"key":"csp_xpath_libvio","name":"LIBVIO[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
@@ -83,8 +82,6 @@
     {"key":"csp_xpath_kbz","name":"扛把子[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kbz.json"},
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影"]},
-    {"key":"csp_xbpq_sharenice","name":"🍀短视频[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/sharenice.json"},
-    {"key":"csp_xpath_kuqimv","name":"🎙酷奇MV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/kuqimv.json"},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"}
   ],

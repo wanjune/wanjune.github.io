@@ -37,7 +37,7 @@
   "dtYear": "//div[@class='module-info-tag-link'][1]/a/text()",
   "dtArea":"//div[@class='module-info-tag-link'][2]/a/text()",
   "dtAreaR": "",
-  "dtDesc": "//div[contains(@class,'module-info-introduction-content')]/p/text()",
+  "dtDesc": "//div[contains(@class,'module-info-introduction')]//span/text()",
   "dtDescR": "",
   "dtActor": "concat(//span[contains(text(),'主演')]/following-sibling::div[1]//text())",
   "dtActorR": "(.*)/",
