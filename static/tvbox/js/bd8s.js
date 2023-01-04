@@ -1,5 +1,6 @@
 var rule = {
   title: '叭度影视',
+  desc: 'https://bd88s.com',
   host: 'https://www.bd8s.com',
   url: '/vodshow/fyclass--time------fypage---/',
   searchUrl: '/vodsearch/**----------1---/',
