@@ -103,18 +103,14 @@
     {"name":"轮询","type":2,"url":"Sequence"},
     {"name":"Q1A","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="},
     {"name":"Q1B","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url="},
-    {"name":"融兴","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-    {"name":"鸿途","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url="},
-    {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
-    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
     {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url="},
     {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="},
-    {"name":"PPJ","type":0,"url":"https://jx.ppjbk.cn/?url="},
-    {"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v="}
+    {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
+    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+    {"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="}
   ],
   "flags":["qq","腾讯","qiyi","奇艺","iqiyi","爱奇艺","youku","优酷","mgtv","芒果","letv","leshi","乐视","pptv","PPTV","sohu","搜狐","bilibili","哔哩哔哩","bili","哔哩","xigua","西瓜","tudou","土豆","wasu","华数"],
   "ijk":[
