@@ -1,6 +1,7 @@
 var rule = {
   title: '兔小贝',
   host: 'https://www.tuxiaobei.com',
+  homeUrl:'https://www.tuxiaobei.com/subject/54',
   url: '/list/mip-data?typeId=fyclass&page=fypage&callback=',
   detailUrl: '/play/fyid',
   searchUrl: '/search/index?key=**',
