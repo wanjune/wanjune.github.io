@@ -1,7 +1,7 @@
 var rule = {
   title: '兔小贝',
   host: 'https://www.tuxiaobei.com',
-  homeUrl:'https://www.tuxiaobei.com/erge',
+  homeUrl:'https://www.tuxiaobei.com/list/mip-data?typeId=&page=1&callback=',
   url: '/list/mip-data?typeId=fyclass&page=fypage&callback=',
   detailUrl: '/play/fyid',
   searchUrl: '/search/index?key=**',
@@ -12,7 +12,8 @@ var rule = {
   timeout: 5000,
   class_url: '3&25&4&2',
   class_name: '故事&英语&国学&儿歌',
-  推荐: '.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
+  // 推荐: '.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
+  推荐: 'json:data.items;name;image;duration_string;video_id',
   double: true,
   limit: 5,
   play_parse: true,
