@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230119.dylib;md5;41542D12E472BE5F1EF53990CF0CFD94",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230121.dylib;md5;678BD405252EEB8EF98596EFA77B6092",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"t4_douban","name":"豆瓣推荐","type":4,"api":"http://t4.饭太硬.ml/vod","searchable":0,"quickSearch":0,"filterable":0,"categories":["电视榜单","电影榜单","热播剧集","热门电影","电视筛选","电影筛选"]},
