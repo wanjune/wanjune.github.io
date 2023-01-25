@@ -1,7 +1,6 @@
 var rule = {
   title: '花屋影视',
   host: 'https://www.huafun.vip',
-  // searchUrl: '/index.php/vod/search/page/1/wd/**.html',
   searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=10',
   searchable: 2,
   quickSearch: 1,
