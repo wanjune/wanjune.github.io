@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230121.dylib;md5;678BD405252EEB8EF98596EFA77B6092",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230126.dylib;md5;A465DBE8F91636BD435C70B399F5C14A",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -72,7 +72,12 @@
     {"key":"csp_xpath_miaomiao","name":"喵喵电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/miaomiao.json"},
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
-    {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"}
+    {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"},
+    {"key":"csp_PanSou","name":"盘搜[SP]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
+    {"key":"csp_YiSo","name":"易搜[SP]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
+    {"key":"csp_UpYun","name":"UP云搜[SP]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
+    {"key":"csp_Zhaozy","name":"找资源[SP]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
+    {"key":"csp_push","name":"推送[SP]","type":3,"api":"csp_push","searchable":1,"quickSearch":1,"filterable":1,"ext":"8eb1598d8d6c47baac0bb1b507d803df"}
   ],
   "rules":[
     {"host":"dyxs20.com","rule":[".m3u8"]},
