@@ -103,6 +103,7 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
+    {"name":"星辰","type":1,"url":"http://svip.xn--9kq078cdn3a.cc/api/?key=X1k0ePfQloi7b4S37w&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"云You","type":1,"url":"https://chaloli.cn/api/?key=bb22f39a69278dff2a48c4222eea4a5c&url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
