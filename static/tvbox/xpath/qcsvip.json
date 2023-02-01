@@ -15,7 +15,7 @@
   "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
   "homeVodImg": "concat('https://www.qcsvip.com',//img/@data-src)",
   "homeVodMark": "//div[@class='module-item-text']/text()",
-  "cateUrl": "https://www.qcsvip.com/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}/year{year}.html",
+  "cateUrl": "https://www.qcsvip.com/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   "cateVodNode": "//div[contains(@class,'module-item module-item-go')]",
   "cateVodName": "//div[@class='module-item-titlebox']/a/text()",
   "cateVodId": "//div[@class='module-item-titlebox']/a/@href",

@@ -15,7 +15,7 @@
   "homeVodIdR": "/vod/detail/id/(\\w+).html",
   "homeVodImg": "/@data-original",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.xuanmao520.com/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}/year{year}.html",
+  "cateUrl": "https://www.xuanmao520.com/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   "cateVodNode": "//ul[@class='myui-vodlist clearfix']/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
