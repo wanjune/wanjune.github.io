@@ -2,7 +2,7 @@
   "spider":"https://wanjune.github.io/static/tvbox/jar/230201.dylib;md5;5F7E225597A5CAA094F8406E774BA8DE",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
-    {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
+    {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影","\u4f26\u7406"]},
     {"key":"csp_xpath_cerrd","name":"真不卡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cerrd.json"},
     {"key":"csp_xpath_heihu","name":"黑狐影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/heihu.json"},
