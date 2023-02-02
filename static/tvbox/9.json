@@ -40,6 +40,7 @@
     {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
     {"key":"csp_xpath_bulei","name":"布蕾影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bulei.json"},
     {"key":"csp_xpath_fun4k","name":"放肆看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/fun4k.json"},
+    {"key":"csp_xpath_kkdy","name":"看看电影[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkdy.json"},
     {"key":"csp_xbpq_ikan","name":"🍀爱看影视[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
     {"key":"csp_xbpq_lgyy","name":"🍀蓝光影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/lgyy.json"},
