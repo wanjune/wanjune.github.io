@@ -36,7 +36,7 @@
   "dtYearR": "",
   "dtArea": "//span[contains(text(),'地区')]/following-sibling::a[1]/text()",
   "dtAreaR": "",
-  "dtActor": "concat(//span[contains(text(),'主演')]/parent::*//text())",
+  "dtActor": "concat(//p[@class='data']/span[contains(text(),'主演')]/parent::*//text())",
   "dtActorR": "主演：(.*)",
   "dtDirector": "concat(//span[contains(text(),'导演')]/parent::*//text())",
   "dtDirectorR": "导演：(.*)",
