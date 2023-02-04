@@ -81,8 +81,6 @@
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-    // {"name":"云You1","type":1,"url":"https://chaloli.cn/api/?key=bb22f39a69278dff2a48c4222eea4a5c&url="},
-    // {"name":"云You2","type":1,"url":"https://chaloli.cn/api/?key=fee5845e4b9924e72cf2158cc20b2dfa&url="},
     {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url="},
     {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url="},
     {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
