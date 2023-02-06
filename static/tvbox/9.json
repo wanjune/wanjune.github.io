@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230204.dylib;md5;579B5724C9B51BA63AA055C64736B307",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230205.dylib;md5;DDAF13D7923EA1E333EA06ED930778A2",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -29,8 +29,8 @@
     {"key":"csp_xpath_dadagui","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_taojuya","name":"淘剧鸭[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/taojuya.json"},
     {"key":"csp_xpath_ttsp","name":"天天视频[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ttsp.json"},
-    {"key":"csp_xpath_wnvod","name":"万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
-    {"key":"csp_xpath_wugui","name":"乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wugui.json"},
+    {"key":"csp_xpath_wnvod","name":"🔷万能影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wnvod.json"},
+    {"key":"csp_xpath_wugui","name":"🔷乌龟影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/wugui.json"},
     {"key":"csp_xpath_juhuang","name":"剧荒TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/juhuang.json"},
     {"key":"csp_xpath_qcsvip","name":"QC影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qcsvip.json"},
     {"key":"csp_xpath_vip1280","name":"VIP影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/vip1280.json"},
@@ -110,6 +110,7 @@
     {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+    {"name":"万年","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
