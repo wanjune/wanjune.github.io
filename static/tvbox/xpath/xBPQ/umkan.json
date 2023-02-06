@@ -1,8 +1,9 @@
 {
   "作者": "wanjune",
-  "主页url": "https://www.umkan.com",
+  "desc": "https://www.umkan.com",
+  "主页url": "https://www.umkan.cc",
   "分类": "动漫$4#综艺$3#剧集$2#电影$1#纪录$29",
-  "分类url": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+  "分类url": "https://www.umkan.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html",
   "免嗅": "1",
   "导演": "导演：&&</div",
   "主演": "主演：&&</div",

@@ -107,7 +107,7 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
-    {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"星辰","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"万年","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
