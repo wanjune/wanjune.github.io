@@ -73,6 +73,7 @@
     {"key":"csp_xpath_qiyou","name":"奇优影院[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qiyou.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"},
+    //
     {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"52eb497172f44b498943ac642d62113e"},
     {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"52eb497172f44b498943ac642d62113e"},
     {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"52eb497172f44b498943ac642d62113e"},
