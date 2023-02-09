@@ -107,6 +107,7 @@
     {"name":"轮询","type":2,"url":"Sequence"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+    {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
