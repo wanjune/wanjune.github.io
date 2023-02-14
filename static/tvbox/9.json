@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230213.dylib;md5;F3704EA745EB05BCD2372069573E316D",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230213.dylib;md5;192BDD9454BEFB27EDF923DD0FB68FCB",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gvbGl2ZTkudHh0"]}]}],
   "sites":[
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -10,8 +10,9 @@
     {"key":"csp_Tian","name":"天天[SP]","type":3,"api":"csp_Dora","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392","categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"]},
     // {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_Dora","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==","categories":["动漫","综艺","连续剧","电影"]},
-    {"key":"csp_xpath_xuanmao","name":"🐼炫猫影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xuanmao.json"},
+    {"key":"csp_Yht","name":"野荷塘[SP]","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yehetang.cc"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhutv.json"},
+    {"key":"csp_xpath_xuanmao","name":"🐼炫猫影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xuanmao.json"},
     {"key":"csp_xpath_cokemv","name":"COKEMV[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/cokemv.json"},
     {"key":"csp_xpath_libvio","name":"LIBVIO[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"csp_xpath_yanetflix","name":"鸭奈非[XP]","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yanetflix.json"},
@@ -107,6 +108,7 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
+    {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},

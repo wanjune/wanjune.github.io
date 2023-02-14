@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230213.dylib;md5;F3704EA745EB05BCD2372069573E316D",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230213.dylib;md5;192BDD9454BEFB27EDF923DD0FB68FCB",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
@@ -80,6 +80,7 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
+    {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
