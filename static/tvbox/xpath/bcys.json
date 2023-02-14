@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://www.bcyingshi.ink https://bczhuiju.com",
   "ua": "",
-  "homeUrl": "https://bcys.pro/label/new",
+  "homeUrl": "http://bcys.pro/label/new",
   "dcVipFlag": "true",
   "pCfgJs": "http://bcys.pro/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
