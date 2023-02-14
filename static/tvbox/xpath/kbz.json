@@ -3,7 +3,7 @@
   "ua": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-7306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
   "desc": "https://www.90yc.com https://www.69kankan.com https://www.1kbz.com https://www.2kbz.com https://www.8kbz.com https://www.56kx.com ",
   "homeUrl": "https://www.ququmc.com",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1","\u4f26\u7406":"5"},
   "homeVodNode": "//div[@class='tbox' and not(contains( .//h3/text(),'福利')) and not(contains( .//h3/text(),'神曲'))]//ul[contains(@class,'tbox_m')]/li[position()<7]/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -69,6 +69,9 @@
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ],
     "4": [
+      {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
+    ],
+    "5": [
       {"key":"by","name":"排序","value":[{"n":"时间","v":""},{"n":"人气","v":"/hits"},{"n":"评分","v":"/score"}]}
     ]
   }
