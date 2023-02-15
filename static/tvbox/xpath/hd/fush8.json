@@ -1,7 +1,6 @@
 {
   "主页url": "https://fush8.com",
-  // "数组": "<div class=\"module-item\">&&</div>",
-  "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+  "数组": "<div class=\"module-item\">&&</div>",
   "图片": "data-src=\"&&\"",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
