@@ -1,4 +1,4 @@
-央视频道,#genre#
+🇨🇳央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
 CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
@@ -112,7 +112,7 @@ CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
-卫视频道,#genre#
+🇨🇳卫视频道,#genre#
 湖南卫视,http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
 东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
 江苏卫视,http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
@@ -406,7 +406,7 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
-学习,#genre#
+📚学生课堂,#genre#
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -504,7 +504,7 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 爱奇艺宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
 爱奇艺儿歌大全,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key
 
-港澳台,#genre#
+🇭🇰🇲🇴港澳台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
