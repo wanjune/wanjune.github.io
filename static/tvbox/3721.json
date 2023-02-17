@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230215.dylib;md5;335B578E74AB545C9AC3CE560D5F35F7",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230217.dylib;md5;7BEA178B8E16A8A6E89B8CDB88E39CD4",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
@@ -77,10 +77,11 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
+    {"name":"肥猫","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"H5","type":0,"url":"https://jx.blbo.cc:4433/?url="},
     {"name":"天空","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
-    {"name":"肥猫","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+    {"name":"刚刚","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
     {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
