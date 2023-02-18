@@ -22,7 +22,7 @@
   "dtName": "//div[contains(@class,'details-info')]/h1/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='details-pic']/a/@style",
-  "dtImgR": "url\\((\\S+)\\)",
+  "dtImgR": "\\((\\S+)\\) ",
   "dtCate": "concat(//span[contains(text(),'類別')]/parent::*//text())",
   "dtCateR": "類別：(.*)",
   "dtYear": "concat(//span[contains(text(),'年代') and not(contains(@class,'hidden'))]/parent::*//text())",
