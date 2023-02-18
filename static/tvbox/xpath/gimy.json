@@ -52,7 +52,7 @@
   "scVodName": "//a[contains(@class,'video-pic')]/@title",
   "scVodId": "//a[contains(@class,'video-pic')]/@href",
   "scVodIdR": "/(\\S+).html",
-  "scVodImg": "/@data-original",
+  "scVodImg": "//a[contains(@class,'video-pic')]/@data-original",
   "scVodMark": "concat(//span[contains(text(),'狀態')]/parent::*//text())",
   "scVodMarkR": "狀態：(.*)",
   "filter": {
