@@ -12,7 +12,6 @@ var rule = {
   timeout: 5000,
   class_url: '3&25&4&2',
   class_name: '故事&英语&国学&儿歌',
-  // 推荐: '.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
   推荐: 'json:data.items;name;image;duration_string;video_id',
   double: true,
   limit: 5,
