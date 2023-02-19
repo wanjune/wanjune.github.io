@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230217.dylib;md5;7BEA178B8E16A8A6E89B8CDB88E39CD4",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230219.dylib;md5;F49414F3BF2CB8BF75E517F0B2677C3F",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -8,7 +8,7 @@
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
     {"key":"csp_Tian","name":"天天[SP]","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","国产剧","日韩剧","欧美剧","电影"],"ext":"bdc1c75081e5e477189a463baa47e392"},
-    {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+    {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
     {"key":"csp_YQKAPP","name":"一起看[SP]","type":"3","api":"csp_YQKAPP","playerType":2,"searchable":"1","quickSearch":"1","filterable":"1","categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://api-tx.shumaxc.xyz"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
     {"key":"csp_xpath_xuanmao","name":"🐼炫猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xuanmao.json"},
