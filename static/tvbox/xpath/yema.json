@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://yemays.com",
-  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "ua": "",
   "homeUrl": "http://v.yemays.tk",
   "dcVipFlag": "true",
   "pCfgJs": "http://v.yemays.tk/static/js/playerconfig.js",
@@ -51,7 +51,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "\\S+(http\\S+)",
   "playUrl": "http://v.yemays.tk/vodplay/{playUrl}.html",
-  "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "playUa": "",
   "searchUrl": "http://v.yemays.tk/index.php/ajax/suggest.html?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
