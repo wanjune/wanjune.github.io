@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230219.dylib;md5;F49414F3BF2CB8BF75E517F0B2677C3F",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230220.dylib;md5;0EE6A355EED48ECA223BFAA7D3B25B19",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -62,6 +62,7 @@
     {"key":"csp_xbpq_app","name":"🍀APP影院[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/app.json"},
     {"key":"csp_xbpq_voflix","name":"🍀VOFLIX[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/voflix.json"},
     {"key":"csp_xbpq_nike","name":"🍀Nike[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/nike.json"},
+    {"key":"csp_xbpq_bilitu","name":"🍀哔哩兔[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/bilitu.json","categories":["动漫","综艺","剧集","电影"]},
     {"key":"drpy_69mj","name":"🌐69美剧[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/69mj.js"},
     {"key":"drpy_dietiao","name":"🌐碟调电影[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/dietiao.js"},
     {"key":"drpy_23zhui","name":"🌐首播影院[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/23zhui.js"},
@@ -72,11 +73,11 @@
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"},
-    {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"52eb497172f44b498943ac642d62113e"},
-    {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"52eb497172f44b498943ac642d62113e"},
-    {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"52eb497172f44b498943ac642d62113e"},
-    {"key":"csp_UpYun","name":"🍭UP云[SP]","type":3,"api":"csp_UpYun","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"52eb497172f44b498943ac642d62113e"},
-    {"key":"csp_Zhaozy","name":"🍭找资源[SP]","type":3,"api":"csp_Zhaozy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"52eb497172f44b498943ac642d62113e$$$yingshi$$$abcd1234"}
+    {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
+    {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
+    {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
+    {"key":"csp_UpYun","name":"🍭UP云[SP]","type":3,"api":"csp_UpYun","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
+    {"key":"csp_Zhaozy","name":"🍭找资源[SP]","type":3,"api":"csp_Zhaozy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"43c2326baa784ad99b4c59265f714227$$$yingshi$$$abcd1234"}
   ],
   "rules":[
     {"host":"dyxs20.com","rule":[".m3u8"]},
