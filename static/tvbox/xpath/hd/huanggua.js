@@ -1,6 +1,6 @@
 var rule = {
   title: '黄瓜TV',
-  host: 'https://zzg30.com:33666',
+  host: 'https://zzg37.com:33666',
   homeUrl: '/home/index.html',
   url: '/home/vodlist/38/fyclass-fypage.html',
   headers: { 'User-Agent': 'MOBILE_UA' },
