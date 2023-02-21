@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "ua": "",
+  "ua": "okhttp/4.1.0",
   "homeUrl": "https://u.duboku.io/label/new.html",
   "dcVipFlag": "true",
   "pCfgJs": "https://u.duboku.io/static/js/playerconfig.js",
@@ -46,7 +46,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://u.duboku.io/vodplay/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "okhttp/4.1.0",
   "searchUrl": "https://u.duboku.io/vodsearch/-------------.html?wd={wd}&submit=",
   "scVodNode": "//ul[@id='searchList']/li/div/a",
   "scVodName": "/@title",
