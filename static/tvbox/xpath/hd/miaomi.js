@@ -1,7 +1,7 @@
 var rule = {
   title: '猫了个咪',
   host: 'http://119.28.59.69:8089',
-  homeUrl: '/api/video/index#class=0&page=1',
+  homeUrl: '/api/video/index',
   url: '/api/video/index#class=fyclass&page=fypage',
   searchUrl: '/api/special/video?params=#keyword=**&page=fypage',
   searchable: 2,
