@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "ua": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-7306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "ua": "",
   "homeUrl": "https://u.duboku.io/label/new.html",
   "dcVipFlag": "true",
   "pCfgJs": "https://u.duboku.io/static/js/playerconfig.js",
@@ -46,7 +46,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://u.duboku.io/vodplay/vodplay/{playUrl}.html",
-  "playUa": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-7306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "playUa": "",
   "searchUrl": "https://u.duboku.io/vodsearch/-------------.html?wd={wd}&submit=",
   "scVodNode": "//ul[@id='searchList']/li/div/a",
   "scVodName": "/@title",
