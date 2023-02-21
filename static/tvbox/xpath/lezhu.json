@@ -53,7 +53,7 @@
   "dtUrlNameR": "",
   "playUrl": "http://www.lezhutv.com/play/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "searchUrl": "http://www.lezhutv.com/search-pg-1-wd-{wd}.html",
+  "searchUrl": "http://www.lezhutv.com/index.php?m=vod-search&wd={wd}",
   "scVodNode": "//ul[contains(@class,'tbox_m')]/li[contains(@class,'vbox')]/a[contains(@class,'vbox_t')]",
   "scVodName": "/@title",
   "scVodId": "/@href",
