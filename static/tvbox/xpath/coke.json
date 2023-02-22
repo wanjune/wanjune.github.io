@@ -15,7 +15,7 @@
   "homeVodIdR": "/(\\w+).html",
   "homeVodImg": "//img[@class='lazy lazyload']/@data-original",
   "homeVodMark": "//div[@class='module-item-note']/text()",
-  "cateUrl": "https://cokemv.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "cateUrl": "https://cokemv.co/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "cateVodNode": "//a[@class='module-poster-item module-item']",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
