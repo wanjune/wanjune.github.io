@@ -15,7 +15,7 @@
   "分类": "动漫$4#综艺$3#剧集$2#电影$1",
   "分类url": "https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
   "搜索模式": "1",
-  "搜索url": "/vodsearch/{wd}-/page/1.html", 
+  "搜索url": "/phsch/wd/{wd}.html", 
   "搜索数组": "module-card-item-class&&referrerpolicy=\"no-referrer\"",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",

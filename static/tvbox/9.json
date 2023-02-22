@@ -62,6 +62,7 @@
     {"key":"csp_xbpq_voflix","name":"🍀VOFLIX[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/voflix.json"},
     {"key":"csp_xbpq_nike","name":"🍀Nike[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/nike.json"},
     {"key":"csp_xbpq_bilitu","name":"🍀哔哩兔[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/bilitu.json","categories":["动漫","综艺","剧集","电影"]},
+    {"key":"csp_xbpq_1010","name":"🍀双十[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"},
     {"key":"drpy_69mj","name":"🌐69美剧[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/69mj.js"},
     {"key":"drpy_dietiao","name":"🌐碟调[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/dietiao.js"},
     {"key":"drpy_23zhui","name":"🌐首播[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/23zhui.js"},
@@ -166,7 +167,7 @@
     ,"xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com"
     ,"q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com"
     ,"vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","static.cloudflareinsights.com","vip.ffzyad.com","iqiyi.hbuioo.com"
-    ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","5556.cc","wan.51img1.com"
-    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","adserver.juicyads.com"
+    ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","5556.cc","wan.51img1.com","95710.vip","adserver.juicyads.com"
+    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }

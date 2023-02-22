@@ -8,7 +8,7 @@
   "数组": "stui-vodlist__item\">&&</a>",
   "副标题": "text-right\">&&</span>",
   "搜索模式": "1",
-  "搜索url": "/index.php/vod/search/page/1/wd/{wd}.html",
+  "搜索url": "/index.php/vod/search/page/{pg}/wd/{wd}.html",
   "搜索数组": "stui-vodlist__item\">&&</a>",
   "搜索副标题": "text-right\">&&</span>",
   "影片年代": "年份：&&</p>",
