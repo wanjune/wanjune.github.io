@@ -96,7 +96,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://39.135.138.58:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 CCTV怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
 CCTV风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
@@ -143,8 +142,6 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 新疆卫视,http://39.184.224.99:9080/newlive/live/hls/45/live.m3u8
 西藏卫视,http://39.184.224.99:9080/newlive/live/hls/46/live.m3u8
 云南卫视,http://39.184.224.99:9080/newlive/live/hls/47/live.m3u8
-爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
-爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -602,8 +599,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8?zshangd
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
-天水公共,http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 
 浙江,#genre#
