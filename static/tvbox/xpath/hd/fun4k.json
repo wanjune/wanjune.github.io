@@ -7,8 +7,8 @@
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"少儿":"29","动漫":"4","综艺":"5","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","哔哩":"24","记录":"3"},
-  "homeVodNode": "//div[@class='module module-wrapper' and not(contains(.//h2/text(),'纪录片'))]//div[@class='module-item' and not(contains(.//span[@class='video-class']/text(),'爱情片')) and not(contains(.//span[@class='video-class']/text(),'剧情片'))][position()<9]",
+  "cateManual": {"少儿":"29","动漫":"4","综艺":"5","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","哔哩":"24","记录":"3","\u4f26\u7406":"20"},
+  "homeVodNode": "//div[@class='module module-wrapper' and not(contains(.//h2/text(),'纪录片'))]//div[@class='module-item'][position()<9]",
   "homeVodName": "//div[@class='module-item-style video-name']/a/@title",
   "homeVodId": "//div[@class='module-item-style video-name']/a/@href",
   "homeVodIdR": "/voddetail/(\\w+)/",
@@ -16,7 +16,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[@class='module-item-text']/text()",
   "cateUrl": "https://www.fun4k.com/vod/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
-  "cateVodNode": "//div[@class='module-item' and not(contains(.//span[@class='video-class']/text(),'爱情片')) and not(contains(.//span[@class='video-class']/text(),'剧情片'))]",
+  "cateVodNode": "//div[@class='module-item']",
   "cateVodName": "//div[@class='module-item-style video-name']/a/@title",
   "cateVodId": "//div[@class='module-item-style video-name']/a/@href",
   "cateVodIdR": "/voddetail/(\\w+)/",
@@ -87,7 +87,8 @@
         {"n":"悬疑","v":"悬疑"},
         {"n":"惊悚","v":"惊悚"},
         {"n":"历史","v":"历史"},
-        {"n":"运动","v":"运动"}
+        {"n":"运动","v":"运动"},
+        {"n":"\u4f26\u7406","v":"\u4f26\u7406"}
       ]},
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
         {"n":"大陆","v":"大陆"},
@@ -231,6 +232,30 @@
       {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"周人气","v":"hits_week"},{"n":"月人气","v":"hits_month"}]}
     ],
     "16": [
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"2023"},
+        {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
+        {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
+        {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"周人气","v":"hits_week"},{"n":"月人气","v":"hits_month"}]}
+    ],
+    "20": [
+      {"key":"area","name":"地区","value":[{"n":"全部","v":""},
+        {"n":"大陆","v":"大陆"},
+        {"n":"香港","v":"香港"},
+        {"n":"台湾","v":"台湾"},
+        {"n":"美国","v":"美国"},
+        {"n":"法国","v":"法国"},
+        {"n":"英国","v":"英国"},
+        {"n":"日本","v":"日本"},
+        {"n":"韩国","v":"韩国"},
+        {"n":"泰国","v":"泰国"},
+        {"n":"印度","v":"印度"},
+        {"n":"新加坡","v":"新加坡"},
+        {"n":"西班牙","v":"西班牙"},
+        {"n":"加拿大","v":"加拿大"},
+        {"n":"其他","v":"其他"}
+      ]},
       {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"2023"},
         {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
