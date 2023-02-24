@@ -30,18 +30,18 @@
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'stui-content__thumb')]/a/img/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "//p[contains(@class,'data')][4]/text()",
-  "dtCateR": "\\S+：(\\S+)",
-  "dtYear": "//p[contains(@class,'data')][3]/text()",
-  "dtYearR": "\\S+：(\\S+)",
-  "dtArea": "//p[contains(@class,'data')][1]/text()",
-  "dtAreaR": "\\S+：(\\S+)",
-  "dtMark": "//p[contains(@class,'data')][7]/text()",
-  "dtMarkR": "\\S+：(\\S+)",
-  "dtDirector": "//p[contains(@class,'data')][6]/text()",
-  "dtDirectorR": "\\S+：(\\S+)",
-  "dtActor": "//p[contains(@class,'data')][5]/text()",
-  "dtActorR": "\\S+：(\\S+)",
+  "dtCate": "//p[@class='data' and contains(text(),'类型')]/text()",
+  "dtCateR": "类型：(.*)/ 地区",
+  "dtYear": "//p[@class='data' and contains(text(),'类型')]/text()",
+  "dtYearR": "年份：(.*)",
+  "dtArea": "//p[@class='data' and contains(text(),'类型')]/text()",
+  "dtAreaR": "地区：(.*) / 年份",
+  "dtMark": "//p[@class='data' and contains(text(),'更新')]/text()",
+  "dtMarkR": "更新：(.*)",
+  "dtDirector": "//p[@class='data' and contains(text(),'导演')]/text()",
+  "dtDirectorR": "导演：(.*)",
+  "dtActor": "//p[@class='data' and contains(text(),'主演')]/text()",
+  "dtActorR": "主演：(.*)",
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtFromNode": "//span[@class='pull-right']/following-sibling::h3",
   "dtFromName": "/text()",
@@ -54,13 +54,14 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.dadagui.me/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "searchUrl": "https://www.dadagui.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
-  "scVodIdR": "",
-  "scVodImg": "pic",
-  "scVodMark": "",
+  "searchUrl": "https://www.dadagui.me/vodsearch/-------------.html?wd={wd}&submit=",
+  "scVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
+  "scVodIdR": "/voddetail/(\\w+).html",
+  "scVodImg": "/@data-original",
+  "scVodImgR": "\\S+(http\\S+)",
+  "scVodMark": "/span[@class='pic-text text-right']//text()",
   "filter": {
     "1": [
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
@@ -84,11 +85,11 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "2": [
       {"key":"area","name":"地区","value":[{"n":"全部","v":""},
-        {"n":"大陆","v":"内地"},
+        {"n":"大陆","v":"大陆"},
         {"n":"香港","v":"香港"},
         {"n":"台湾","v":"台湾"},
         {"n":"韩国","v":"韩国"},
@@ -108,23 +109,55 @@
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "3": [
+      {"key":"area","name":"地区","value":[{"n":"全部","v":""},
+        {"n":"大陆","v":"大陆"},
+        {"n":"香港","v":"香港"},
+        {"n":"台湾","v":"台湾"},
+        {"n":"韩国","v":"韩国"},
+        {"n":"日本","v":"日本"},
+        {"n":"美国","v":"美国"},
+        {"n":"法国","v":"法国"},
+        {"n":"泰国","v":"泰国"},
+        {"n":"英国","v":"英国"},
+        {"n":"印度","v":"印度"},
+        {"n":"意大利","v":"意大利"},
+        {"n":"西班牙","v":"西班牙"},
+        {"n":"加拿大","v":"加拿大"},
+        {"n":"其他","v":"其他"}
+      ]},
       {"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},
         {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ],
     "4": [
+      {"key":"area","name":"地区","value":[{"n":"全部","v":""},
+        {"n":"大陆","v":"大陆"},
+        {"n":"香港","v":"香港"},
+        {"n":"台湾","v":"台湾"},
+        {"n":"韩国","v":"韩国"},
+        {"n":"日本","v":"日本"},
+        {"n":"美国","v":"美国"},
+        {"n":"法国","v":"法国"},
+        {"n":"泰国","v":"泰国"},
+        {"n":"英国","v":"英国"},
+        {"n":"印度","v":"印度"},
+        {"n":"意大利","v":"意大利"},
+        {"n":"西班牙","v":"西班牙"},
+        {"n":"加拿大","v":"加拿大"},
+        {"n":"其他","v":"其他"}
+      ]},
       {"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},
         {"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},
         {"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},
         {"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}
     ]
   }
 }
