@@ -1,5 +1,6 @@
 {
   "author": "wanjune",
+  "desc": "https://app.yrzj.ren https://yrzjvip.cn https://app.yrzj.fun https://yrzj.tv https://yrzj.vip https://tv.yrzj.vip",
   "ua": "Mozilla/5.0 (Linux; Android 11; RMX2103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://yrzj.vip/label/new.html",
   "dcVipFlag": "true",
@@ -58,7 +59,8 @@
   "scVodId": "id",
   "scVodIdR": "",
   "scVodImg": "pic",
-  "scVodMark": "=(.*)",
+  "scVodImgR": "=(.*)",
+  "scVodMark": "",
   "filter": {
     "1": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
