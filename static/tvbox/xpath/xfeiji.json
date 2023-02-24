@@ -41,7 +41,7 @@
   "dtActorR": "主演：(.*)",
   "dtDirector": "//p[@class='data' and contains(./span/text(),'导演')]/allText()",
   "dtDirectorR": "导演：(.*)",
-  "dtDesc": "//span[@class='sketch content']/allText()",
+  "dtDesc": "//span[@class='sketch content']/text()",
   "dtDescR": "",
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href,'playlist')]",
   "dtFromName": "/text()",

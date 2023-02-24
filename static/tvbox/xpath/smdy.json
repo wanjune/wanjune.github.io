@@ -40,7 +40,7 @@
   "dtActorR": "主演：(.*)",
   "dtDirector": "//div[@class='stui-content__detail']//p[@class='data' and contains(text(),'导演')]/text()",
   "dtDirectorR": "导演：(.*)",
-  "dtDesc": "//div[@class='stui-content__detail']//p[@class='desc detail']/span[@class='detail-content']/allText()",
+  "dtDesc": "//div[@class='stui-content__detail']//p[@class='desc detail']/span[@class='detail-content']/text()",
   "dtFromNode": "//div[@class='stui-vodlist__head']//h3[@class='iconfont icon-iconfontplay2']",
   "dtFromName": "/text()",
   "dtUrlNode": "//div[@class='stui-vodlist__head' and contains(.//h3/@class,'iconfont icon-iconfontplay2')]/ul[@class='stui-content__playlist clearfix']",

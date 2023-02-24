@@ -42,7 +42,7 @@
   "dtDirectorR": "导演：(.*)",
   "dtActor": "//p[@class='data' and contains(text(),'主演')]/text()",
   "dtActorR": "主演：(.*)",
-  "dtDesc": "//span[@class='detail-content']/allText()",
+  "dtDesc": "//span[@class='detail-content']/text()",
   "dtFromNode": "//span[@class='pull-right']/following-sibling::h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
