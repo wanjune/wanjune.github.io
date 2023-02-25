@@ -28,7 +28,6 @@
     {"key":"csp_xyqh_waijumi","name":"️🌸外剧迷[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/XYQH/waijumi.json","categories":["动漫","综艺","剧集","+韩国","+日本","+欧美","电影"]},
     {"key":"csp_xbpq_ikan","name":"🍀爱看[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
     {"key":"csp_xbpq_1010","name":"🍀双十[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"},  
-    {"key":"csp_xbpq_lgyy","name":"🍀蓝光[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/lgyy.json"},
     {"key":"csp_xbpq_30dian","name":"🍀创艺[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/30dian.json"},
     {"key":"csp_xbpq_zbk","name":"🍀真不卡[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/zbk.json"},
     {"key":"csp_xbpq_reboku","name":"🍀热播库[xBPQ]","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/reboku.json"},
