@@ -79,6 +79,7 @@
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"蓝蓝","type":1,"url":"http://lanlan.ckflv.cn/?url="},
     {"name":"天空","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
+    {"name":"巧技","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
