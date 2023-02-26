@@ -8,7 +8,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+欧美":"16","+日韩":"15","电影":"1","纪录":"20"},
+  "cateManual": {"动漫":"4","综艺":"3","剧集":"2","+国产":"13","+日韩":"15","+欧美":"16","电影":"1","纪录":"20"},
   "homeVodNode": "//div[@class='module']//div[@class='module-item-cover' and not(contains(.//span[@class='video-class']/text(),'伦理'))]",
   "homeVodName": "/div[@class='module-item-pic']/a/@title",
   "homeVodId": "/div[@class='module-item-pic']/a/@href",

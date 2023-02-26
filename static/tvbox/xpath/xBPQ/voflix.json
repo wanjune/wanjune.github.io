@@ -2,7 +2,7 @@
   "作者": "wanjune",
   "站名": "VOFLIX",
   "主页url": "https://www.voflix.com",
-  "分类": "动漫&综艺&剧集&+国产&+日韩剧&+欧美&电影",
+  "分类": "动漫&综艺&剧集&+国产&+日韩&+欧美&电影",
   "分类值": "4&3&2&13&15&16&1",
   "分类url": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "副标题": "module-item-note\">&&</div>",
