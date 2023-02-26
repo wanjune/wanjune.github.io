@@ -29,8 +29,6 @@
     {"key":"csp_xyqh_waijumi","name":"️🌸外剧迷[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/XYQH/waijumi.json","categories":["动漫","综艺","剧集","+韩国","+日本","+欧美","电影"]},
     {"key":"csp_xbpq_app","name":"🍀APP[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/app.json"},
     {"key":"csp_xbpq_1010","name":"🍀双十[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"},  
-    {"key":"csp_xbpq_ikan","name":"🍀爱看[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/ikan.json"},
-    {"key":"csp_xbpq_filmmr","name":"🍀先生[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/filmmr.json"},
     {"key":"csp_xbpq_30dian","name":"🍀创艺[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/30dian.json"},
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_xbpq_jubaibai","name":"🍀剧白白[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/jubaibai.json"},
