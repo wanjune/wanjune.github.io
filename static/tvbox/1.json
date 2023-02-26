@@ -35,7 +35,6 @@
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
     {"key":"drpy_bd8s","name":"🌐叭度[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/bd8s.js"},
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","国产剧","韩剧","美剧","电影","豆瓣电影Top250"]},
     {"key":"csp_YQKAPP","name":"一起看[SP]","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://api-tx.shumaxc.xyz"},
     {"key":"csp_xpath_slsp","name":"石榴[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Slsp.json"},
