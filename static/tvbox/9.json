@@ -21,11 +21,11 @@
     {"key":"csp_xpath_hdmoli","name":"HDmoli[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hdmoli.json"},
     {"key":"csp_xpath_kkdy","name":"看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkdy.json"},
     {"key":"csp_xpath_brovod","name":"兄弟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/brovod.json"},
+    {"key":"csp_xpath_reboku","name":"热播库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/reboku.json"},
     {"key":"csp_xpath_bilitu","name":"哔哩兔[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bilitu.json"},
     {"key":"csp_xpath_yema","name":"野马[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yema.json"},
     {"key":"csp_xpath_xfeiji","name":"小小[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
     {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathMacFilter","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
-    {"key":"csp_xpath_filmmr","name":"先生[XP]","type":3,"api":"csp_XPathMacFilter","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/filmmr.json"},
     {"key":"csp_xyqh_waijumi","name":"️🌸外剧迷[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/XYQH/waijumi.json","categories":["动漫","综艺","剧集","+韩国","+日本","+欧美","电影"]},
     {"key":"csp_xbpq_app","name":"🍀APP[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/app.json"},
     {"key":"csp_xbpq_1010","name":"🍀双十[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"},  
@@ -138,6 +138,6 @@
     ,"q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com"
     ,"vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","static.cloudflareinsights.com","vip.ffzyad.com","iqiyi.hbuioo.com"
     ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","5556.cc","wan.51img1.com","95710.vip","adserver.juicyads.com"
-    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","51.la","at.umtrack.com","static.yximgs.com"
+    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","51.la"
   ]
 }
