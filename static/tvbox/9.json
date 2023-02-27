@@ -24,7 +24,6 @@
     {"key":"csp_xpath_reboku","name":"热播库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/reboku.json"},
     {"key":"csp_xpath_bilitu","name":"哔哩兔[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bilitu.json"},
 
-    {"key":"csp_xpath_zxzj","name":"在线[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
     {"key":"csp_xpath_qc","name":"QC[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qc.json"},
     {"key":"csp_xpath_kaola","name":"考拉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kaola.json"},
     {"key":"csp_xpath_voflix","name":"VOFLIX[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/voflix.json"},
