@@ -7,12 +7,11 @@
     {"key":"csp_xpath_ttsp","name":"天天[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/ttsp.json"},
     {"key":"csp_xbpq_6080","name":"🍀新视觉[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
     {"key":"csp_xbpq_fush8","name":"🍀浮生半日[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/fush8.json"},
-    {"key":"csp_xpath_biubiu","name":"💿BIU[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/biubiu.json"},
     {"key":"csp_xpath_yp","name":"💿YP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
+    {"key":"csp_xpath_biubiu","name":"💿ビューン[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/biubiu.json"},
     {"key":"csp_xpath_xx8888","name":"💿バナナ[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/xx8888.json"},
-    {"key":"csp_xpath_99","name":"💿クク[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/99.json"},
-    {"key":"drpy_miaomi","name":"💿\u55b5\u54aa[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/miaomi.js"},
-    {"key":"drpy_paotv","name":"💿\u70ae\u0054\u0056[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/paotv.js"},
+    {"key":"drpy_miaomi","name":"💿ネコ[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/miaomi.js"},
+    {"key":"drpy_paotv","name":"💿ホウ[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/paotv.js"},
     {"key":"drpy_huanggua","name":"💿\u9ec4\u74dc[DRPY]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/huanggua.js"},
     {"key":"kudian","name":"\u9177\u70b9","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"fhapi","name":"\u756a\u53f7","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u5077\u62cd\u81ea\u62cd","\u65e0\u7801\u4e13\u533a","\u56fd\u4ea7\u88f8\u804a","\u56fd\u4ea7\u81ea\u62cd","\u56fd\u4ea7\u76d7\u6444","\u6b27\u7f8e\u6027\u7231","\u4e2d\u6587\u5b57\u5e55","\u5de8\u4e73\u7f8e\u4e73","\u5236\u670d\u4e1d\u889c","\u7fa4\u4ea4\u6deb\u4e71","\u5c11\u5973\u841d\u8389","\u5361\u901a\u52a8\u6f2b"]},
@@ -133,7 +132,7 @@
     ,"xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com"
     ,"q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com"
     ,"vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","static.cloudflareinsights.com","vip.ffzyad.com","iqiyi.hbuioo.com"
-    ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","5556.cc","wan.51img1.com","95710.vip","adserver.juicyads.com"
-    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","51.la","vgrdtee.cn"
+    ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","wan.51img1.com","95710.vip","adserver.juicyads.com"
+    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
