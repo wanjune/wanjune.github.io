@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://99chiji.com https://99chiji0.com-https://99chiji9.com",
-  "ua": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
+  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "https://652hwr.99qweds.com/index.php/map/index.html",
   "dcVipFlag": "true",
   "pCfgJs": "https://652hwr.99qweds.com/static/js/playerconfig.js",
@@ -52,7 +52,7 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "playUrl": "https://652hwr.99qweds.com/index.php/vod/play/id/{playUrl}.html",
-  "playUa": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
+  "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "searchUrl": "https://652hwr.99qweds.com/index.php/vod/search.html?wd={wd}&submit=",
   "scVodNode": "//div[@class='hl-item-div']/div[@class='hl-item-pic']/a",
   "scVodName": "/@title",
