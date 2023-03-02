@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://ikan6.cc https://t.me/+xbu9aIPeuUg3ODdh",
   "ua": "",
-  "homeUrl": "https://ikan6.vip/index.php",
+  "homeUrl": "https://ikan6.vip/",
   "dcVipFlag": "true",
   "pCfgJs": "https://ikan6.vip/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
@@ -13,12 +13,8 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\w+)/",
-  // "homeVodImg": "/@data-original",
+  "homeVodImg": "/@data-original",
   // "homeVodImgR": "\\S+(http\\S+)",
-
-  "homeVodImg": "/@style",
-  "homeVodImgR": "url\\((.*)\\)",
-
   "homeVodMark": "/span[@class='pic-text text-right']/text()",
   "cateUrl": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   "cateVodNode": "//ul[@class='myui-vodlist clearfix']/li/div/a",
