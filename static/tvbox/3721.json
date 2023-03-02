@@ -52,6 +52,8 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
+    {"name":"CK","type":0,"url":"https://www.ckmov.com/?url="},
+    {"name":"云","type":0,"url":"https://www.jiexila.com/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"蓝蓝","type":1,"url":"http://lanlan.ckflv.cn/?url="},
@@ -68,7 +70,7 @@
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
     {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","wasu","bilibili","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
@@ -115,6 +117,6 @@
     ,"q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com"
     ,"vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","static.cloudflareinsights.com","vip.ffzyad.com","iqiyi.hbuioo.com"
     ,"p.qlogo.cn","p.qpic.cn","shp.qpic.cn","reelportal.com","yaqurc.com","51.la","wan.51img1.com","95710.vip","adserver.juicyads.com"
-    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","toutiao.com","bdstatic.com"
+    ,"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","toutiao.com","bdstatic.com","googlesyndication.com"
   ]
 }
