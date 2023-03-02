@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://www.umkan.com",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "https://www.umkan.cc",
+  "homeUrl": "https://www.umkan.cc/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.umkan.cc/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",

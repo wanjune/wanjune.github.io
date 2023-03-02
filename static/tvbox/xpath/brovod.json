@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "http://xdys.gq",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "https://brovod.com",
+  "homeUrl": "https://brovod.com/",
   "dcVipFlag": "true",
   "pCfgJs": "https://brovod.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",

@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "",
-  "homeUrl": "https://www.jiujiukanpian.com",
+  "homeUrl": "https://www.jiujiukanpian.com/",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
   "homeVodNode": "//div[@class='row'][position()<6 and position()>1]//div[contains(@class,'movie-item-out') and not(contains(@class,'col-md-12'))][position()<7]//div[@class='movie-item']/a",
   "homeVodName": "/@title",

@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://www.hohovod.com https://www.pangyatv.com https://www.cnnet.org https://hoho.tv",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "https://www.hoho.tv",
+  "homeUrl": "https://www.hoho.tv/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.hoho.tv/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",

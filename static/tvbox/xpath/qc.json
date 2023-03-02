@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://www.qcsvip.com",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-  "homeUrl": "https://www.qcsvip.com",
+  "homeUrl": "https://www.qcsvip.com/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.qcsvip.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",

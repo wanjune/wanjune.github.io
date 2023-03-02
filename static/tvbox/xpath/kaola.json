@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "",
-  "homeUrl": "https://ikaola.tv",
+  "homeUrl": "https://ikaola.tv/",
   "dcVipFlag": "true",
   "pCfgJs": "https://ikaola.tv/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",

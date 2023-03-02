@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "",
-  "homeUrl": "https://www.tingbook.cc",
+  "homeUrl": "https://www.tingbook.cc/",
   "cateManual": {"玄幻":"1","武侠":"2","都市":"3","言情":"4","科幻":"5","推理":"6","恐怖":"7","惊悚":"8","历史":"9","军事":"10","网游":"11","官商":"12","文学":"15","儿童":"16","穿越":"28","百家讲坛":"33"},
   "homeVodNode": "//h2[contains(@class,'tx-title1') and contains(./strong/text(),'推荐')]/following-sibling::div[1]/ul/li/div",
   "homeVodName": "//a[@class='f-bold']/text()",

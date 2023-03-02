@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://www.kkmi.net",
   "ua": "Mozilla/5.0 (Linux; Android 11; RMX2103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-  "homeUrl": "https://www.kkdy.live",
+  "homeUrl": "https://www.kkdy.live/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.kkdy.live/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",

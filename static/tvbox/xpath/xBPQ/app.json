@@ -2,7 +2,7 @@
   "作者": "wanjune",
   "desc": "https://app.movie",
   "站名": "APP影院",
-  "主页url": "https://www.appmovie.cc",
+  "主页url": "https://www.appmovie.cc/",
   "分类": "动漫$4#综艺$3#剧集$2#+国产$13#+日韩$15#欧美$16#电影$1",
   "分类url": "https://www.appmovie.cc/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   "数组": "stui-vodlist__item\">&&</a>",

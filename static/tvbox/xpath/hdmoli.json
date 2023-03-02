@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://molicp.com",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "https://www.hdmoli.com",
+  "homeUrl": "https://www.hdmoli.com/",
   "cateManual": {"动漫":"41","剧集":"2","+国产":"14","+韩国":"16","+欧美":"15","电影":"1"},
   "homeVodNode": "//div[@class='myui-panel myui-panel-bg clearfix'][position()<7 and position()>3]//ul[@class='myui-vodlist clearfix']/li[position()<9]/div/a",
   "homeVodName": "/@title",

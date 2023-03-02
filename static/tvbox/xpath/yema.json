@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "https://yemays.com",
   "ua": "",
-  "homeUrl": "http://v.yemays.tk",
+  "homeUrl": "http://v.yemays.tk/",
   "dcVipFlag": "true",
   "pCfgJs": "http://v.yemays.tk/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",

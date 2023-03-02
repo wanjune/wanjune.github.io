@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "https://www.bilituys.com",
+  "homeUrl": "https://www.bilituys.com/",
   "cateManual": {"动漫":"4","综艺":"3","剧集":"2","电影":"1"},
   "homeVodNode": "//ul[@class='stui-vodlist clearfix'][position()<6 and position()>1]/li[position()<7]/div/a",
   "homeVodName": "/@title",

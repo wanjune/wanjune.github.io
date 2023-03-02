@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "",
-  "homeUrl": "https://www.520tingshu.net",
+  "homeUrl": "https://www.520tingshu.net/",
   "cateManual": {"玄幻":"1","惊悚":"2","网络":"3","都市":"4","军事":"5","经典":"6","官商":"7","通俗":"8","推理":"9","科幻":"10","武侠":"11","人物":"12"},
   "homeVodNode": "//h2[contains(@class,'tx-title1')]/following-sibling::div[1]/ul/li/div",
   "homeVodName": "//a[@class='f-bold']/text()",
