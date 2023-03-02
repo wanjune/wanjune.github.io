@@ -47,7 +47,7 @@
   "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//div[contains(@class,'tabs_block')]/ul[contains(@class,'list_block show')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

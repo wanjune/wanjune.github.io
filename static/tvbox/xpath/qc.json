@@ -46,7 +46,7 @@
   "dtFromName": "/span/text()",
   "dtUrlNode": "//div[contains(@class,'module-blocklist scroll-box')]",
   "dtUrlSubNode": "/div/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/span/text()",
   "dtUrlNameR": "",

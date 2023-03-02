@@ -42,7 +42,7 @@
   "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//div[@id='yuedu']/ul",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

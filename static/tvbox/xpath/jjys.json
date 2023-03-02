@@ -42,7 +42,7 @@
   "dtFromNameR": "\\S+ (\\S+) \\(",
   "dtUrlNode": "//div[contains(@class,'resource-list')]/ul[@class='dslist-group']",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

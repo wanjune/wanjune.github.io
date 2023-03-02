@@ -46,7 +46,7 @@
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/v_player/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
@@ -54,11 +54,11 @@
   "playUa": "",
   "searchUrl": "http://6d.zzzzdc.com/?c=search&cl={wd}&sort=addtime&order=desc",  
   "scVodNode": "//a[@class='v-thumb stui-vodlist__thumb lazyload']",
-  "scVodName": "@title",
-  "scVodId": "@href",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
   "scVodIdR": "/v_show/(\\w+).html",
   "scVodImgR": "\\S+(http\\S+)",
-  "scVodImg": "@data-original",
+  "scVodImg": "/@data-original",
   "scVodMark": "",
   "filter": {
     "1": [

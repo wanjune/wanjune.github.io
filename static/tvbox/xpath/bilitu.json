@@ -42,7 +42,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='stui-vodlist__head' and not(contains(./h3/text(),'猜你喜欢'))]/ul",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/biliplay/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

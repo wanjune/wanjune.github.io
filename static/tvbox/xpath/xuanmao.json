@@ -46,7 +46,7 @@
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

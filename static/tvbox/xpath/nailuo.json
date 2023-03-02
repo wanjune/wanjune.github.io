@@ -46,7 +46,7 @@
   "dtFromName": "concat(/span/text(),'｜',/small/text())",
   "dtUrlNode": "//div[contains(@class,'module-blocklist scroll-box scroll-box-y')]",
   "dtUrlSubNode": "/div/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/vodplay/(\\S+).html",
   "dtUrlName": "/span/text()",
   "dtUrlNameR": "",

@@ -42,7 +42,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='module-play-list']/div[contains(@class,'module-play-list-content')]",
   "dtUrlSubNode": "/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/span/text()",
   "dtUrlNameR": "",

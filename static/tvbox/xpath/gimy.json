@@ -45,7 +45,7 @@
   "dtFromName": "//h3/allText()",
   "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/ep-(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

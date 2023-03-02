@@ -42,7 +42,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='numList']/ul",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/(\\W+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

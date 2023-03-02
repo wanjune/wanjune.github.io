@@ -47,7 +47,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='stui-pannel clearfix' and contains(./ul/@class,'stui-content__playlist')]/ul",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

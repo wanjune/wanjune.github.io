@@ -47,7 +47,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/vodplay/(.*)/",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
