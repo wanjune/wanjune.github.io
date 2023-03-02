@@ -17,7 +17,7 @@
   // "homeVodImgR": "\\S+(http\\S+)",
 
   "homeVodImg": "/@style",
-  "homeVodImgR": "url\\(\"(.*)\"\\)",
+  "homeVodImgR": "&quot;(.*)&quot;",
 
   "homeVodMark": "/span[@class='pic-text text-right']/text()",
   "cateUrl": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
