@@ -42,7 +42,7 @@
   "dtActorR": "主演：(.*)/",
   "dtDesc": "concat(//div[contains(@class,'content')]/span[@class='data']//text())",
   "dtFromNode": "//div[contains(./h3/text(),'播放地址')]//ul[contains(@class,'nav nav-tabs')]/li",
-  "dtFromName": "concat(/a/text(),'＃',/sup/text())",
+  "dtFromName": "concat(/a/text(),'｜',/sup/text())",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
   "dtUrlSubNode": "/li/a",

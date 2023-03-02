@@ -39,7 +39,7 @@
   "dtDesc": "//div[contains(@class,'module-info-introduction')]//p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-items-box')]/div[contains(@class,'module-tab-item')]",
-  "dtFromName": "concat(/span/text(),'＃',/small/text())",
+  "dtFromName": "concat(/span/text(),'｜',/small/text())",
   "dtUrlNode": "//div[@class='module-play-list']",
   "dtUrlSubNode": "/div/a",
   "dtUrlId": "/@href",
