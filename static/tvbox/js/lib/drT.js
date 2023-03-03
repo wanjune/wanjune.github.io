@@ -1,4 +1,3 @@
-
 (function () {
   "use strict";
 
@@ -13,7 +12,7 @@
       useParams: /(^|[^\w$])def(?:\.|\[[\'\"])([\w$\.]+)(?:[\'\"]\])?\s*\:\s*([\w$\.]+|\"[^\"]+\"|\'[^\']+\'|\{[^\}]+\})/g,
       define: /\{\{##\s*([\w\.$]+)\s*(\:|=)([\s\S]+?)#\}\}/g,
       defineParams: /^\s*([\w$]+):([\s\S]+)/,
-      conditional: /\{\{\?(\?)?\s*([\s\S]*?)\s*\}\}/g, // ? if ?? else if ?? else
+      conditional: /\{\{\?(\?)?\s*([\s\S]*?)\s*\}\}/g,
       iterate: /\{\{~\s*(?:\}\}|([\s\S]+?)\s*\:\s*([\w$]+)\s*(?:\:\s*([\w$]+))?\s*\}\})/g,
       varname: "fl",
       strip: true,
@@ -89,6 +88,7 @@
     c = c || drT.templateSettings;
     var cse = c.append ? startend.append : startend.split, needhtmlencode, sid = 0, indv,
       str = (c.use || c.define) ? resolveDefs(c, tmpl, def || {}) : tmpl;
+
     let beforeCode = '';
     if (str.match(c.interpolate || skip)) {
       let inter_codes = str.match(c.interpolate || skip);
@@ -106,7 +106,6 @@
         });
       });
       let beginCode = Object.values(inter_dict).join('\n');
-      // console.log(beginCode);
       beforeCode += beginCode;
     }
     str = beforeCode + ("var out='" + (c.strip ? str.replace(/(^|\r|\n)\t* +| +\t*(\r|\n|$)/g, " ")
@@ -138,14 +137,18 @@
       .replace(c.evaluate || skip, function (m, code) {
         return "';" + unescape(code) + "out+='";
       })
-      + "';return out;").replace(/\n/g, "\\n").replace(/\t/g, '\\t').replace(/\r/g, "\\r").replace(/(\s|;|\}|^|\{)out\+='';/g, '$1').replace(/\+''/g, "");
+      + "';return out;")
+      .replace(/\n/g, "\\n").replace(/\t/g, '\\t').replace(/\r/g, "\\r")
+      .replace(/(\s|;|\}|^|\{)out\+='';/g, '$1').replace(/\+''/g, "");
 
     if (needhtmlencode) {
       if (!c.selfcontained && _globals && !_globals._encodeHTML) _globals._encodeHTML = drT.encodeHTMLSource(c.doNotSkipEncoded);
       str = "var encodeHTML = typeof _encodeHTML !== 'undefined' ? _encodeHTML : ("
         + drT.encodeHTMLSource.toString() + "(" + (c.doNotSkipEncoded || '') + "));"
         + str;
+    } else {
     }
+
     try {
       return new Function(c.varname, str);
     } catch (e) {
