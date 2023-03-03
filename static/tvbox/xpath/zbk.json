@@ -43,7 +43,7 @@
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'stui-pannel__head bottom-line') and not(contains(./h3/text(),'猜你喜欢'))]",
-  "dtFromName": "/h3/text())",
+  "dtFromName": "/h3/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
