@@ -16,7 +16,7 @@
   "homeVodImg": "//div[@class='module-item-pic']/img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[@class='module-item-note']/text()",
-  "cateUrl": "http://i.xn--z7x900a.love:63/vod/show{area}{class}{by}/id/{cateId}/page/{catePg}{year}.html",
+  "cateUrl": "http://i.xn--z7x900a.love:63/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   "cateVodNode": "//div[@class='module']//a[@class='module-poster-item module-item']",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
