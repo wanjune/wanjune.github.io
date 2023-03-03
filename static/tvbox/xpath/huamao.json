@@ -2,7 +2,7 @@
   "author": "wanjune",
   "desc": "",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "homeUrl": "http://www.huamaotv.com/",
+  "homeUrl": "http://www.huamaotv.com/index.php",
   "dcVipFlag": "true",
   "pCfgJs": "http://www.huamaotv.com/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
@@ -59,7 +59,7 @@
   "scVodId": "/@href",
   "scVodIdR":  "/detail/(\\w+).html",
   "scVodImg": "/@data-original",
-  "scVodImgR": "\\S+(http\\S+)",
+  "scVodImgR": "",
   "scVodMark": "/span[@class='pic-text']/text()",
   "filter": {
     "1": [
