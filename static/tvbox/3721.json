@@ -54,6 +54,8 @@
     {"name":"云","type":0,"url":"https://www.jiexila.com/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"CKFLV","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+    {"name":"巧技","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url="},

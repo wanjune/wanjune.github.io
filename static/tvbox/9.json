@@ -35,6 +35,9 @@
     {"key":"csp_xpath_6d","name":"六度[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/6d.json"},
     {"key":"csp_xpath_libvio","name":"LIB[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"csp_xpath_ikan","name":"爱看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/ikan.json"},
+
+    {"key":"csp_xpath_nmys","name":"农民[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
+    
     {"key":"csp_xyqh_waijumi","name":"️🌸外剧迷[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/XYQH/waijumi.json","categories":["动漫","综艺","剧集","+韩国","+日本","+欧美","电影"]},
     {"key":"csp_xbpq_1010","name":"🍀双十[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"}, 
     {"key":"csp_xbpq_30dian","name":"🍀创艺[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/30dian.json"},
@@ -79,6 +82,8 @@
     {"name":"云","type":0,"url":"https://www.jiexila.com/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"CKFLV","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+    {"name":"巧技","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url="},
