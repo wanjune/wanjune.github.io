@@ -80,6 +80,8 @@
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"CKFLV","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+    {"name":"肥猫1","type":1,"url":"http://i.xn--z7x900a.love:63/Art2/?url="},
+    {"name":"肥猫2","type":1,"url":"http://i.xn--z7x900a.love:63/Art1/analysis.php?v="},
     {"name":"巧技","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
