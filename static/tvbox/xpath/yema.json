@@ -52,7 +52,7 @@
   "dtUrlNameR": "\\S+(http\\S+)",
   "playUrl": "http://v.yemays.tk/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-  "searchUrl": "http://v.yemays.tk/index.php/ajax/suggest.html?mid=1&wd={wd}&limit=10",
+  "searchUrl": "http://v.yemays.tk/index.php/ajax/suggest.html?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

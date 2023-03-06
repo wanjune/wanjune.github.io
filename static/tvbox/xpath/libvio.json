@@ -49,7 +49,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.libvio.me/play/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.libvio.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.libvio.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

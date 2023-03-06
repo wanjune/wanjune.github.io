@@ -48,7 +48,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://cokemv.me/vodplay/{playUrl}.html",
   "playUa": "okhttp/4.1.0",
-  "searchUrl": "https://cokemv.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://cokemv.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

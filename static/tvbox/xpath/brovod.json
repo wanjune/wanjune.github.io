@@ -54,7 +54,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://brovod.com/play/{playUrl}/",
   "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-  "searchUrl": "https://brovod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://brovod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

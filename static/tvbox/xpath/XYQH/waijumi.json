@@ -36,7 +36,7 @@
   "分类片单链接加前缀": "https://www.waijumi.com",
   "分类片单链接加后缀": "",
   "搜索请求头参数": "User-Agent$PC_UA",
-  "搜索链接": "https://www.waijumi.com/index.php/ajax/suggest.html?mid=1&wd={wd}&limit=10",
+  "搜索链接": "https://www.waijumi.com/index.php/ajax/suggest.html?mid=1&wd={wd}&limit=15",
   "POST请求数据": "",
   "搜索截取模式": "0",
   "搜索列表数组规则": "list",

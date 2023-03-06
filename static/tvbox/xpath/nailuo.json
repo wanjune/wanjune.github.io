@@ -52,7 +52,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://nailuoys.com/vodplay/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://nailuoys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://nailuoys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

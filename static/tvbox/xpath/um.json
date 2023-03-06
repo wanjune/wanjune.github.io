@@ -51,7 +51,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.umkan.cc/index.php/vod_play_id_{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.umkan.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.umkan.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

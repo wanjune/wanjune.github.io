@@ -51,7 +51,7 @@
   "dtUrlNameR": "",
   "playUrl": "http://bcys.pro/vodplay/{playUrl}/",
   "playUa": "",
-  "searchUrl": "http://bcys.pro/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "http://bcys.pro/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
