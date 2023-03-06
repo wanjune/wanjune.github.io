@@ -13,6 +13,7 @@
     {"key":"csp_xpath_yp","name":"ポルノ[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
     {"key":"csp_xpath_biubiu","name":"ビューン[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/biubiu.json"},
     {"key":"csp_xpath_xx8888","name":"バナナ[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/xx8888.json"},
+    {"key":"csp_xpath_xiuru","name":"シュウジョク[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/xiuru.json"},
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
     {"key":"drpy_miaomi","name":"ネコ[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/miaomi.js"},
     {"key":"drpy_huanggua","name":"キュウリ[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/huanggua.js"},
