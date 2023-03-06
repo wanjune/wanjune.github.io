@@ -24,7 +24,7 @@
   "cateVodImgR": "",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://xiuru.net/vod/detail/id/{vid}.html",
-  "dtNode": "//div[@class='container']",
+  "dtNode": "//body",
   "dtName": "//div[@class='myui-content__detail']/h1[@class='title']/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='myui-content__thumb']/a/img/@data-original",
