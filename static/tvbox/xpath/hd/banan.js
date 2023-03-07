@@ -4,6 +4,10 @@ var rule = {
   host:'https://banan.tv',
   url:'/vodtype/fyclass-fypage.html',
   homeUrl:'/label/new.html',
+  searchUrl:'/vodsearch/-------------.html?wd=**',
+  searchable:1,
+  quickSearch:1,
+  filterable:1,
   headers:{'User-Agent':'MOBILE_UA'},
   timeout:5000,
   class_name:'\u4e3b\u64ad&\u63a2\u82b1&\u5927\u795e&\u65e0\u7801&\u7d20\u4eba&\u56fd\u4ea7&\u9ad8\u6e05&\u0046\u0043\u0032&\u73a9\u5076\u59d0\u59d0&\u52a8\u6f2b',
@@ -11,6 +15,6 @@ var rule = {
   limit:5,
   play_parse:true,
   lazy:'',
-  一级:'.img-box.cover-md&&a;img&&alt;img&&data-src;.grid_date&&Text;a&&href',
+  一级:'.img-box.cover-md&&a;img&&alt;img&&data-src;span&&Text;a&&href',
   二级:'*',
 }
