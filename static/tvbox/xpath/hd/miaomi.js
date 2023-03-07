@@ -9,7 +9,7 @@ var rule = {
   filterable:1,
   headers:{'User-Agent':'MOBILE_UA' },
   timeout:5000,
-  class_name:'自拍&不雅&国产&欧美&中文&女忧&三级&成人&抖音&动漫',
+  class_name:'\u81ea\u62cd&\u4e0d\u96c5&\u56fd\u4ea7&\u6b27\u7f8e&\u4e2d\u6587&\u5973\u5fe7&\u4e09\u7ea7&\u6210\u4eba&\u6296\u97f3&\u52a8\u6f2b',
   class_url:'42&37&32&16&34&35&39&40&41&31',
   limit:5,
   play_parse:true,
