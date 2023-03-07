@@ -5,7 +5,6 @@
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_360","name":"360[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"jar":"https://wanjune.github.io/static/tvbox/jar/qj.dylib;md5;4F2D69DE1285EFA0A0E72C038DE026E2"},
-    {"key":"py_kunyu77","name":"鲲娱[PY]","type":3,"api":"py_kunyu77","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_kunyu77.py"},
     {"key":"csp_AppTT","name":"图图[SP]","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"http://124.248.66.89:7788/","jar":"https://wanjune.github.io/static/tvbox/jar/qj.dylib;md5;4F2D69DE1285EFA0A0E72C038DE026E2"},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
