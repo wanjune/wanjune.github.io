@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "https://100gaoaa.com https://99gaoaa.com https://98gaoaa.com https://97gaoaa.com https://96gaoaa.com https://95gaoaa.com https://94gaoaa.com bajie388@gmail.com",
-  "ua": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+  "ua": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
   "homeUrl": "https://72gaoaa.com/",
   "dcVipFlag": "true",
   "pCfgJs": "https://72gaoaa.com/static/js/playerconfig.js",
@@ -43,7 +43,7 @@
   "dtUrlName": "/@href",
   "dtUrlNameR": "/gao(\\S+)/",
   "playUrl": "https://72gaoaa.com/gaoplay/{playUrl}.html",
-  "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+  "playUa": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
   "searchUrl": "https://72gaoaa.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "scVodNode": "json:list",
   "scVodName": "name",
