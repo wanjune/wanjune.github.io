@@ -2,7 +2,7 @@ var rule = {
   title:'\u9ec4\u74dc\u0054\u0056',
   desc:'https://www.se09.com',
   host:'https://zzk89.com:33666',
-  homeUrl:'/home/index.html',
+  homeUrl:'https://zzk89.com:33666/home/index.html',
   url:'/home/vodlist/38/fyclass-fypage.html',
   headers:{'User-Agent':'MOBILE_UA'},
   searchable:1,
@@ -14,7 +14,6 @@ var rule = {
   limit:24,
   play_parse:true,
   lazy:'',
-  推荐:'.channel-list&&dl;h3&&Text;img&&data-original;font&&Text;a&&href',
   一级:'.channel-list&&dl;h3&&Text;img&&data-original;font&&Text;a&&href',
   二级:'*',
 }
