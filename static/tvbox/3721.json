@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230305.dylib;md5;B0BA72140B1828C8907F53CF0667493C",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230308.dylib;md5;336E4EF13D2D0FD8328DC68F01AE2684",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
@@ -34,16 +34,15 @@
     {"key":"bttcj","name":"\u535a\u5929\u5802","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u56fd\u4ea7\u4f26\u7406","\u65e5\u672c\u4f26\u7406","\u97e9\u56fd\u4f26\u7406","\u6b27\u7f8e\u4f26\u7406","\u9999\u6e2f\u4f26\u7406"]},
     {"key":"secj","name":"イロイロ","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://secj8.com/inc/sapi.php?ac=videolist","categories":["\u5077\u62cd\u81ea\u62cd","\u65e0\u7801\u4e13\u533a","\u6b27\u7f8e\u6027\u7231","\u4e9a\u6d32\u60c5\u8272","\u4e2d\u6587\u5b57\u5e55","\u4eba\u59bb\u719f\u5973","\u5f3a\u5978\u4e71\u4f26","\u4e1d\u889c\u7f8e\u817f","\u5236\u670d\u5e08\u751f"]},
     {"key":"hdzyk","name":"1080","type":0,"api":"https://api.1080zyku.com/inc/ldg_api.php?t=7","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u502b\u7406\u7247","\u798f\u5229"]},
-    {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-    {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-    {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-    {"key":"csp_UpYun","name":"🍭UP云[SP]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ce44c417ee3045c09e1b72adb4691cbf"},
-    {"key":"csp_Zhaozy","name":"🍭找资源[SP]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ce44c417ee3045c09e1b72adb4691cbf$$$yingshi$$$abcd1234"}
+    {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
+    {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
+    {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
+    {"key":"csp_UpYun","name":"🍭UP云[SP]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
+    {"key":"csp_Zhaozy","name":"🍭找资源[SP]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt$$$yingshi$$$abcd1234"}
   ],
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
-    {"host":"www.6080dy3.com","rule":["m3u8.php",".m3u8"]},
     {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
     {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
     {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
