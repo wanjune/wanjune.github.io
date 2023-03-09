@@ -24,7 +24,7 @@
   "cateVodImg": "/div[@class='entry-media']/a/img/@src",
   "cateVodImgR": "",
   "cateVodMark": "/div[@class='entry-meta']/allText()",
-  "cateVodMarkR": "阅读.*/(.*)",
+  // "cateVodMarkR": "阅读.*/(.*)",
   "dtUrl": "https://www.silisili.tv/voddetail/{vid}/",
   "dtNode": "//body",
   "dtName": "//h1[contains(@class,'title')]/text()",
