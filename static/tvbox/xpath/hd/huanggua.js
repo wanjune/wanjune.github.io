@@ -1,7 +1,7 @@
 var rule = {
   title:'\u9ec4\u74dc\u0054\u0056',
   desc:'https://www.se09.com',
-  host:'https://zzk82.com:33666',
+  host:'https://zzk89.com:33666',
   homeUrl:'/home/index.html',
   url:'/home/vodlist/38/fyclass-fypage.html',
   headers:{'User-Agent':'MOBILE_UA'},
