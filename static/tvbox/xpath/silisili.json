@@ -1,7 +1,7 @@
 {
   "author": "wanjune",
   "desc": "http://silisili.one/",
-  "ua": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
   "homeUrl": "https://www.silisili.tv/",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.silisili.tv/static/js/playerconfig.js",
@@ -53,7 +53,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.silisili.tv/vodplay/{playUrl}/",
-  "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+  "playUa": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
   "searchUrl": "https://www.silisili.tv/vodsearch/?wd={wd}",
   "scVodNode": "//div[@class='entry-container']",
   "scVodName": "/div[@class='search-image']/a/@title",
