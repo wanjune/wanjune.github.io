@@ -19,7 +19,6 @@
     {"key":"csp_xpath_zbk","name":"真不卡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zbk.json"},
     {"key":"csp_xpath_hdmoli","name":"HDmoli[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hdmoli.json"},
     {"key":"csp_xpath_reboku","name":"热播库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/reboku.json"},
-    {"key":"csp_Libvio","name":"Lib[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.me"},
     {"key":"csp_Zxzj","name":"在线[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org","categories":["动漫","韩剧","日剧","美剧","泰剧","电影"]},
     {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc","categories":["动漫","综艺","电视剧","日韩剧","欧美剧","电影","纪录片"]},
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","国产剧","韩剧","美剧","电影","豆瓣电影Top250"]},
