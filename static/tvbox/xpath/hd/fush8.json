@@ -3,7 +3,7 @@
   "desc": "",
   "ua": "",
   "homeUrl": "https://movie.fush8.com/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://movie.fush8.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},

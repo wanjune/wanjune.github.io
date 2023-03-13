@@ -3,7 +3,7 @@
   "desc": "http://dz.91free.vip",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
   "homeUrl": "https://91free.vip/index.php/label/new.html",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://91free.vip/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},

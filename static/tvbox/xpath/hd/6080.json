@@ -3,7 +3,7 @@
   "desc": "https://www.dh6080.com",
   "ua": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://www.6080dy3.com/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://www.6080dy3.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},

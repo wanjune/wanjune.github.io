@@ -43,7 +43,7 @@
   "dtDesc": "//div[@class='summary detailsTxt']/text()[1]",
   "dtDescR": "",
   "dtFromNode": "//div[@class='play_source']/div[contains(@class,'play_source_tab')]/div/a",
-  "dtFromName": "/text()",
+  "dtFromName": "concat(/text(),'源')",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='play_source']//ul[contains(@class,'content_playlist')]",
   "dtUrlSubNode": "/li/a",
