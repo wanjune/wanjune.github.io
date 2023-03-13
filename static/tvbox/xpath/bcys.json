@@ -3,7 +3,7 @@
   "desc": "https://www.bcyingshi.ink https://bczhuiju.com",
   "ua": "",
   "homeUrl": "http://www.bcys.pro/label/new/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "http://bcys.pro/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
