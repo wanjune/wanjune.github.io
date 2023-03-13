@@ -74,8 +74,6 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
-    {"name":"UM","type":0,"url":"https://b.umkan.cc/?url=","ext":{"flag":["BYGA","UM蓝光线路","搬运工资源","qiyi","qq","youku","xigua","bilibili","mgtv"]}},
-    {"name":"LZ","type":0,"url":"https://lziplayer.com/?url=","ext":{"flag":["lzm3u8","LZ备用"]}},
     {"name":"100","type":0,"url":"https://byg.ziqj5.shop/?url="},
     {"name":"CK","type":0,"url":"https://www.ckmov.com/?url="},
     {"name":"云","type":0,"url":"https://www.jiexila.com/?url="},
@@ -91,7 +89,7 @@
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
     {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6","BYGA","UM蓝光线路","搬运工资源","lzm3u8","LZ备用"],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
