@@ -43,7 +43,6 @@
   "dtDesc": "//div[contains(@class,'module-info-introduction-content')]/allText()",
   "dtDescR": "",
   "dtFromNode": "//div[@id='y-playList']/div",
-  // "dtFromName": "concat(/span/text(),'｜',/small/text())",
   "dtFromName": "/span/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='module-play-list']",
