@@ -3,7 +3,7 @@
   "desc": "https://www.smdyy.vip https://www.6080x.cc https://www.smdyy.info https://www.smdyy.club https://www.smdyy.fun",
   "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
   "homeUrl": "http://www.smdyy.fun/",
-  "dcVipFlag": "false",
+  "dcVipFlag": "true",
   "pCfgJs": "http://www.smdyy.fun/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
