@@ -3,7 +3,7 @@
   "desc": "https://www.yakjv.shop https://bd88s.com",
   "ua": "",
   "homeUrl": "https://www.bd8s.com/label/new.html",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://www.bd8s.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
