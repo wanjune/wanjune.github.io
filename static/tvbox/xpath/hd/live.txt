@@ -2,8 +2,10 @@ MiamiTV,#genre#
 US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 US,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
 Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w344662161_b1896000.m3u8
 Mexico,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w67824133.m3u8
 
 AdultIPTV,#genre#
 Anal,http://cdn.adultiptv.net/anal.m3u8
