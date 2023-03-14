@@ -11,7 +11,6 @@ JennyLive,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w67824133.m3u8
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 JennyForYou,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
-Blog,https://59ec5453559f0.streamlock.net/blog/blog/playlist.m3u8
 BlogTV,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/playlist.m3u8
 NakedKitchen,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/playlist.m3u8
 SunBeach,https://59ec5453559f0.streamlock.net/Sunbeachtv/sunbeachtv3131/playlist.m3u8
