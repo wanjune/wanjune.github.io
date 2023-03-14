@@ -1,14 +1,16 @@
 MiamiTV,#genre#
 US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+US,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
 Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Mexico,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 AdultIPTV,#genre#
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
-Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+BigAss,http://cdn.adultiptv.net/bigass.m3u8
+BigDick,http://cdn.adultiptv.net/bigdick.m3u8
+BigTits,http://cdn.adultiptv.net/bigtits.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
@@ -21,9 +23,9 @@ Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
 Interracial,http://cdn.adultiptv.net/interracial.m3u8
 Latina,http://cdn.adultiptv.net/latina.m3u8
 Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+LiveCams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
-Porn Star,http://cdn.adultiptv.net/pornstar.m3u8
+PornStar,http://cdn.adultiptv.net/pornstar.m3u8
 POV,http://cdn.adultiptv.net/pov.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
@@ -34,8 +36,8 @@ Woman,http://live.redtraffic.net/woman.m3u8
 MyCamTV,#genre#
 Anal,http://live.mycamtv.com/anal.m3u8
 Asian,http://live.mycamtv.com/asian.m3u8
-Big Ass,http://live.mycamtv.com/defstream.m3u8
-Big Tits,http://live.mycamtv.com/bigtits.m3u8
+BigAss,http://live.mycamtv.com/defstream.m3u8
+BigTits,http://live.mycamtv.com/bigtits.m3u8
 Blonde,http://live.mycamtv.com/blonde.m3u8
 Brunette,http://live.mycamtv.com/brunette.m3u8
 Ebony,http://live.mycamtv.com/medium.m3u8
