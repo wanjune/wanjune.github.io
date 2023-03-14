@@ -1,6 +1,6 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230312.dylib;md5;CE1232E66E21A7A91E82A58D7B84F921",
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93YW5qdW5lLmdpdGh1Yi5pby9zdGF0aWMvdHZib3gveHBhdGgvaGQvbGl2ZTM3MjEudHh0"]}]}],
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230313.dylib;md5;26709546070E50DD258D294F70A6DF9F",
+  "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt"}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
     {"key":"csp_xpath_bzhanys","name":"B站[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/bzhanys.json"},
