@@ -55,6 +55,7 @@
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
+    {"name":"超解","type":4,"url":"God"},
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
