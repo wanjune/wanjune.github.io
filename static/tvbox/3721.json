@@ -58,8 +58,6 @@
     {"name":"超解","type":4,"url":"God"},
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"Web","type":3,"url":"Web"},
-    {"name":"并发","type":2,"url":"Parallel"},
-    {"name":"轮询","type":2,"url":"Sequence"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},

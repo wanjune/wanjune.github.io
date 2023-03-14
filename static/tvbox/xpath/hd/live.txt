@@ -59,6 +59,7 @@ White,http://live.mycamtv.com/white.m3u8
 Adultos,#genre#
 BalkanEroticHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35344
 Barely,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35345
+BrazzersTVEurope,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
 CentoXCento,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35347
 Erotic16SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35349
 Erotic46SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35350
@@ -70,9 +71,8 @@ HustlerTVSD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35353
 OhAhHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35358
 OLaLaHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
 PassieXXX,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
-PentHouse2SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
+PentHouseSD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
 PentHouseHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/44268
-Pinko01FHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
 Pinko03SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
 Pinko04SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
 Pinko05SD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35369
