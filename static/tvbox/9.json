@@ -74,18 +74,17 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
-    {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"CK","type":0,"url":"https://www.ckmov.com/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"FP","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"OK","type":0,"url":"https://okjx.cc/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"]}},
-    {"name":"虾米1","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"]}},
-    {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"]}},
-    {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"]}},
-    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url=","ext":{"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"]}}
+    {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+    {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"CK","type":0,"url":"https://www.ckmov.com/?url="},
+    {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+    {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
+    {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="},
+    {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
+    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","imgo","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
