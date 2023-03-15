@@ -68,7 +68,7 @@
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
     {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","imgo","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
+  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
