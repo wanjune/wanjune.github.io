@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230313.dylib;md5;26709546070E50DD258D294F70A6DF9F",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230314.dylib;md5;573BE8213FA597C2E473C0ADF14B3A82",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt"}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
@@ -55,9 +55,9 @@
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
-    {"name":"超解","type":4,"url":"God"},
-    {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"Web","type":3,"url":"Web"},
+    // {"name":"超解","type":4,"url":"God"},
+    // {"name":"聚合","type":3,"url":"Demo"},
+    // {"name":"Web","type":3,"url":"Web"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
