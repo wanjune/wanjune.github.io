@@ -41,7 +41,7 @@
   "dtDesc": "//div[@class='module-info-introduction-content']/allText()",
   "dtDescR": "",
   "dtFromNode": "//div[@class='module-tab']//div[contains(@class,'module-tab-item tab-item')]",
-  "dtFromName": "concat(/span/text(),'｜',/small/text())",
+  "dtFromName": "concat(/span/text(),'♪',/small/text())",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='module-play-list']/div[contains(@class,'module-play-list-content')]",
   "dtUrlSubNode": "/a",

@@ -43,7 +43,7 @@
   "dtDesc": "//div[contains(@class,'vod_content')]/span/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]",
-  "dtFromName": "concat(/span/text(),'｜',/small/text())",
+  "dtFromName": "concat(/span/text(),'♪',/small/text())",
   "dtUrlNode": "//div[contains(@class,'module-blocklist scroll-box')]",
   "dtUrlSubNode": "/div/a",
   "dtUrlId": "/@href",

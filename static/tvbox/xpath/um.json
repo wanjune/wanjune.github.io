@@ -41,7 +41,7 @@
   "dtActorR": "(.*)/",
   "dtDesc": "concat(//div[contains(@class,'module-info-introduction-content')]//text())",
   "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div",
-  "dtFromName": "concat(/span/text(),'｜',/small/text())",
+  "dtFromName": "concat(/span/text(),'♪',/small/text())",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='module-play-list']",
   "dtUrlSubNode": "/div/a",
