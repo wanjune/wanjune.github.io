@@ -44,7 +44,7 @@
   "dtDescR": "",
   "dtFromNode": "//a[contains(@class,'swiper-slide')]",
   // "dtFromName": "concat(/text(),'♪',/span/text())",
-  "dtFromName": "concat('播放源',count(//a[contains(@class,'swiper-slide')]) + 1)",
+  "dtFromName": "concat('播放源',count(parent::*/preceding::*//a[contains(@class,'swiper-slide')]/i[contains(@class,'fa')]) + 1)",
   "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//ul[contains(@class,'anthology-list-play')]",
   "dtUrlSubNode": "/li/a",
