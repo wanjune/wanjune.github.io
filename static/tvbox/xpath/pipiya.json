@@ -42,7 +42,7 @@
   "dtActorR": "演员 :(.*)",
   "dtDesc": "//li[contains(./em/text(),'简介')]/text()",
   "dtDescR": "",
-  "dtFromNode": "//a[contains(@class,'swiper-slide') and @role='group']",
+  "dtFromNode": "//a[contains(@class,'swiper-slide')]",
   "dtFromName": "concat(/text(),'♪',/span/text())",
   "dtUrlNode": "//ul[contains(@class,'anthology-list-play')]",
   "dtUrlSubNode": "/li/a",
