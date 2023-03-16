@@ -3,7 +3,7 @@
   "desc": "https://xfeiji.com",
   "ua": "",
   "homeUrl": "https://hz8868.com/",
-  "dcVipFlag": "false",
+  "dcVipFlag": "true",
   "pCfgJs": "https://hz8868.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
