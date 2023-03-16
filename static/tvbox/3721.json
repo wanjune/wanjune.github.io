@@ -61,6 +61,7 @@
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"九牛","type":0,"url":"https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
+    {"name":"F7","type":0,"url":"https://api.f7hkj.cc/bfqapi/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="},
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
@@ -68,7 +69,7 @@
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="}
   ],
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
+  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},

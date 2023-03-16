@@ -2,7 +2,7 @@
   "author": "wanjune",
   "ua": "",
   "homeUrl": "https://xx8888.cc/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://xx8888.cc/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
