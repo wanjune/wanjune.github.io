@@ -3,7 +3,7 @@
   "desc": "https://ikan6.vip http://aikan.me https://t.me/+xbu9aIPeuUg3ODdh",
   "ua": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://ikanys.tv/label/new/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://ikanys.tv/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
