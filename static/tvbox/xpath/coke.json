@@ -3,7 +3,7 @@
   "desc": "https://cokemv.me https://cokemv.org https://cokemv.co",
   "ua": "okhttp/4.1.0",
   "homeUrl": "https://cokemv.me/label/new.html",
-  "dcVipFlag": "false",
+  "dcVipFlag": "true",
   "pCfgJs": "https://cokemv.me/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
