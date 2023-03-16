@@ -73,18 +73,17 @@
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
-    // {"name":"超解","type":4,"url":"God"},
-    // {"name":"聚合","type":3,"url":"Demo"},
-    // {"name":"Web","type":3,"url":"Web"},
+    {"name":"Web聚合","type":3,"url":"Web"},
+    {"name":"Api聚合","type":3,"url":"Demo"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-    {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-    {"name":"CK","type":0,"url":"https://www.ckmov.com/?url="},
+    {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="},
+    {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
-    {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="},
     {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
-    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
+    {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+    {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
+    {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","优酷","芒果","腾讯","爱奇艺","奇艺","华数TV","华数","土豆","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","1905电影","酷6"],
   "ijk":[
