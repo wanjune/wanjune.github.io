@@ -3,7 +3,7 @@
   "desc": "http://xdys.gq",
   "ua": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://brovod.com/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://brovod.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},

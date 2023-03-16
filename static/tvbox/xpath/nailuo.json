@@ -3,7 +3,7 @@
   "desc": "https://newfii.com https://nailuoys.com https://nailuotvys.com",
   "ua": "",
   "homeUrl": "https://nailuoys.com/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://nailuoys.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
