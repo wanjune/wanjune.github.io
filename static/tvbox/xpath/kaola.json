@@ -3,7 +3,7 @@
   "desc": "",
   "ua": "",
   "homeUrl": "https://ikaola.tv/",
-  "dcVipFlag": "true",
+  "dcVipFlag": "false",
   "pCfgJs": "https://ikaola.tv/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
