@@ -1,4 +1,4 @@
-MiamiTV,#genre#
+Miami TV,#genre#
 US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
 US,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
@@ -108,16 +108,16 @@ FapTV4HD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35340
 HustlerHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35352
 HustlerTV,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35353
 OX-AXHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35358
-Olala,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
+O-la-la ,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
 PASSIE-XXX,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
 PENTHOUSE-TV,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
-PinkOTV03,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
-PinkOTV04,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
-PinkOTV05,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35369
-PinkOTV06,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35370
-PinkOTV08,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35371
-PinkOTV09,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35372
-PinkOTV10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
+Pink'O TV03,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
+Pink'O TV04,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
+Pink'O TV05,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35369
+Pink'O TV06,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35370
+Pink'O TV08,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35371
+Pink'O TV09,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35372
+Pink'O TV10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
 Private10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35375
 Private11,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35376
 Private12,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35377
@@ -264,9 +264,10 @@ MonstersofCock,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6235/index.m3u8
 MvHHard,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6297/index.m3u8
 MYLFTVHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6236/index.m3u8
 NaughtyAmerica,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6237/index.m3u8
+Netherlands,http://hxj6k3eb.akciatv.ru/iptv/P7DT7MC4NVEM6R/14035/index.m3u8
 NubilesTVHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6238/index.m3u8
 O-la-la,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2161/index.m3u8
-O-La-Laorig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9068/index.m3u8
+O-la-la orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9068/index.m3u8
 Oldtimer,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6279/index.m3u8
 ox-axHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6239/index.m3u8
 PASSIETV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12136/index.m3u8
@@ -363,6 +364,7 @@ VISIT-XTV,https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
 VividRedHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2162/index.m3u8
 VividTVEurope,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6264/index.m3u8
 VixenHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6265/index.m3u8
+VixenFHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/405/index.m3u8
 WeLiveTogether,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6266/index.m3u8
 WhiteBoxxx,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6267/index.m3u8
 Wicked,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6268/index.m3u8
@@ -395,8 +397,8 @@ Others,#genre#
 Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 FashionTV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 JasminTV,http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Olala,http://92.242.14.114:4022/udp/225.0.55.234:1234
-PinkOTV,http://w4.12all.tv:4000/play/pinkotv/index.m3u8
+O-la-la ,http://92.242.14.114:4022/udp/225.0.55.234:1234
+Pink'O TV,http://w4.12all.tv:4000/play/Pink'O TV/index.m3u8
 RedlightHD,http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 XpandedTV,https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
