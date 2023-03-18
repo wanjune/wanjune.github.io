@@ -68,8 +68,8 @@
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
-    {"name":"Web聚合","type":3,"url":"Web"},
-    {"name":"Api聚合","type":3,"url":"Demo"},
+    {"name":"聚合","type":3,"url":"Web"},
+    // {"name":"API聚合","type":3,"url":"Demo"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"九牛","type":0,"url":"https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/?url="},
