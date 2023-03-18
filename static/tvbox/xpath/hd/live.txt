@@ -399,7 +399,4 @@ RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 BrazzersEurope,http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=583051efa65fe05df0dbc5c743d55241-1679131134-931i92i622i931
 KINOXXX,http://50.7.120.164:8081/kinoxxx/index.m3u8?wmsAuthSign=ed5d318e5fcedbcfc6c6db3127bc588c-1679132620-931i92i622i931
 O-la-la,http://50.7.120.164:8081/olala/index.m3u8?wmsAuthSign=18ebfab8ab062f9218d6ed95a0382870-1679132779-931i92i622i931
-PenthouseGold,http://50.7.120.164:8081/pent_gol/index.m3u8?wmsAuthSign=3a3234eb1dd4984c9288de93a25e813b-1679128809-931i92i622i931
-PlayboyTV,http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=dc737752082e6d235de4d5e9cb59d01f-1679128451-931i92i622i931
-PlayboyTV,http://50.7.120.164:8081/playboy/tracks-v1a1/mono.m3u8?wmsAuthSign=dc737752082e6d235de4d5e9cb59d01f-1679128451-931i92i622i931
 RedlightHD,http://50.7.120.164:8081/redlight/index.m3u8?wmsAuthSign=95e32fe423e1112ac0c60b2345caf116-1679132943-931i92i622i931
