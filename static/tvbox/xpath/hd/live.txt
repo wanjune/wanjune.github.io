@@ -108,9 +108,9 @@ FapTV4HD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35340
 HustlerHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35352
 HustlerTV,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35353
 OX-AXHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35358
-O-la-la ,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
+O-la-la,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
 PASSIE-XXX,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
-PENTHOUSE-TV,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
+Penthouse,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
 Pink'O TV03,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
 Pink'O TV04,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
 Pink'O TV05,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35369
@@ -159,8 +159,8 @@ BlueHustler,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/1064/index.m3u8
 BlueHustler,http://193.33.240.8:80/hustler_hd/index.m3u8
 BrazzerseXXtra,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6181/index.m3u8
 BrazzersHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6182/index.m3u8
-BRAZZERSTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12113/index.m3u8
-BrazzersTVEurope,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
+BRAZZERS,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12113/index.m3u8
+BrazzersEurope,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
 BrunetteAdultTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6183/index.m3u8
 Candy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/923/index.m3u8
 CentoXCento,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6184/index.m3u8
@@ -243,7 +243,7 @@ InterracialRedTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6224/index.m3u8
 JapanHDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
 Kaloopyhdtv,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/16018/index.m3u8
 KinoshkaAdultHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/18060/index.m3u8
-KinoXXX,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/11052/index.m3u8
+KINOXXX,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/11052/index.m3u8
 LatinaRedTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6226/index.m3u8
 LATINATV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12172/index.m3u8
 LEOTVFHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12123/index.m3u8
@@ -274,7 +274,7 @@ PASSIETV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12136/index.m3u8
 PassionXXX,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/878/index.m3u8
 PASSIONXXX,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12120/index.m3u8
 PassionXXXorig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9067/index.m3u8
-PenthouseGoldHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5011/index.m3u8
+PenthouseGold,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5011/index.m3u8
 PenthousePassionHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/1073/index.m3u8
 PenthouseQuickies1300k,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5012/index.m3u8
 PenthouseQuickiesHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5013/index.m3u8
@@ -291,7 +291,7 @@ PINKEROTICA8,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12153/index.m3u8
 Playboy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/527/index.m3u8
 PlayboyLA,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6280/index.m3u8
 PlayboyPlus,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6242/index.m3u8
-PLAYBOYTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12135/index.m3u8
+PlayboyTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12135/index.m3u8
 PornstarRedTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6243/index.m3u8
 PORNSTARTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12174/index.m3u8
 POVAdultTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6244/index.m3u8
@@ -390,15 +390,16 @@ YOSSOTVSEXY,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/14176/index.m3u8
 НюартTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2057/index.m3u8
 ОХАХHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/11068/index.m3u8
 РусскаяНочь,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/147/index.m3u8
-Русскаяночьorig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9344/index.m3u8
+РусскаяНочьOrig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9344/index.m3u8
 Шалун,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/922/index.m3u8
 
 Others,#genre#
-Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-FashionTV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-JasminTV,http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-O-la-la ,http://92.242.14.114:4022/udp/225.0.55.234:1234
-Pink'O TV,http://w4.12all.tv:4000/play/Pink'O TV/index.m3u8
-RedlightHD,http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-XpandedTV,https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
+# http://huligan-tv.org/
+BrazzersEurope,http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=583051efa65fe05df0dbc5c743d55241-1679131134-931i92i622i931
+KINOXXX,http://50.7.120.164:8081/kinoxxx/index.m3u8?wmsAuthSign=ed5d318e5fcedbcfc6c6db3127bc588c-1679132620-931i92i622i931
+O-la-la,http://50.7.120.164:8081/olala/index.m3u8?wmsAuthSign=18ebfab8ab062f9218d6ed95a0382870-1679132779-931i92i622i931
+PenthouseGold,http://50.7.120.164:8081/pent_gol/index.m3u8?wmsAuthSign=3a3234eb1dd4984c9288de93a25e813b-1679128809-931i92i622i931
+PlayboyTV,http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=dc737752082e6d235de4d5e9cb59d01f-1679128451-931i92i622i931
+PlayboyTV,http://50.7.120.164:8081/playboy/tracks-v1a1/mono.m3u8?wmsAuthSign=dc737752082e6d235de4d5e9cb59d01f-1679128451-931i92i622i931
+RedlightHD,http://50.7.120.164:8081/redlight/index.m3u8?wmsAuthSign=95e32fe423e1112ac0c60b2345caf116-1679132943-931i92i622i931
