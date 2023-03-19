@@ -1,12 +1,12 @@
 Miami TV,#genre#
-US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-US,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
-US,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-US,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
-Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
-Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
+アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
+ラティーノ,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+ラティーノ,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+メキシコ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+メキシコ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
@@ -15,12 +15,12 @@ JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlis
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/chunklist.m3u8
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB/playlist.m3u8
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB/chunklist.m3u8
-SunBeach,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/playlist.m3u8
-SunBeach,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/chunklist.m3u8
-BlogTV,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/playlist.m3u8
-BlogTV,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/chunklist.m3u8
-NakedKitchen,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/playlist.m3u8
-NakedKitchen,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/chunklist.m3u8
+サンビーチ,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/playlist.m3u8
+サンビーチ,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/chunklist.m3u8
+ブログ,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/playlist.m3u8
+ブログ,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/chunklist.m3u8
+キッチン,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/playlist.m3u8
+キッチン,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/chunklist.m3u8
 
 AdultIPTV,#genre#
 Anal,http://cdn.adultiptv.net/anal.m3u8
@@ -100,16 +100,16 @@ BalkanErotic,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35344
 Barely,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35345
 BrazzersTV Europe,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
 CentoXCento,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35347
-SEX-TREME,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35349
-SEXY-HOT,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35350
+SEX TREME,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35349
+SEXY HOT,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35350
 FapTV 2,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35338
 FapTV 3,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35339
 FapTV 4,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35340
 HustlerHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35352
 HustlerTV,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35353
-OX-AXHD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35358
+OX-AX HD,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35358
 O-la-la,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35357
-PASSIE-XXX,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
+PASSIE XXX,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
 Penthouse,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
 PinkOTV03,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
 PinkOTV04,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
@@ -130,3 +130,7 @@ RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 VISIT-X TV,https://stream.visit-x.tv/vxtv/live/chunklist.m3u8
 VISIT-X TV,https://stream.visit-x.tv/vxtv/live/playlsit.m3u8
+# 其他源
+PLAYBOY,http://axr.life:80/096154/686531/466402
+SEXY HOT,http://axr.life:80/096154/686531/923098
+SEXY HOT,http://axr.life:80/096154/686531/466382
