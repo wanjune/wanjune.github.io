@@ -393,19 +393,18 @@ YOSSOTVSEXY,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/14176/index.m3u8
 
 その他,#genre#
 # 官方源
-VISIT-X TV,https://stream.visit-x.tv/vxtv/live/playlsit.m3u8
-VISIT-X TV,https://stream.visit-x.tv/vxtv/live/chunklist.m3u8
-RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
+RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+VISIT-X TV,https://stream.visit-x.tv/vxtv/live/chunklist.m3u8
+VISIT-X TV,https://stream.visit-x.tv/vxtv/live/playlsit.m3u8
 # http://huligan-tv.org/
 BabesTV,http://50.7.120.164:8081/babes/index.m3u8?wmsAuthSign=bed0a1c63521ea6d05b104bb04b65f1c-1679208538-931i92i622i931
 BarelyLegalTV,http://50.7.120.164:8081/bar_legal/index.m3u8?wmsAuthSign=8d5a383788070fcb8f8511d34018f1af-1679208172-931i92i622i931
-BlueHustler,http://50.7.120.164:8081/bluehustler/index.m3u8?wmsAuthSign=9e92de9158899a37e438a29120fe6660-1679208627-931i92i622i931
+blueHustler,http://50.7.120.164:8081/bluehustler/index.m3u8?wmsAuthSign=9e92de9158899a37e438a29120fe6660-1679208627-931i92i622i931
 Brazzers,http://50.7.120.164:8081/brazzers/index.m3u8?wmsAuthSign=9bfbf40c890c219f7a4f526aeed6e5e6-1679214330-931i92i622i931
 BrazzersTV Europe,http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=b88d438988f0e52b57848b9f8c82f201-1679213935-931i92i622i931
 DorcelTV,http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=5f6c016c114af73620542a7667700a36-1679206722-931i92i622i931
-DuskTV,http://50.7.120.164:8081/dusk/index.m3u8?wmsAuthSign=063cb65fd1cb435648b0b4def1ad0f21-1679214278-931i92i622i931
-EroxxxHD,http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=18fa0f2e7cfe93d1decb26617d888708-1679215744-931i92i622i931
+EROXXX HD,http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=18fa0f2e7cfe93d1decb26617d888708-1679215744-931i92i622i931
 FapTV 2,http://50.7.120.164:8081/faptv2/index.m3u8?wmsAuthSign=2a233478b37e374500894791f2ee5204-1679206794-931i92i622i931
 FapTV 3,http://50.7.120.164:8081/faptv3/index.m3u8?wmsAuthSign=5b008a8f2de3b1750175ba4642ddeeb3-1679206844-931i92i622i931
 FapTV 4,http://50.7.120.164:8081/faptv4/index.m3u8?wmsAuthSign=0e314ddce54407529347abf81b109895-1679206910-931i92i622i931
@@ -413,7 +412,6 @@ FapTV Anal,http://50.7.120.164:8081/fap_an/index.m3u8?wmsAuthSign=b67a9bf898ebfb
 FapTV BBW,http://50.7.120.164:8081/fap_bbw/index.m3u8?wmsAuthSign=e019ac51eb3af0d739f689ac220a49b8-1679206479-931i92i622i931
 FapTV Compilation,http://50.7.120.164:8081/fap_compilation/index.m3u8?wmsAuthSign=cc712310afabef4f71c2575f814728a8-1679207185-931i92i622i931
 FapTV Parody,http://50.7.120.164:8081/fap_parody/index.m3u8?wmsAuthSign=a9ec6ba8a5d2f037ae1226b76fa18499-1679207031-931i92i622i931
-FapTV Teaching,http://50.7.120.164:8081/fap_teaching/index.m3u8?wmsAuthSign=9626ddec9fe310cc94e86adf23ceb3d6-1679213767-931i92i622i931
 FapTV Teens,http://50.7.120.164:8081/fap_teens/index.m3u8?wmsAuthSign=b7f7bf44333beeae69d9356b2a96b283-1679206326-931i92i622i931
 HustlerHD,http://50.7.120.164:8081/hustlerhd/index.m3u8?wmsAuthSign=9d296c0cf989bd41a5a77f0a3a4f6382-1679205993-931i92i622i931
 KINOXXX,http://50.7.120.164:8081/kinoxxx/index.m3u8?wmsAuthSign=ed5d318e5fcedbcfc6c6db3127bc588c-1679132620-931i92i622i931
