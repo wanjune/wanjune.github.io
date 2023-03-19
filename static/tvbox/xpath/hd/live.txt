@@ -98,7 +98,7 @@ Young,http://live.mycamtv.com/young.m3u8
 Adultos,#genre#
 BalkanErotic,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35344
 Barely,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35345
-BrazzersEurope,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
+BrazzersTV Europe,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
 CentoXCento,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35347
 SEX-TREME,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35349
 SEXY-HOT,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35350
@@ -157,10 +157,10 @@ BlondeAdultTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6179/index.m3u8
 BlowjobRedTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6180/index.m3u8
 BlueHustler,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/1064/index.m3u8
 BlueHustler,http://193.33.240.8:80/hustler_hd/index.m3u8
-BrazzerseXXtra,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6181/index.m3u8
-BrazzersHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6182/index.m3u8
-BRAZZERS,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12113/index.m3u8
-BrazzersEurope,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
+BrazzersTV eXXtra,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6181/index.m3u8
+BrazzersTV HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6182/index.m3u8
+BrazzersTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/12113/index.m3u8
+BrazzersTV Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
 BrunetteAdultTV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6183/index.m3u8
 Candy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/923/index.m3u8
 CentoXCento,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6184/index.m3u8
@@ -399,8 +399,11 @@ RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 BabesTV,http://50.7.120.164:8081/babes/index.m3u8?wmsAuthSign=bed0a1c63521ea6d05b104bb04b65f1c-1679208538-931i92i622i931
 BarelyLegalTV,http://50.7.120.164:8081/bar_legal/index.m3u8?wmsAuthSign=8d5a383788070fcb8f8511d34018f1af-1679208172-931i92i622i931
 BlueHustler,http://50.7.120.164:8081/bluehustler/index.m3u8?wmsAuthSign=9e92de9158899a37e438a29120fe6660-1679208627-931i92i622i931
-BrazzersEurope,http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=583051efa65fe05df0dbc5c743d55241-1679131134-931i92i622i931
+Brazzers,http://50.7.120.164:8081/brazzers/index.m3u8?wmsAuthSign=9bfbf40c890c219f7a4f526aeed6e5e6-1679214330-931i92i622i931
+BrazzersTV Europe,http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=b88d438988f0e52b57848b9f8c82f201-1679213935-931i92i622i931
+CentoXCento,http://50.7.120.164:8081/centoxcento/index.m3u8?wmsAuthSign=50ba5df86b180d65069e5eff895fcaa0-1679214791-931i92i622i931
 DorcelTV,http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=5f6c016c114af73620542a7667700a36-1679206722-931i92i622i931
+DuskTV,http://50.7.120.164:8081/dusk/index.m3u8?wmsAuthSign=063cb65fd1cb435648b0b4def1ad0f21-1679214278-931i92i622i931
 EroxxxHD,http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=01722bbd54bc8709ac8cf6f9c9f9fd12-1679208375-931i92i622i931
 FapTV 2,http://50.7.120.164:8081/faptv2/index.m3u8?wmsAuthSign=2a233478b37e374500894791f2ee5204-1679206794-931i92i622i931
 FapTV 3,http://50.7.120.164:8081/faptv3/index.m3u8?wmsAuthSign=5b008a8f2de3b1750175ba4642ddeeb3-1679206844-931i92i622i931
@@ -409,12 +412,22 @@ FapTV Anal,http://50.7.120.164:8081/fap_an/index.m3u8?wmsAuthSign=b67a9bf898ebfb
 FapTV BBW,http://50.7.120.164:8081/fap_bbw/index.m3u8?wmsAuthSign=e019ac51eb3af0d739f689ac220a49b8-1679206479-931i92i622i931
 FapTV Compilation,http://50.7.120.164:8081/fap_compilation/index.m3u8?wmsAuthSign=cc712310afabef4f71c2575f814728a8-1679207185-931i92i622i931
 FapTV Parody,http://50.7.120.164:8081/fap_parody/index.m3u8?wmsAuthSign=a9ec6ba8a5d2f037ae1226b76fa18499-1679207031-931i92i622i931
+FapTV Teaching,http://50.7.120.164:8081/fap_teaching/index.m3u8?wmsAuthSign=9626ddec9fe310cc94e86adf23ceb3d6-1679213767-931i92i622i931
 FapTV Teens,http://50.7.120.164:8081/fap_teens/index.m3u8?wmsAuthSign=b7f7bf44333beeae69d9356b2a96b283-1679206326-931i92i622i931
 HustlerHD,http://50.7.120.164:8081/hustlerhd/index.m3u8?wmsAuthSign=9d296c0cf989bd41a5a77f0a3a4f6382-1679205993-931i92i622i931
 KINOXXX,http://50.7.120.164:8081/kinoxxx/index.m3u8?wmsAuthSign=ed5d318e5fcedbcfc6c6db3127bc588c-1679132620-931i92i622i931
-O-la-la,http://50.7.120.164:8081/olala/index.m3u8?wmsAuthSign=18ebfab8ab062f9218d6ed95a0382870-1679132779-931i92i622i931
+O-la-la,http://50.7.120.164:8081/olala/index.m3u8?wmsAuthSign=ae4b795b2cb879a96533349fd1502a3e-1679214402-931i92i622i931
+PenthouseGOLD,http://50.7.120.164:8081/pent_gol/index.m3u8?wmsAuthSign=2bb6f0ffe4c9be6d47bce8376c245bfc-1679215192-931i92i622i931
+PenthouseHD1,http://50.7.120.164:8081/penthouse1/index.m3u8?wmsAuthSign=3d3058309d7210c4d304bfe60013c5e4-1679215010-931i92i622i931
+PenthouseRealityTV,http://50.7.120.164:8081/penthouse2/index.m3u8?wmsAuthSign=05f21a375b264a578a8dfedb2db4c444-1679215281-931i92i622i931
+PinkOTV,http://50.7.120.164:8081/pink/index.m3u8?wmsAuthSign=8674510242af848711f3cb300e8df141-1679215604-931i92i622i931
 PlayboyTV,http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=d1516e299adc6103db6428aecdf5a1cb-1679205775-931i92i622i931
 PrivateHD,http://50.7.120.164:8081/private_hd/index.m3u8?wmsAuthSign=cd7446f2969eb1e3dd102d0aa44b29f0-1679207267-931i92i622i931
-RedlightHD,http://50.7.120.164:8081/redlight/index.m3u8?wmsAuthSign=95e32fe423e1112ac0c60b2345caf116-1679132943-931i92i622i931
+RedlightHD,http://50.7.120.164:8081/redlight/index.m3u8?wmsAuthSign=e83ae205a780399a7f619b944832fe74-1679213666-931i92i622i931
+SCT,http://50.7.120.164:8081/sct/index.m3u8?wmsAuthSign=7e1cd857c53999df13b320cd40ba8568-1679214171-931i92i622i931
+SuperOneHD,http://50.7.120.164:8081/super_one/index.m3u8?wmsAuthSign=58c106dc1d6d377d259066c769cf8b67-1679214091-931i92i622i931
+VENUS,http://50.7.120.164:8081/venus/index.m3u8?wmsAuthSign=07be971a73e1b4d1b5f355787611aea2-1679213864-931i92i622i931
 VividRedHD,http://50.7.120.164:8081/vivid_red/index.m3u8?wmsAuthSign=c5dd3abc8fe298f08046896e62b25b82-1679208247-931i92i622i931
 ОХ-АХ HD,http://50.7.120.164:8081/ox_ax_hd/index.m3u8?wmsAuthSign=8d5de7287cdd6613395811b043d13cde-1679207983-931i92i622i931
+Шалун ТВ,http://50.7.120.164:8081/shalun/index.m3u8?wmsAuthSign=588afe419d12da7dee2d1e1c2f0de4cc-1679214891-931i92i622i931
+EroxxxHD,http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=18fa0f2e7cfe93d1decb26617d888708-1679215744-931i92i622i931
