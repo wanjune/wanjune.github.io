@@ -1,12 +1,18 @@
+ススメ,#genre#
+# 官方源
+rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
+rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+
 Miami TV,#genre#
-アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
-アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-アメリカ,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
-ラティーノ,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-ラティーノ,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
-メキシコ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-メキシコ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+# 官方源 https://miamitvhd.com/
+USA,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+USA,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
+USA,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+USA,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
+Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
@@ -15,14 +21,15 @@ JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlis
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/chunklist.m3u8
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB/playlist.m3u8
 JennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB/chunklist.m3u8
-サンビーチ,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/playlist.m3u8
-サンビーチ,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/chunklist.m3u8
-ブログ,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/playlist.m3u8
-ブログ,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/chunklist.m3u8
-キッチン,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/playlist.m3u8
-キッチン,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/chunklist.m3u8
+SunBeach,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/playlist.m3u8
+SunBeach,https://59ec5453559f0.streamlock.net/Sunbeachtv/smil:WEB/chunklist.m3u8
+Blog,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/playlist.m3u8
+Blog,https://59ec5453559f0.streamlock.net/blogtv/blogtv140/chunklist.m3u8
+Kitchen,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/playlist.m3u8
+Kitchen,https://59ec5453559f0.streamlock.net/Nakedkitchen/nakedkitchen140/chunklist.m3u8
 
 AdultIPTV,#genre#
+# 官方源
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Anal,http://live.redtraffic.net/anal.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
@@ -75,6 +82,7 @@ Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.net/threesome.m3u8
 
 MyCamTV,#genre#
+# 官方源
 Anal,http://live.mycamtv.com/anal.m3u8
 Arab,http://live.mycamtv.com/arab.m3u8
 Asian,http://live.mycamtv.com/asian.m3u8
@@ -96,6 +104,7 @@ White,http://live.mycamtv.com/white.m3u8
 Young,http://live.mycamtv.com/young.m3u8
 
 Adultos,#genre#
+# 其他源
 BalkanErotic,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35344
 Barely,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35345
 BrazzersTV Europe,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
@@ -126,10 +135,6 @@ Private14,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35379
 
 その他,#genre#
 # 官方源
-RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
-RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-VISIT-X TV,https://stream.visit-x.tv/vxtv/live/chunklist.m3u8
-VISIT-X TV,https://stream.visit-x.tv/vxtv/live/playlsit.m3u8
 # 其他源
 PLAYBOY,http://axr.life:80/096154/686531/466402
 SEXY HOT,http://axr.life:80/096154/686531/923098
