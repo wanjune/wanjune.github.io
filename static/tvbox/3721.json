@@ -3,7 +3,7 @@
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
-    {"key":"tv_playlist","name":"💻ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/tv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/tv.png"},
+    {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/tv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/tv.png"},
     {"key":"csp_xpath_bzhanys","name":"B站[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/bzhanys.json"},
     {"key":"csp_xpath_f7hkj","name":"F7剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/f7hkj.json"},
     {"key":"csp_xpath_vtu","name":"7年[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/vtu.json"},
