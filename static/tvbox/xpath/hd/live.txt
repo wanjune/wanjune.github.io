@@ -1,8 +1,3 @@
-ススメ,#genre#
-# 官方源
-rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
-rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-
 Miami TV,#genre#
 # 官方源 https://miamitvhd.com/
 USA,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
@@ -135,6 +130,9 @@ Private14,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35379
 
 その他,#genre#
 # 官方源
+美国中文,https://cdnts.sinovision.net/livestream.m3u8
+rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
+rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 # 其他源
 PLAYBOY,http://axr.life:80/096154/686531/466402
 SEXY HOT,http://axr.life:80/096154/686531/923098

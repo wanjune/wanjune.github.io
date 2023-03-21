@@ -1,3 +1,6 @@
+# https://telegram-feiyangdigital.v1.mk/
+# 
+
 無修,#genre#
 Carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 Carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
@@ -67,8 +70,6 @@ HEYZO-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
 1PONDO-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
 新作,#genre#
-玩偶姐姐 情侣游戏-零,https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
-玩偶姐姐 情侣游戏-壹,https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
 MLT-002连续被上的OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8
 MSD-001乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8
 MSD-002维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8
@@ -163,17 +164,6 @@ F02,https://v4.cvhlscdn.com/20210619/gROU3PQk/hls/index.m3u8
 F03,https://v4.cvhlscdn.com/20210630/Oz8n61wQ/hls/index.m3u8
 F04,https://v4.cvhlscdn.com/20210730/q7cBYR0E/hls/index.m3u8
 F05,https://v4.cvhlscdn.com/20211010/2HnK3OvD/hls/index.m3u8
-彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
-彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
-LOOK TV,mitv://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
-惊艳成人电影台,mitv://generationnexxxt.com:19806/ca147220763d40dd8cb24116cc3fcb7e
-松视1台,mitv://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
-松视2台,mitv://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
-松视3台,mitv://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
-JStar极限台,mitv://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
-HAPPY,mitv://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
-香蕉台,mitv://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
 JapanHDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 FakeTaxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
@@ -183,3 +173,13 @@ FakeTaxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 棒球队和教练,https://0yefiks35y.motorjn.com/20230119/VHcp5YQH/index.m3u8
 盲盒,https://0yefiks35y.motorjn.com/20230121/BWNNzdFE/index.m3u8
 女领导好色,https://0yefiks35y.motorjn.com/20230116/cptFN2Nl/index.m3u8
+
+玩偶姐姐,#genre#
+情侣游戏-零,https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
+情侣游戏-壹,https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
+# https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh -> https://erqisq.adslkojc.com/zh
+一日女友的漂亮姐姐 上,https://erqisq.adslkojc.com/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8
+一日女友的漂亮姐姐 中,https://erqisq.adslkojc.com/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8
+一日女友的漂亮姐姐 下 ,https://erqisq.adslkojc.com/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8
+一日女友的漂亮姐姐 番外1,https://erqisq.adslkojc.com/zh/cj/ku/jy/a5/0aaa29e835d944988662c8ca32374134.m3u8
+一日女友的漂亮姐姐 番外2,https://erqisq.adslkojc.com/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8
