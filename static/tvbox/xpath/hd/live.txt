@@ -8,8 +8,8 @@ Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
-Jenny2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-Jenny2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist.m3u8
+Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist.m3u8
 JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
@@ -77,6 +77,8 @@ Teen,http://cdn.adultiptv.net/teen.m3u8
 Teen,http://live.redtraffic.net/teen.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.net/threesome.m3u8
+Woman,http://cdn.adultiptv.net/woman.m3u8
+Woman,http://live.redtraffic.net/woman.m3u8
 
 MyCamTV,#genre#
 # 官方源
