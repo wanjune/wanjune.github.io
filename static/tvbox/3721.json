@@ -1,5 +1,5 @@
 {
-  "spider":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/230320.dylib;md5;6C22C52D5A00AA832BB95EFBF8490298",
+  "spider":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/230322.dylib;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_AList","name":"🅰网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/alist.json"},
