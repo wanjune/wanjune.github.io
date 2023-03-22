@@ -1,4 +1,5 @@
 # https://telegram-feiyangdigital.v1.mk/
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
 無修,#genre#
 Carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
