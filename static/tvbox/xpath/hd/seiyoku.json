@@ -34,7 +34,7 @@
   "dtYear": "",
   "dtYearR": "",
   "dtDesc": "",
-  "dtDescR": "",
+  "dtDescR": "//h1[contains(@class,'tx-c2')]/text()",
   "dtFromNode": "//div[@class='video-tips']/script[contains(text(),'link')]",
   "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[@class='video-tips']/script[contains(text(),'link')]) + 1)",
   "dtFromNameR": "(\\S+).0",
@@ -77,7 +77,7 @@
         {"n":"\u4e13\u9898","v":"26"},
         {"n":"\u989c\u5c04","v":"15"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"人气","v":"hits"},{"n":"时间","v":"time"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "2":[
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"2"},
@@ -90,7 +90,7 @@
         {"n":"\u5236\u670d","v":"50"},
         {"n":"\u4e1d\u817f","v":"56"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"人气","v":"hits"},{"n":"时间","v":"time"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "5":[
       {"key":"cateId","name":"分类","value":[{"n":"全部","v":"5"},
@@ -106,7 +106,7 @@
         {"n":"\u7537\u540c","v":"32"},
         {"n":"\u5973\u540c","v":"33"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"人气","v":"hits"},{"n":"时间","v":"time"},{"n":"评分","v":"score"}]}
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ]
   }
 }
