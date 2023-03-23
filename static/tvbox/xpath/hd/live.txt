@@ -111,5 +111,3 @@ rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 PLAYBOY,http://axr.life:80/096154/686531/466402
 SEXY HOT,http://axr.life:80/096154/686531/923098
 SEXY HOT,http://axr.life:80/096154/686531/466382
-Visit X TV,https://stream.visit-x.tv/vxtv/live/chunklist.m3u8
-Visit X TV,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
