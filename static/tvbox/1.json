@@ -82,8 +82,7 @@
     {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="},
-    {"name":"稀饭","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-    {"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+    {"name":"稀饭","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
