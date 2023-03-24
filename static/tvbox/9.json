@@ -69,20 +69,20 @@
   ],
   "parses":[
     {"name":"聚合","type":3,"url":"Web"}, 
-    // {"name":"API聚合","type":3,"url":"Demo"},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"九牛","type":0,"url":"https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"布蕾","type":0,"url":"https://bf.bulei.cc/player/?url="},
     {"name":"瞄影","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-    {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+    // {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="}
     // ,
     // {"name":"返利","type":0,"url":"http://91fanli.top/m3u8/?url="},
     // {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
     // {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     // {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="}
+        // {"name":"API聚合","type":3,"url":"Demo"},
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
