@@ -45,7 +45,7 @@
   "dtFromNode": "//ul[@id='detail-tab']/li/a",
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[contains(@class,'detail-play-list')]",
-  "dtUrlSubNode": "/div/a",
+  "dtUrlSubNode": "/li/a",
   "dtUrlId": "/@href",
   "dtUrlIdR": "/smplay/(\\S+).html",
   "dtUrlName": "/text()",
