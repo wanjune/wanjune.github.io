@@ -31,6 +31,7 @@
     {"key":"csp_xpath_voflix","name":"VOFLIX[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/voflix.json"},
     {"key":"csp_xpath_xfeiji","name":"小小[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
     {"key":"csp_xpath_nailuo","name":"奈落[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/nailuo.json"},
+    {"key":"csp_xpath_zxzj","name":"在线之家[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zxzj.json"},
     {"key":"csp_YQKAPP","name":"一起看[SP]","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/ts.dylib;md5;CE1F5C25EDFD364ED1312933F61A70F4"},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_Lgyy","name":"蓝光[SP]","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.lgyy.vip"},
