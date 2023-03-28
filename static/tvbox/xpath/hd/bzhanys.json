@@ -53,7 +53,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://bzhanys.com/index.php/vod/play/id/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
-  "searchUrl": "https://bzhanys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+  "searchUrl": "https://bzhanys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

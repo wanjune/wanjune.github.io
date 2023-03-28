@@ -54,7 +54,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.007ts.me/play/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.007ts.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+  "searchUrl": "https://www.007ts.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=15",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

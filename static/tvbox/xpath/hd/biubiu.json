@@ -41,7 +41,7 @@
   "dtUrlName": "/text()",
   "playUrl": "https://www.biubiut1g.top/index.php/vod/play/id/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
-  "searchUrl": "https://www.biubiut1g.top/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+  "searchUrl": "https://www.biubiut1g.top/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

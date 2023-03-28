@@ -57,7 +57,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://youji.yetuav.xyz/index.php/vod/play/id/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-  "searchUrl": "https://youji.yetuav.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+  "searchUrl": "https://youji.yetuav.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",

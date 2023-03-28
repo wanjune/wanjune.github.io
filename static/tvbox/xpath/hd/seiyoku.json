@@ -46,7 +46,7 @@
   "dtUrlNameR": " (\\S+)er_",
   "playUrl": "https://www.singyulh.cc/index.php/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 11; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-  "searchUrl": "https://www.singyulh.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+  "searchUrl": "https://www.singyulh.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
