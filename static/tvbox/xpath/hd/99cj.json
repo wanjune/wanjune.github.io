@@ -1,0 +1,110 @@
+{
+  "author": "wanjune",
+  "desc": "https://99chiji.com https://99chiji0.com-https://99chiji9.com",
+  "ua": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "homeUrl": "https://hy1wht.99poiuytrewq.com/index.php/map/index.html",
+  "dcVipFlag": "false",
+  "pCfgJs": "https://hy1wht.99poiuytrewq.com/static/js/playerconfig.js",
+  "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateManual": {"\u514d\u8d39":"42","\u9ebb\u8c46":"1","\u65e5\u672c":"25","\u6b27\u7f8e":"26","\u51cc\u8fb1":"35","\u52a8\u6f2b":"27"},
+  "homeVodNode": "//ul[@class='hl-rank-list clearfix']/li[contains(@class,'hl-list-item')][position()<25]/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "homeVodImg": "//i[contains(@class,'hl-item-thumb')]/@data-original",
+  "homeVodMark": "//span[contains(@class,'hl-text-subs')]/text()",
+  "homeVodMarkR": "/(.*)",
+  "cateUrl": "https://hy1wht.99poiuytrewq.com/index.php/vod/show{by}/id/{cateId}/page/{catePg}{year}.html",
+  "cateVodNode": "//ul[@class='hl-vod-list clearfix']/li[contains(@class,'hl-list-item')]/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodMark": "/div[contains(@class,'hl-pic-text')]/span/text()",
+  "cateVodMarkR": "",
+  "dtUrl": "https://hy1wht.99poiuytrewq.com/index.php/vod/detail/id/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//h2[contains(@class,'hl-dc-title')]/text()",
+  "dtImg": "//div[@class='hl-dc-pic']/span[contains(@class,'hl-item-thumb')]/@data-original",
+  "dtCate": "//li[contains(./em/text(),'类型')]/allText()",
+  "dtCateR": "类型：(.*)",
+  "dtYear": "//li[contains(./em/text(),'年份')]/allText()",
+  "dtYearR": "年份：(.*)",
+  "dtArea": "//li[contains(./em/text(),'地区')]/allText()",
+  "dtAreaR": "地区：(.*)",
+  "dtActor": "//li[contains(./em/text(),'主演')]/allText()",
+  "dtActorR": "主演：(.*)",
+  "dtDirector": "//li[contains(./em/text(),'导演')]/allText()",
+  "dtDirectorR": "导演：(.*)",
+  "dtDesc": "//li[contains(./em/text(),'简介')]/allText()",
+  "dtDescR": "简介：(.*)",
+  "dtFromNode": "//div[contains(@class,'hl-plays-from')]/a",
+  "dtFromName": "/allText()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//ul[contains(@class,'hl-plays-list')]",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
+  "dtUrlName": "/text()",
+  "playUrl": "https://hy1wht.99poiuytrewq.com/index.php/vod/play/id/{playUrl}.html",
+  "playUa": "Mozilla/5.0 (Linux; Android 11; SM-G715FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36",
+  "searchUrl": "https://hy1wht.99poiuytrewq.com/index.php/vod/search.html?wd={wd}&submit=",
+  "scVodNode": "//div[@class='hl-item-div']/div[@class='hl-item-pic']/a",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
+  "scVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "scVodImg": "/@data-original",
+  "scVodMark": "/div[contains(@class,'hl-pic-text')]/span/text()",
+  "filter": {
+    "1":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ],
+    "25":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ],
+    "26":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ],
+    "27":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ],
+    "35":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ],
+    "42":[
+      {"key":"year","name":"年份","value": [{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},
+        {"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},
+        {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
+        {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
+      ]},
+      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+    ]
+  }
+}
