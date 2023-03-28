@@ -15,6 +15,7 @@
     {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/tv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/tv.png"},
     {"key":"csp_xpath_jd","name":"精東[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/jd.json"},
     {"key":"csp_xpath_91md","name":"麻荳[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/91md.json"},
+    {"key":"csp_xpath_yetu","name":"野兎[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yetu.json"},
     {"key":"csp_xpath_yp","name":"ポルノ[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
     {"key":"csp_xpath_biubiu","name":"ビュー[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/biubiu.json"},
     {"key":"csp_xpath_xx8888","name":"バナナ1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/xx8888.json"},
