@@ -27,7 +27,7 @@
   "dtUrl": "https://seajav.com/video/{vid}-1-1.html",
   "dtNode": "//body",
   "dtName": "//h1[contains(@class,'text-base')]/text()",
-  "dtImg": "//h1[contains(@class,'text-base')]/img/@src",
+  "dtImg": "//h1[contains(@class,'text-base')]/@src",
   "dtImgR": "",
   "dtCate": "//div[contains(./span/text(),'类型')]/allText()",
   "dtCateR": "类型:(.*)",
