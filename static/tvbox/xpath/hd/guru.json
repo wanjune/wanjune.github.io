@@ -31,7 +31,7 @@
   "dtImgR": "",
   "dtCate": "//div[contains(./span/text(),'类型')]/a/text()",
   "dtCateR": "",
-  "dtYear": "//div[contains(./span/text(),'发行日期')]/span[2]/text()",
+  "dtYear": "//span[contains(text(),'发行日期')]/following-sibling::span[1]/text()",
   "dtYearR": "",
   "dtDesc": "//h1[contains(@class,'text-base')]/text()",
   "dtDescR": "",
