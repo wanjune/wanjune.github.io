@@ -1,7 +1,7 @@
 {
   "作者": "wanjune",
   "desc": "https://www.jubaibaia.com/",
-  "主页url": "https://m.jubaibaia.com/",
+  "主页url": "https://www.jubaibaib.com/",
   "免嗅": "1",
   "导演": "导演：&&</p",
   "主演": "主演：&&</p",
@@ -18,9 +18,9 @@
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
-  "搜索链接前缀": "https://m.jubaibaia.com",
+  "搜索链接前缀": "https://www.jubaibaib.com",
   "分类": "动漫$dongman#综艺$zongyi#剧集$lianxuju#+国产$guochanju#+日韩$rihanju#+欧美$oumeiju#电影$dianying",
-  "分类url": "https://m.jubaibaia.com/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类url": "https://www.jubaibaib.com/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
   "筛选": {
     "dianying":[
       {"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianying"},
