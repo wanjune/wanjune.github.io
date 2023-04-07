@@ -38,7 +38,7 @@
   "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//div[@id='player']",
   "dtUrlSubNode": "/script[contains(text(),'link')]",
-  "dtUrlId": "translate(string(text()),'\\','')",
+  "dtUrlId": "translate(string(/text()),'\\\\','')",
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": " (\\S+)er_",
