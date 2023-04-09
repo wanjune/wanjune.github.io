@@ -21,6 +21,8 @@
     {"key":"csp_xpath_kaola","name":"考拉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kaola.json"},
     {"key":"csp_xpath_5gkan","name":"策驰[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/5gkan.json"},
     {"key":"csp_xpath_52gen","name":"跟剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/52gen.json"},
+    {"key":"csp_xpath_kkkk","name":"核桃[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkkk.json"},
+    {"key":"csp_xpath_meiju","name":"美剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_app","name":"APP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/app.json"},
     {"key":"csp_xpath_bilitu","name":"哔哩兔[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bilitu.json"},
     {"key":"csp_xpath_pipiya","name":"皮皮鸭[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/pipiya.json"},
