@@ -43,7 +43,7 @@
   "dtDesc": "//span[@class='video-info-itemtitle' and contains(text(),'剧情')]/following-sibling::div[1]/span/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]",
-  "dtFromName": "concat(/span/text(),'＃',/small/text())",
+  "dtFromName": "concat(/span/text(),'♪',/small/text())",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='module-blocklist scroll-box scroll-box-y']",
   "dtUrlSubNode": "/div/a",
