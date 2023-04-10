@@ -23,6 +23,7 @@
     {"key":"csp_xpath_kkkk","name":"核桃[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkkk.json"},
     {"key":"csp_xpath_meiju","name":"美剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/meiju.json"},
     {"key":"csp_xpath_smdy","name":"神马[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/smdy.json"},
+    {"key":"csp_xpath_30dian","name":"创意[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/30dian.json"},
     {"key":"csp_xpath_vip","name":"VIP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/vip.json"},
     {"key":"csp_xpath_app","name":"APP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/app.json"},
     {"key":"csp_xpath_bilitu","name":"哔哩兔[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/bilitu.json"},
@@ -78,6 +79,7 @@
     {"name":"九牛","type":0,"url":"https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"瞄影","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+    {"name":"顾凌","type":0,"url":"https://bf.xxmlb.com/ikuik/?url="},
     {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="}
   ],
