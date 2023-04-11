@@ -17,7 +17,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://hz8868.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  "cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
+  "cateVodNode": "//div[@class='myui-panel_bd']/ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/display/(\\w+).html",
