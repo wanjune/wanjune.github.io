@@ -111,3 +111,9 @@ rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 PLAYBOY,http://axr.life:80/096154/686531/466402
 SEXY HOT,http://axr.life:80/096154/686531/923098
 SEXY HOT,http://axr.life:80/096154/686531/466382
+DorcelTV,http://de1cdn.plusx.tv:8880/359/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PenthouseTV,http://de1cdn.plusx.tv:8880/353/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PenthouseRealityTV,http://de1cdn.plusx.tv:8880/352/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PrivetpTV,http://de1cdn.plusx.tv:8880/356/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+RedlightHD,http://de1cdn.plusx.tv:8880/358/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+VividTV,http://de1cdn.plusx.tv:8880/354/mono.m3u8?token=b457d9d9a2dd39e2fa3333
