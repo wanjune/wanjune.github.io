@@ -56,7 +56,7 @@
   "playUrl": "https://hz8868.com/play/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://hz8868.com/vodsearch/-------------.html?wd={wd}&submit=",
-  "scVodNode": "//ul[contains(@class,'myui-vodlist__media')]/li[not(contains(./div[@class='detail']/p[3]/text(),'伦理'))]/div[@class='thumb']/a",
+  "scVodNode": "//ul[@id='searchList' and contains(@class,'myui-vodlist__media')]/li[not(contains(./div[@class='detail']/p[3]/text(),'伦理'))]/div[@class='thumb']/a",
   "scVodName": "/@title",
   "scVodId": "/@href",
   "scVodIdR": "/display/(\\w+).html",
