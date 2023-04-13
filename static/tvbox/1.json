@@ -1,14 +1,15 @@
 {
-  "spider":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/230407.dylib;md5;7373CFDE72043479157CAD08FA726B34",
+  "spider":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/230412.dylib;md5;613066B0150C902B3D51BDE7A433BE83",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_SP360","name":"360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"https://ghproxy.com/https://github.com/wanjune/wanjune.github.io/raw/main/static/tvbox/jar/ts.dylib;md5;CE1F5C25EDFD364ED1312933F61A70F4"},
+    {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
-    {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
+    {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
     {"key":"csp_xpath_coke","name":"可乐[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/coke.json"},
     {"key":"csp_xpath_libvio","name":"影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"csp_xpath_hdmoli","name":"HDmoli[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hdmoli.json"},
@@ -56,6 +57,7 @@
     {"key":"csp_UpYun","name":"🍭UP云[SP]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
     {"key":"csp_Zhaozy","name":"🍭找资源[SP]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt$$$yingshi$$$abcd1234"}
   ],
+  "m3u8ads":[{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],"rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
