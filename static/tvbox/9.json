@@ -51,6 +51,8 @@
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"},
+    {"key":"csp_WoGG","name":"🍭刚刚[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://wanjune.github.io/static/tvbox/jwt.txt"},
+    {"key":"csp_FanYY","name":"🍭剥饭[SP]","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://wanjune.github.io/static/tvbox/jwt.txt"},
     {"key":"csp_Paper","name":"🍭纸条[SP]","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
     {"key":"csp_PanSou","name":"🍭盘搜[SP]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
     {"key":"csp_YiSo","name":"🍭易搜[SP]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/jwt.txt"},
