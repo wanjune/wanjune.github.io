@@ -8,7 +8,7 @@
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"动漫":"25","电影":"20","国产剧":"26","日韩剧":"28","欧美剧":"21","泰剧":"24","其他剧":"27"},
+  "cateManual": {"动漫":"25","电影":"20","国产剧":"26","日韩剧":"22","欧美剧":"21","泰剧":"24","其他剧":"27"},
   "homeVodNode": "//div[contains(@class,'public-list-box')][position()<25]/div[contains(@class,'public-list-div')]/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
@@ -266,7 +266,7 @@
       ]},
       {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
-    "28": [
+    "22": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
         {"n":"古装","v":"/class/古装"},
         {"n":"战争","v":"/class/战争"},
