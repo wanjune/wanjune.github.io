@@ -37,7 +37,6 @@
     {"key":"insui","name":"インスイ","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u4e2d\u6587\u5077\u62cd","\u4e2d\u6587\u65e0\u7801","\u4e2d\u6587\u51fa\u8f68","\u4e2d\u6587\u4eba\u59bb","\u4e2d\u6587\u5f3a\u5978","\u4e2d\u6587\u4e71\u4f26","\u4e2d\u6587\u7fa4\u4ea4","\u4e2d\u6587\u5236\u670d","\u6b27\u7f8e\u89c6\u9891"]},
     {"key":"free","name":"白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["\u56fd\u4ea7\u60c5\u8272","\u4e3b\u64ad\u81ea\u62cd","\u6b27\u7f8e\u89c6\u9891","\u7cbe\u54c1\u63a8\u8350","\u4eba\u59bb\u5077\u62cd","\u5f3a\u5978\u4e71\u4f26","\u4e9a\u6d32\u65e0\u7801","\u4e2d\u6587\u5b57\u5e55","\u5236\u670d\u5e08\u751f","\u53e3\u4ea4\u6f6e\u5439","\u81ea\u6170\u7fa4\u4ea4","\u53e6\u7c7b\u53d8\u6001","\u4eba\u4e0e\u52a8\u7269"]}
   ],
-  "m3u8ads":[{"name":"过","hosts":["https://vip.ffzy","https://vip.lz","https://hd.lz"],"rules":[{"regexp":"ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY","replace":"ts"}]}],
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
@@ -51,8 +50,8 @@
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
   ],
   "parses":[
-    {"name":"聚合","type":3,"url":"Demo"},
     {"name":"Web","type":3,"url":"Web"},
+    {"name":"聚合","type":3,"url":"Demo"},
     {"name":"肥猫","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
