@@ -9,7 +9,6 @@ var rule = {
   quickSearch:1,
   filterable:1,
   headers:{'User-Agent':'PC_UA'},
-  // class_parse:'.first .channel;a&&Text;a&&href;.*/(.*?)/',
   class_name:'小说&情感&悬疑&人文&历史&国学&儿童&英语&小语种',
   class_url:'7&20&14&17&16&18&11&29&30',
   play_parse:true,
