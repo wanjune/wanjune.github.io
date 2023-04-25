@@ -1,6 +1,6 @@
 var rule = {
   title: '蜻蜓FM',
-  host: 'http://www.qingting.fm',
+  host: 'https://www.qingting.fm',
   url: '/radiopage/fyclass/fypage',
   searchUrl: '',
   searchable: 0,
