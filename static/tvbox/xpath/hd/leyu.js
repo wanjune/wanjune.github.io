@@ -17,7 +17,7 @@ var rule = {
   searchable:2,
   quickSearch:1,
   headers:{'User-Agent':'MOBILE_UA'},
-  class_name:'电影&剧集&综艺&动漫&纪录&R级',
+  class_name:'电影&剧集&综艺&动漫&纪录&直播&R级',
   class_url:'1&2&3&4&5&6&9',
   play_parse:true,
   limit:20,
