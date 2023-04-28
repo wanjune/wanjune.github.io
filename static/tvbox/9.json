@@ -11,7 +11,6 @@
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
     {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
-    {"key":"WebDAV","name":"网络存储","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"},
     {"key":"csp_xpath_coke","name":"可乐[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/coke.json"},
     {"key":"csp_xpath_libvio","name":"影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"drpy_69mj","name":"美剧[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/69mj.js"},
