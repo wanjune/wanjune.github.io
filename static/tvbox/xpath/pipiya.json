@@ -16,7 +16,7 @@
   "homeVodImg": "/div[contains(@class,'gen-movie-img')]/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "/span[contains(@class,'public-list-prb')]/text()",
-  "cateUrl": "https://www.pipiya.cc/vodtype/{cateId}{by}{class}/page/{catePg}{year}.html",
+  "cateUrl": "https://www.pipiya.cc/vodshow/{cateId}{by}{class}/page/{catePg}{year}.html",
   "cateVodNode": "//div[contains(@class,'public-list-box')]/div[contains(@class,'public-list-div')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",

@@ -1,10 +1,11 @@
 var rule = {
   title:'TV云播',
   host:'http://www.tvyb03.com',
+  homeUrl:'/',
   url:'vod/show/id/fyfilter.html',
   filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.letter}}/page/fypage{{fl.year}}',
   class_name:' 动漫&综艺&剧集&+国产&+日韩&欧美&电影',
-  class_url:'4&3&2&1&13&15&16',
+  class_url:'4&3&2&13&15&16&1',
   filter:{
     "1":[
       {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},
