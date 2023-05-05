@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230504.dylib;md5;BACE77C91270566CA6A959B935EFBD0D",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230505.dylib;md5;528559DC26FC8138875E8BF32F670CAC",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
