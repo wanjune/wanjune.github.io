@@ -105,8 +105,9 @@ Young,http://live.mycamtv.com/young.m3u8
 その他,#genre#
 # 官方源
 美国中文,https://cdnts.sinovision.net/livestream.m3u8
-rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
-rougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
+RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 # 其他源
 PLAYBOY,http://axr.life:80/096154/686531/466402
 SEXY HOT,http://axr.life:80/096154/686531/923098
