@@ -108,3 +108,4 @@ Young,http://live.mycamtv.com/young.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+XXX Cartoon,http://144.76.58.245:2307/cartoon/index.m3u8
