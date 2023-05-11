@@ -3,7 +3,6 @@
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
-    // {"key":"csp_SP360","name":"360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_SP360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
     {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
     {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"http://kan.bulei.cc/$$auto$$sdlw1111$$qqaa1122"},
@@ -70,8 +69,6 @@
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
-    {"name":"肥猫","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},
     {"name":"西路","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
     {"name":"爱酷","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
