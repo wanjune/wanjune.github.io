@@ -52,10 +52,6 @@
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
     {"key":"drpy_qingting","name":"🎧蜻蜓FM[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/js/qingting.js"},
-    {"key":"csp_Paper","name":"纸条","type":"3","api":"csp_Paper","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
-    {"key":"csp_UpYun","name":"云搜","type":"3","api":"csp_UpYun","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
-    {"key":"csp_YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
-    {"key":"csp_PanSou","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"}
   ],
