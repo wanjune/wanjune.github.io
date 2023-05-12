@@ -1,7 +1,7 @@
 var rule = {
   title:'爱奇艺',
   host:'https://www.iqiyi.com',
-  homeUrl:'/',
+  homeUrl:'',
   detailUrl:'https://pcw-api.iqiyi.com/video/video/videoinfowithuser/fyid?agent_type=1&authcookie=&subkey=fyid&subscribe=1',
   searchUrl:'https://search.video.iqiyi.com/o?if=html5&key=**&pageNum=fypage&pos=1&pageSize=24&site=iqiyi',
   searchable:2,
