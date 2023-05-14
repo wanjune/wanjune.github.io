@@ -1,29 +1,19 @@
-{
-  "作者": "wanjune",
-  "站名": "双十电影",
-  "desc": "https://www.fabu1010.com",
-  "主页url": "https://www.1010dy.fun/",
-  "分类": "综艺&动漫&剧集&电影",
-  "分类值": "4&3&2&1",
-  "分类url": "https://www.1010dy.fun/show/{cateId}{area}{by}{class}{year}/page/{catePg}",
-  "副标题": "text-right\">&&</span>",
-  "搜索模式": "1",
-  "搜索url": "/search/page/{pg}/wd/{wd}/",
-  "搜索数组": "<div class=\"thumb\">&&</a>",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索标题": "title=\"&&\"",
-  "搜索链接": "href=\"&&\"",
-  "搜索副标题": "text-right\">&&</span>",
-  "影片年代": "年份：&&</p>",
-  "影片地区": "地区：&&<span",
-  "影片类型": "类型：&&<span",
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&</p>",
-  "简介": "<p class=\"col-pd\">&&</span>",
-  "线路数组": "<span class=\"more&&</div>",
-  "线路标题": "class=\"title\">&&</h3>",
-  "播放数组": "<ul class=\"stui-content&&</ul>",
-  "筛选": {
+muban.首图2.推荐 = 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href'; 
+muban.首图2.二级.content = '.stui-pannel_bd p:eq(0)&&Text';
+muban.首图2.二级.desc = ';;.stui-content__detail p:eq(0)&&Text;.stui-content__detail p:eq(1)&&Text;.stui-content__detail p:eq(2)&&Text'
+muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line.active.clearfix h3';
+var rule = {
+  title:'双十电影',
+  desc:'https://www.fabu1010.com',
+  模板:'首图2',
+  host:'https://www.1010dy3.com',
+  url:'/show/fyclassfyfilter/page/fypage/',
+  searchable:2,
+  quickSearch:1,
+  filterable:1,
+  multi:1,
+  filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.year}}',
+  filter:{
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
         {"n":"喜剧","v":"/class/喜剧"},
@@ -156,5 +146,10 @@
       ]},
       {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ]
-  }
+  },
+  searchUrl:'/search/page/fypage/wd/**/',
+  class_name:'动漫&综艺&剧集&电影',
+  class_url:'3&4&2&1',
+  tab_exclude:'为你|榜单',
+  搜索:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.text-muted:eq(-1)&&Text',
 }
