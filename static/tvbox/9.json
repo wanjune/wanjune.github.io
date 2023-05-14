@@ -4,13 +4,14 @@
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
+    {"key":"drpy_qq","name":"腾讯[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/qq.js"},
     {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"changeable":"0","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
     {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"http://kan.bulei.cc"},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
-    {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
+    {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
     {"key":"csp_xpath_coke","name":"可乐[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/coke.json"},
     {"key":"csp_xpath_libvio","name":"影库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/libvio.json"},
     {"key":"drpy_69mj","name":"美剧[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/69mj.js"},
@@ -51,7 +52,6 @@
     {"key":"csp_xbpq_1010","name":"🍀双十[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/1010.json"}, 
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
-    {"key":"drpy_qingting","name":"🎧蜻蜓FM[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/js/qingting.js"},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"}
   ],
