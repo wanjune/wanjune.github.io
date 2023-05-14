@@ -22,7 +22,6 @@
     {"key":"csp_xpath_banana1","name":"バナナ1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/banana1.json"},
     {"key":"csp_xpath_banana2","name":"バナナ2[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/banana2.json"},
     {"key":"csp_xpath_gaoav","name":"やる[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/gaoav.json"},
-    {"key":"csp_xpath_singyulh","name":"セイヨク[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/singyulh.json"},
     {"key":"csp_xpath_hsex","name":"コウショク[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/hsex.json"},
     {"key":"ddtv","name":"點點","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"apittzy","name":"探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},

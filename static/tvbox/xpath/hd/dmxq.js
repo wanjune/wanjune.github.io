@@ -20,6 +20,7 @@ var rule = {
   },
   class_name:'动漫&综艺&剧集&电影&\u4f26\u7406',
   class_url:'23&22&21&20&35',
+  class_parse:'',
   一级:'a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
   推荐:'.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
   searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
