@@ -1,10 +1,10 @@
-// 地址发布页 https://www.dmys.tv/
+// 地址发布页 https://www.dmys.tv/ https://dmdyy.cc/ https://www.dmxq.vip/
 muban.mxpro.二级.desc = '.module-info-item:(3)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
   title:'大米星球',
   模板:'mxpro',
-  host:'https://www.dmxq.fun',
+  host:'https://www.dmdy10.cc',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
   quickSearch:1,
