@@ -4,8 +4,8 @@ USA,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 USA,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist.m3u8
 USA,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 USA,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
-MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/miamitv1/chunklist.m3u8
-MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/miamitv1/playlist.m3u8
+USA,https://59ec5453559f0.streamlock.net/miamitv/miamitv1/chunklist.m3u8
+USA,https://59ec5453559f0.streamlock.net/miamitv/miamitv1/playlist.m3u8
 Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
