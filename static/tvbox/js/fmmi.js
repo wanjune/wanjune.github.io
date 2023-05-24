@@ -1,7 +1,7 @@
 var rule = {
   title:'广播迷',
   host:'http://www.guangbomi.com',
-  homeUrl:'/live/sh/',
+  homeUrl:'/tv/sh/',
   编码:'gbk',
   搜索编码:'gbk',
   url:'/fyfilter.html?page=fypage',
@@ -69,9 +69,9 @@ var rule = {
   limit:36,
   // 推荐:'.ax-split-3;ul&&.ax-grid-block;*;.radio-icon&&src;.radio-icon&&alt;*',
   // double:true,
-  推荐:'.ax-split-2&&li;.radio-title&&Text;;;a&&href',
+  推荐:'.ax-split-2&&li;.radio-title&&Text;.radio-icon&&src;;a&&href',
   double:false,
-  一级:'.ax-split-2&&li;.radio-title&&Text;;;a&&href',
+  一级:'.ax-split-2&&li;.radio-title&&Text;.radio-icon&&src;;a&&href',
   二级:{
     "title":"h1&&Text;.ax-breadcrumb:eq(1)&&Text",
     "img":"",
