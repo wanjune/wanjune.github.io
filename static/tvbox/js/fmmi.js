@@ -68,8 +68,9 @@ var rule = {
   lazy:'js:var purl=jsp.pdfh(request(input),".playcode&&iframe&&src");if(/tingtingfm/.test(purl)){purl="http://www.guangbomi.com"+purl};input= {jx:0,url:purl,parse:1,header:JSON.stringify({"referer":"http://www.guangbomi.com/"})}',
   limit:36,
   // 推荐:'.ax-split-3;ul&&.ax-grid-block;*;.radio-icon&&src;.radio-icon&&alt;*',
+  // double:true,
   推荐:'.ax-split-2&&li;.radio-title&&Text;;;a&&href',
-  double:true,
+  double:false,
   一级:'.ax-split-2&&li;.radio-title&&Text;;;a&&href',
   二级:{
     "title":"h1&&Text;.ax-breadcrumb:eq(1)&&Text",
