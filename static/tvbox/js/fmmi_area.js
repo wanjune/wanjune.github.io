@@ -4,7 +4,7 @@ var rule = {
   homeUrl:'/tv/sh/',
   编码:'gbk',
   搜索编码:'gbk',
-  url:'/fyfilter/fypage.html',
+  url:'/fyfilter/',
   filter_url:'{{fl.cateId}}',
   filter:{
     "live":[
