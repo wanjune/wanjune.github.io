@@ -7,7 +7,8 @@
     {"key":"drpy_qq","name":"腾讯[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/qq.js"},
     {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"changeable":"0","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://wanjune.github.io/static/tvbox/jar/ts.dylib;md5;14C78D28D57487100B1B93786DF78BC6"},
-    {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"http://dy.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+    {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"https://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+    {"key":"drpy_bulei","name":"布雷[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/bulei.js"},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
@@ -68,7 +69,11 @@
     {"host":"*","rule":["douyin.com/aweme","video_id="]},
     {"host":"*","rule":["huoshan.com","/item/video/"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
+    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
+    {"host":"*","rule":["/ftn_handler","fname="]},
+    {"host":"*","rule":["cn-beijing-data.aliyundrive.net","security-token="]},
+    {"host":"*","rule":["/video.php","r="]},
+    {"host":"*","rule":["/JM/api","vkey="]}
   ],
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
