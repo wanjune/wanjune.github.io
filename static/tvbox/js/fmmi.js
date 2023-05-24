@@ -8,7 +8,7 @@ var rule = {
   filter_url:'{{fl.cateId}}',
   filter:{
     "live":[
-      {"key":"cateId","name":"按类型","value":[
+      {"key":"cateId","name":"类型","value":[
         {"n":"新闻综合","v":"fmlist20"},
         {"n":"交通","v":"fmlist58"},
         {"n":"音乐","v":"fmlist57"},
@@ -30,11 +30,7 @@ var rule = {
       ]}
     ],
     "tv":[
-      {"key":"cateId","name":"按类型","value":[
-        {"n":"卫视台","v":"tvlist200"},
-        {"n":"省台","v":"tvlist220"},
-        {"n":"市台","v":"tvlist221"},
-        {"n":"区县台","v":"tvlist222"},
+      {"key":"cateId","name":"类型","value":[
         {"n":"新闻综合","v":"tvlist201"},
         {"n":"财经","v":"tvlist202"},
         {"n":"综艺","v":"tvlist203"},
