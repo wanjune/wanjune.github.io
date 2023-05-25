@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230522.dylib;md5;89FE4A02B78C136F02442851D659F1C0",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230524.dylib;md5;22BEA96778121A176132C5D1D2E92889",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_xpath_bzhan","name":"B站[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/bzhan.json"},
