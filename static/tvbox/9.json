@@ -1,11 +1,12 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230524.dylib;md5;22BEA96778121A176132C5D1D2E92889",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230528.dylib;md5;EBB1F03776FE4CB56896B10B7834739C",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
     {"key":"drpy_qq","name":"腾讯[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/qq.js"},
     {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
+    {"key":"csp_BuLei","name":"布雷[SP]","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
@@ -66,7 +67,7 @@
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
     {"host":"dyxs20.com","rule":[".m3u8"]},
-    {"host":"www.6080dy4.com","rule":["m3u8.php",".m3u8"]},
+    {"host":"www.6080yy2.com","rule":["m3u8.php",".m3u8"]},
     {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
     {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
     {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
