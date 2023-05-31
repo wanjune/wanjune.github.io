@@ -4,7 +4,7 @@ muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
   title:'大米星球',
   模板:'mxpro',
-  host:'https://www.dmdy10.cc',
+  host:'https://www.dmdy15.cc',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
   quickSearch:1,
