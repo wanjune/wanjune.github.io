@@ -206,7 +206,7 @@ var rule = {
   headers:{'User-Agent':'okhttp/3.12.0'},
   timeout:5000,
   class_name:'动漫&综艺&剧集&+国产&+日韩&+欧美&电影',
-  class_url:'4&3&2&13&16&16&1',
+  class_url:'4&3&2&13&15&16&1',
   limit:20,
   play_parse:true,
   play_json:0,
