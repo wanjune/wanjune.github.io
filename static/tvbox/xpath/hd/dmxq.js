@@ -3,6 +3,7 @@ muban.mxpro.二级.desc = '.module-info-item:(3)&&Text;;;.module-info-item-conte
 muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
   title:'大米星球',
+  desc:'https://dmdyy.cc/',
   模板:'mxpro',
   host:'https://www.dmdy15.cc',
   url:'/vodshow/fyclassfyfilter.html',
