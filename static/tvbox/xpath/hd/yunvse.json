@@ -1,6 +1,6 @@
 {
   "author": "wanjune",
-  "desc": "：请牢记永久域名“https://www.yunvse.lol",
+  "desc": "https://www.yunvse.lol",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "https://www.yunvse5.lol/",
   "cateManual": {"一":"1","二":"2","三":"3","四":"4","五":"13"},
@@ -54,6 +54,6 @@
     "2":[{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
     "3":[{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
     "4":[{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
-    "13":[{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
+    "13":[{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}]
   }
 }
