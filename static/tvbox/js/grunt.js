@@ -4,7 +4,7 @@ var rule = {
   homeUrl:'/api.php/app/index_video',
   url: '/api.php/app/video?tid=fyclassfyfilter&limit=24&pg=fypage',
   filter_url:'&class={{fl.class}}&area={{fl.area}}&lang=&year={{fl.year}}',
-  "filter": {
+  filter: {
     "1": [
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
         {"n":"儿童","v":"儿童"},
