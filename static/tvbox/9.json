@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230606.dylib;md5;8E5F048383B35728C4F1BB21C708C0C7",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230608.dylib;md5;5CE71CAEF727C72289254DA2925F7AF5",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -45,8 +45,10 @@
     {"key":"csp_xpath_7000","name":"7000[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/7000.json"},
     {"key":"csp_xpath_xfeiji","name":"小小[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xfeiji.json"},
     {"key":"csp_xpath_nailuo","name":"奈落[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/nailuo.json"},
+    {"key":"csp_Zxzj","name":"在线之家[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","美剧","韩剧","日剧","泰剧"],"ext":"https://www.zxzj.pro/"},
     {"key":"csp_YQKAPP","name":"一起看[SP]","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://api-aws.11ty.top"},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
+    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","其他"]},
     {"key":"csp_Lgyy","name":"蓝光[SP]","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.lgyy.vip"},
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","国产剧","韩剧","美剧","电影","豆瓣电影Top250"]},
     {"key":"csp_DiDuan" ,"name":"低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","综艺","华语剧","韩剧","日剧","欧美剧","其他地区","华语电影","日韩电影","欧美电影","纪录片"]},
