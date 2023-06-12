@@ -1,6 +1,6 @@
 var rule = {
   title:'追剧兔',
-  host:'https://www.zjtu.cc',
+  host:'https://www.zjtu.tv',
   homeUrl:'/map/',
   url:'/vodshow-fyclassfyfilter/',
   filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
