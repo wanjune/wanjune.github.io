@@ -52,7 +52,7 @@
   "playUrl": "https://91free.vip/index.php/vod/play/id/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
   "searchUrl": "https://91free.vip/index.php/vod/search.html?wd={wd}",
-  "scVodNode": "//div[@class='module-card-item module-item' and not(contains(.//div[@class='module-card-item-class']/text(),'伦理'))]",
+  "scVodNode": "//div[@class='module-card-item module-item']",
   "scVodName": "//div[@class='module-card-item-title']/a/allText()",
   "scVodId": "//div[@class='module-card-item-title']/a/@href",
   "scVodIdR":  "/index.php/vod/detail/id/(\\w+).html",
