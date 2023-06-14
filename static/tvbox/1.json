@@ -1,10 +1,12 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230609.dylib;md5;F29E9BC19D40C5D4CBB271EC41172C74",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230614.dylib;md5;09A472702BEFAECF58154F50533395FD",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
-    {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
+    {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
+    // {"key":"drpy_kunyu77","name":"鲲娱[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/kunyu77.js"},
+    {"key":"drpy_bulei","name":"布雷[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/bulei.js"},
     {"key":"csp_AppTT","name":"图图[SP]","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuanhd.com"},
