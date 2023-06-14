@@ -1,5 +1,5 @@
 var rule = {
-  title: '咕噜',
+  title: '咕噜[V2]',
   host: 'https://w.996w.top',
   homeUrl:'/api.php/app/index_video',
   url: '/api.php/app/video?tid=fyclassfyfilter&limit=24&pg=fypage',
@@ -201,7 +201,7 @@ var rule = {
     ]
   },
   detailUrl:'/api.php/app/video_detail?id=fyid',
-  searchUrl: '/api.php/app/search?text=**&pg=fypage',
+  searchUrl:'/api.php/app/search?text=**&pg=fypage',
   searchable:2,
   quickSearch:1,
   filterable:1,
