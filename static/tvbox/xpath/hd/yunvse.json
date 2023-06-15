@@ -3,7 +3,7 @@
   "desc": "https://www.yunvse.lol",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
   "homeUrl": "https://www.yunvse5.lol/",
-  "cateManual": {"一":"1","二":"2","三":"3","四":"4","五":"13"},
+  "cateManual": {"１区":"1","２区":"2","３区":"3","４区":"4","５区":"13"},
   "homeVodNode": "//div[@class='stui-pannel__bd']/ul[@class='stui-vodlist clearfix'][1]/li/div/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",

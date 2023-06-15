@@ -46,6 +46,7 @@
   "dtDescR": "",
   "dtFromNode": "//p/button[@class='btn-submit']",
   "dtFromName": "concat('播放源',count(parent::*/preceding::*//p/button[@class='btn-submit'])+1)",
+  "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//p[contains(./button/@class,'btn-submit')]",  
   "dtUrlSubNode": "/button[@class='btn-submit']",
   "dtUrlId": "/@onclick",
