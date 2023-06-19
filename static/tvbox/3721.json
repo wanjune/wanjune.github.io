@@ -6,6 +6,7 @@
     {"key":"csp_xpath_007","name":"007[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/007.json"},
     {"key":"csp_xpath_dillo","name":"宝仙[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dillo.json"},
     {"key":"csp_xpath_6080","name":"视觉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
+    {"key":"drpy_leyu","name":"乐鱼[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/leyu.js"},
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dmxq.js"},
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/panghu.js"},
     {"key":"drpy_jubaibai","name":"剧白白[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/jubaibai.js"},
@@ -50,7 +51,7 @@
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=mprsyzDEIJMQV01356&url="},
+    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhmnrsuzEHNOP0378&url="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
