@@ -64,17 +64,17 @@
     {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-    {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
+    {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+    {"host":"www.test.com", "rule":["playwm/?video_id="]}
   ],
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"西路","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
-    {"name":"爱酷","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
+    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=mprsyzDEIJMQV01356&url="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-    {"name":"九牛","type":0,"url":"https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/?url="},
+    {"name":"ckmov","type":0,"url":"https://yun.ckmov.com/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"顾凌","type":0,"url":"https://bf.xxmlb.com/ikuik/?url="},
     {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
