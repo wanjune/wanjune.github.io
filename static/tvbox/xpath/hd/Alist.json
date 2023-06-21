@@ -1,6 +1,10 @@
 {
   "drives": [
     {
+      "name": "9T",
+      "server": "https://drive.9t.ee"
+    },
+    {
       "name": "A",
       "server": "https://a.sodaz.xyz"
     },
