@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230625.dylib;md5;6B685AF783259513BC64B2C9DE1C2B8A",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230625.dylib;md5;65F814DAAEE40E739E0E4E38E2FB91F0",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -32,7 +32,6 @@
     {"key":"csp_xpath_yanaifei","name":"鸭奈飞[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/yanaifei.json"},
     {"key":"csp_xpath_dadagui","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
     {"key":"csp_xpath_zbk","name":"真不卡[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/zbk.json"},
-    {"key":"csp_xpath_reboku","name":"热播库[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/reboku.json"},
     {"key":"csp_xpath_jjys","name":"久久[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/jjys.json"},
     {"key":"csp_xpath_6d","name":"六度[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/6d.json"},
     {"key":"csp_xpath_kkdy","name":"看看[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkdy.json"},
@@ -49,6 +48,8 @@
     {"key":"csp_DiDuan" ,"name":"低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","综艺","华语剧","韩剧","日剧","欧美剧","其他地区","华语电影","日韩电影","欧美电影","纪录片"]},
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_xbpq_freeok","name":"🍀FreeOK[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/freeok.json"},
+    {"key":"csp_AppYsV2_realdou","name":"💢酷影[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","4K电视剧","4K电影"],"ext":"http://ys.realdou.cn/api.php/app/"},
+    {"key":"csp_AppYsV2_yaya","name":"💢鸭鸭[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","剧集","电影"],"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
     {"key":"drpy_fmmi","name":"电视&广播[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/fmmi.js"},
     {"key":"csp_xpath_tingbook","name":"🎧天天听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingbook.json"},
     {"key":"csp_xpath_tingshu","name":"🎧520听书[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/tingshu.json"}
