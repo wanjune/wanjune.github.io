@@ -6,6 +6,7 @@
     {"key":"csp_xpath_007","name":"007[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/007.json"},
     {"key":"csp_xpath_dillo","name":"宝仙[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dillo.json"},
     {"key":"csp_xpath_6080","name":"视觉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
+    {"key":"drpy_leyu","name":"555[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/555.js"},
     {"key":"drpy_leyu","name":"乐鱼[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/leyu.js"},
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dmxq.js"},
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/panghu.js"},
