@@ -67,8 +67,8 @@
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhjmtxyBDFHLQRV39&url="},
-    {"name":"莫桑","type":1,"url":"https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="},
+    {"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"夜曲","type":1,"url":"http://xhww.fun:63/小米肥猫.php?url=","ext":{"header":{"User-Agent":"Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"}}},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
