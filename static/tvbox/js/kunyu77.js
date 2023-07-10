@@ -1,8 +1,7 @@
 var rule = {
   title:'Kunyu77',
   host:'http://api.tyun77.cn',
-  // homeUrl:'/api.php/provide/homeBlock?type_id=0',
-  homeUrl:'/api.php/provide/searchFilter?type_id=0&pagesize=24&pagenum=1',
+  homeUrl:'/api.php/provide/homeBlock?type_id=0',
   searchUrl:'/api.php/provide/searchVideo?searchName=**',
   searchable:2,
   quickSearch:1,
@@ -146,8 +145,7 @@ var rule = {
       ]}
     ]
   },
-  // headers:{'User-Agent':'okhttp/3.12.0'},
-  headers:{'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+  headers:{'User-Agent':'okhttp/3.12.0'},
   timeout:5000,
   class_name:'动漫&综艺&剧集&电影',
   class_url:'4&3&2&1',
