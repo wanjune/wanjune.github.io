@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230709.dylib;md5;F4F40B76BB7E6538E7F2BC5142199600",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230710.dylib;md5;B998C7DC586E41719BDFE805C2E4779E",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_xpath_f7hkj","name":"F7[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/f7hkj.json"},
