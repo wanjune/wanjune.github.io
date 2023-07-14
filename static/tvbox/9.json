@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230712.dylib;md5;9C583833C9809E13D924E3A2E27A2ED3",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230714.dylib;md5;F17BB5BC83E93945EA737AC673310043",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     // {"key":"csp_LiteApple","name":"苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
@@ -8,6 +8,7 @@
     // {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/Nmys.json"},
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuan3.com"},
     {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
+    {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
     {"key":"csp_xpath_lezhu","name":"乐猪[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/lezhu.json"},
     {"key":"csp_xpath_huamao","name":"花猫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/huamao.json"},
@@ -36,7 +37,6 @@
     {"key":"csp_xpath_nailuo","name":"奈落[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/nailuo.json"},
     {"key":"csp_Zxzj","name":"在线之家[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","美剧","韩剧","日剧","泰剧"],"ext":"https://www.zxzj.pro/"},
     {"key":"csp_YQKAPP","name":"一起看[SP]","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://api-aws.11ty.top"},
-    {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","其他"]},
     {"key":"csp_Lgyy","name":"蓝光[SP]","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.lgyy.vip"},
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","国产剧","韩剧","美剧","电影","豆瓣电影Top250"]},
@@ -70,15 +70,15 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=abehqvxABCJLNQ1467&url="},
+    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=3649782&key=akmyzCHIMOUVY13569&url="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+    {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
+    {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="},
     {"name":"CK","type":0,"url":"https://yun.ckmov.com/?url="},
     {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
-    {"name":"顾凌","type":0,"url":"https://bf.xxmlb.com/ikuik/?url="},
-    {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
-    {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/jxplayer.php?v="}
+    {"name":"顾凌","type":0,"url":"https://bf.xxmlb.com/ikuik/?url="}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
