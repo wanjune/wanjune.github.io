@@ -1,7 +1,7 @@
 var rule = {
 	title:'555电影[V2]', 
 	desc:'https://www.555dyy.top',
-	host:'https://55dy5.vip',
+	host:'https://55dy6.vip',
 	homeUrl:'/api.php/app/index_video',
 	url:'/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&year={{fl.year}}',
