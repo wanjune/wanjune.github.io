@@ -14,8 +14,8 @@ globalThis.getHeaders = function (input, ts) {
 }
 
 var rule = {
-  title:'酷云77',
-  host:'https://api.tyun77.cn',
+  title:'Kunyu77',
+  host:'http://api.tyun77.cn',
   homeUrl:'/api.php/provide/homeBlock?type_id=0',
   searchUrl:'/api.php/provide/searchVideo?searchName=**',
   searchable:2,
