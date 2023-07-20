@@ -12,7 +12,6 @@
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/panghu.js"},
     {"key":"drpy_jubaibai","name":"剧白白[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/jubaibai.js"},
     // {"key":"1080","name":"1080","type":1,"api":"https://api.1080zyku.com/inc/api_mac10_all.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影","\u798f\u5229"]},
-    {"key":"1080","name":"1080","type":1,"api":"https://api.1080zyku.com/inc/api_mac10_all.php","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AList","name":"🅰A网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/Alist.json"},
     {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/live2mv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/live2mv.png"},
     {"key":"csp_xpath_md1","name":"麻荳1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/md1.json"},
