@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230720.dylib;md5;E0C92F27999DD969A31709E7561A7EEA",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230723.dylib;md5;0A4B198EEC040AB9088F865A169BD04B",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_xpath_f7hkj","name":"F7[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/f7hkj.json"},
@@ -53,7 +53,7 @@
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=1442306&key=gmnrvwyCEGHKMNRT18&url="},
+    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=13270&key=begmstuACFJKNPWZ07&url="},
     {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
