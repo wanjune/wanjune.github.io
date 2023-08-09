@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/230807.dylib;md5;B92509650D95023E52117CB836BFD7B6",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/230808.dylib;md5;26337356EF6C1BC0166FB966C8AB8B8F",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_Fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"],"ext":"https://www.fantuan3.com"},
