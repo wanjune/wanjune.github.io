@@ -14,8 +14,8 @@ try {
 	VOD.vod_content = "";
 	log(VOD);
 	var v_tks = '';
-	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
-	let html = request(input, {headers: {'User-Agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1', 'Referer': input}});
+	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2&token="+v_tks;
+	let html = request(input, {headers: 'User-Agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',, 'Referer': input}});
 	print(html);
 	html = JSON.parse(html);
 	let episodes = html.data.list;
@@ -23,16 +23,16 @@ try {
 	if (typeof play_url === "undefined") {
 		var play_url = ""
 	}
-	episodes.forEach(function(ep) {
-		let playurls = JSON.parse(ep["resData"]);
-		playurls.forEach(function(playurl) {
-			let source = playurl["flag"];
-			if (!playMap.hasOwnProperty(source)) {
-				playMap[source] = []
-			}
-			playMap[source].push(playurl["url"].replaceAll('##','#'))
-		})
-	});
+    episodes.forEach(function(ep) {
+        let data = JSON.parse(ep["resData"]);
+        data.map(val => {
+            if(!map[val.flag]){
+                map[val.flag] = [val.url.replaceAll('##','#')]
+            } else {
+                map[val.flag].push(val.url.replaceAll('##','#'))
+            }
+        })
+    });
 	let playFrom = [];
 	let playList = [];
 	Object.keys(playMap).forEach(function(key) {
