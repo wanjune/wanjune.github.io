@@ -3,7 +3,6 @@
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_SixV","name":"6V[SP]","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"categories":["国剧","日韩剧","欧美剧","动画片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"],"ext":"http://www.xb6v.com/"},
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","豆瓣电影Top250"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
     {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","自营剧集","自营电影"],"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"},
