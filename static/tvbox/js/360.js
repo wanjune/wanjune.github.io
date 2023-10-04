@@ -6,7 +6,7 @@ var rule = {
   searchUrl:'https://api.so.360kan.com/index?force_v=1&kw=**&from=&pageno=fypage&v_ap=1&tab=all',
   url:'https://api.web.360kan.com/v1/filter/list?catid=fyclassfyfilter',
   filter_url:'{{fl.cateId}}&rank={{fl.by}}&cat={{fl.class}}&year={{fl.year}}&area={{fl.area}}&act=&size=35&pageno=fypage&callback=',
-  filter: {
+  filter:{
     "1":[
       {"key":"class","name":"剧情","value":[{"n":"全部","v":""},
         {"n":"喜剧","v":"喜剧"},
