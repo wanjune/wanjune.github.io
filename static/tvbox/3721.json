@@ -11,6 +11,7 @@
     {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/live2mv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/live2mv.png"},
     {"key":"csp_xpath_md1","name":"麻荳1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/md1.json"},
     {"key":"csp_xpath_md2","name":"麻荳2[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/md2.json"},
+    {"key":"csp_xbpq_jile","name":"極樂[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/jile.json"},
     {"key":"csp_xpath_grunt","name":"グル[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/grunt.json"},
     {"key":"csp_xpath_yp","name":"ポルノ[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/yp.json"},
     {"key":"csp_xpath_biubiu","name":"ビュー[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/biubiu.json"},
