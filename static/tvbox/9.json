@@ -31,7 +31,6 @@
     {"key":"csp_xpath_hoho","name":"吼吼[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hoho.json"},
     {"key":"csp_xpath_5gkan","name":"策驰[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/5gkan.json"},
     {"key":"csp_xpath_52gen","name":"跟剧[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/52gen.json"},
-    {"key":"csp_xpath_kkkk","name":"核桃[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/kkkk.json"},
     {"key":"csp_xpath_app","name":"APP[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/app.json"},
     {"key":"csp_xpath_6d","name":"六度[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/6d.json"},
     {"key":"csp_xpath_qc","name":"QC[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/qc.json"},
