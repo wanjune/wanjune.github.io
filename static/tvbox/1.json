@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/231026.dylib;md5;632ADF6446656E28A9F31033F3C2F416",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/231027.dylib;md5;42E106834D021E659D484AEF5E0DF83E",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
@@ -11,7 +11,7 @@
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_MLYS","name":"毛驴[SP]","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"https://www.maolvys.com/"},
     {"key":"csp_MYYS","name":"蚂蚁[SP]","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"http://rzys.xyz"},
-    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"http://www.aueteys.com/"},
+    {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://haozhansou.com/"},
     {"key":"csp_Voflix","name":"Voflix[SP]","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","剧集","国产剧","日韩剧","欧美剧","电影"]},
     {"key":"csp_Zxzj","name":"在线之家[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","美剧","韩剧","日剧","泰剧"],"ext":"https://www.zxzj.pro/"},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
