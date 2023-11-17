@@ -1,13 +1,12 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/231111.dylib;md5;282C31437FAD9E7959CC2E06E7705930",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/231116.dylib;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
   "lives":[{"name":"live","type":0,"url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
-    {"key":"csp_xpath_007","name":"007[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/007.json"},
     {"key":"csp_xpath_6080","name":"视觉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
     {"key":"drpy_555","name":"555[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/555.js"},
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dmxq.js"},
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/panghu.js"},
-    // {"key":"csp_AList","name":"🅰A网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/Alist.json"},
+    {"key":"csp_AList","name":"🅰A网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/Alist.json"},
     {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/live2mv.js","ext":"プレイリスト$https://wanjune.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune.github.io/static/tvbox/js/lib/live2mv.png"},
     {"key":"csp_xpath_md1","name":"麻荳1[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/md1.json"},
     {"key":"csp_xpath_md2","name":"麻荳2[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/md2.json"},
@@ -34,13 +33,20 @@
     {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
   ],
   "rules":[
-    {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz","v.cdnlz1"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"wp","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-    {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"阳图","hosts":["jx.yangtu.top"],"regex":["download4.caiyun.feixin.10086.cn","/servlet/"]},
+    {"name":"廣告","hosts":["."],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]},
+    {"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},
+    {"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
+    {"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
+    {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
+    {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},
     {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
     {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+    {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
     {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
   ],
   "parses":[
