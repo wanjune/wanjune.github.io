@@ -42,7 +42,7 @@
     {"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
     {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
+    {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
     {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},
     {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
     {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
@@ -52,15 +52,13 @@
   "parses":[
     {"name":"Web","type":3,"url":"Web"},
     {"name":"聚合","type":3,"url":"Demo"},
-    {"name":"GG","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
-    {"name":"JH","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+    {"name":"秘技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+    {"name":"石米","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
     {"name":"JP","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
     {"name":"XM","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"CK","type":0,"url":"https://yun.ckmov.com/?url="},
-    {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
-    {"name":"顾凌","type":0,"url":"https://bf.xxmlb.com/ikuik/?url="}
+    {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
