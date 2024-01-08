@@ -1,0 +1,28 @@
+{
+	"classes":[
+		  {"type_name":"搞笑","type_id":"搞笑超清"},
+		  {"type_name":"儿童","type_id":"儿童超清"},
+			{"type_name":"电影","type_id":"电影"},
+			{"type_name":"剧集","type_id":"电视剧"},
+			{"type_name":"健身","type_id":"健身"},
+			{"type_name":"帕梅拉","type_id":"帕梅拉"},
+			{"type_name":"太极拳","type_id":"太极拳"},
+			{"type_name":"广场舞","type_id":"广场舞超清"},
+			{"type_name":"舞蹈","type_id":"舞蹈"},
+			{"type_name":"歌曲","type_id":"歌曲"},
+			{"type_name":"音乐","type_id":"音乐"},
+			{"type_name":"体育","type_id":"体育超清"},
+			{"type_name":"球星","type_id":"球星"},
+			{"type_name":"旅游","type_id":"旅游"},
+			{"type_name":"风景","type_id":"风景4K"},
+			{"type_name":"美食","type_id":"美食超清"},
+			{"type_name":"食谱","type_id":"食谱"},
+			{"type_name":"演唱会","type_id":"演唱会4K"},
+			{"type_name":"动物世界","type_id":"动物世界超清"},
+			{"type_name":"戏曲","type_id":"戏曲4K"},
+			{"type_name":"荒野求生","type_id":"荒野求生超清"},
+			{"type_name":"探索发现","type_id":"探索发现超清"},
+			{"type_name":"纪录片","type_id":"纪录片超清"},
+			{"type_name":"白噪音","type_id":"白噪音超清"}
+	]
+}
