@@ -10,6 +10,7 @@
     {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","玩偶剧集","玩偶电影"],"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
     {"key":"csp_xbpq_nmys","name":"🍀农民[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/Nmys.json"},
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
+    {"key":"csp_xpath_duboku","name":"獨播庫[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/duboku.json"},
     {"key":"csp_NanGua","name":"南瓜[SP]","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Cs1369","name":"九六[SP]","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","电视剧","电影"]},
     {"key":"csp_MLYS","name":"毛驴[SP]","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"https://www.maolvys.com/"},
