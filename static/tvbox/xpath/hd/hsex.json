@@ -47,8 +47,8 @@
   "scVodImgR": "url\\('(.*)'\\)",
   "scVodMark": "concat('时长:',/div/div/var/text(),' ',/div/div/span/text())",
   "filter": {
-    "list": [{"key":"by","name":"排序","value":[{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}],
-    "5min_list": [{"key":"by","name":"排序","value":[{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}],
-    "long_list": [{"key":"by","name":"排序","value":[{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}]
+    "list": [{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}],
+    "5min_list": [{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}],
+    "long_list": [{"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"最新","v":"new"},{"n":"最热","v":"hot"}]}]
   }
 }

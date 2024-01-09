@@ -2,9 +2,9 @@
   "author": "wanjune",
   "desc": "https://app.cs1080.com https://pron.guru",
   "ua": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
-  "homeUrl": "https://sanyibus.com/",
+  "homeUrl": "https://seajav.com/",
   "dcVipFlag": "false",
-  "pCfgJs": "https://sanyibus.com/static/js/playerconfig.js",
+  "pCfgJs": "https://seajav.com/static/js/playerconfig.js",
   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -16,7 +16,7 @@
   "homeVodImg": "//div[contains(@class,'relative')]/a[1]/img/@src",
   "homeVodImgR": "",
   "homeVodMark": "//div[contains(@class,'relative')]/a[2]/span/text()",
-  "cateUrl": "https://sanyibus.com/show/{cateId}{by}{year}/page/{catePg}.html",
+  "cateUrl": "https://seajav.com/show/{cateId}{by}{year}/page/{catePg}.html",
   "cateVodNode": "//div[contains(@class,'container')]/div[contains(@class,'grid')]/div",
   "cateVodName": "//div[contains(@class,'truncate')]/a[1]/text()",
   "cateVodId": "//div[contains(@class,'truncate')]/a[1]/@href",
@@ -24,7 +24,7 @@
   "cateVodImg": "//div[contains(@class,'relative')]/a[1]/img/@src",
   "cateVodImgR": "",
   "cateVodMark": "//div[contains(@class,'relative')]/a[2]/span/text()",
-  "dtUrl": "https://sanyibus.com/video/{vid}-1-1.html",
+  "dtUrl": "https://seajav.com/video/{vid}-1-1.html",
   "dtNode": "//body",
   "dtName": "//h1[contains(@class,'text-base')]/text()",
   "dtImg": "//h1[contains(@class,'text-base')]/@src",
@@ -44,9 +44,9 @@
   "dtUrlIdR": "video\\\\/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": " (\\S+)er_",
-  "playUrl": "https://sanyibus.com/video/{playUrl}.html",
+  "playUrl": "https://seajav.com/video/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30",
-  "searchUrl": "https://sanyibus.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
+  "searchUrl": "https://seajav.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
@@ -66,10 +66,10 @@
         {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
         {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "2":[
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"2"},
         {"n":"\u6d41\u51fa","v":"9"},
         {"n":"\u65e0\u7801","v":"7"},
         {"n":"\u0046\u0043\u0032\u0050\u0050\u0056","v":"11"}
@@ -79,10 +79,10 @@
         {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
         {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "3":[
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"3"},
         {"n":"\u0039\u0031\u89c6\u9891","v":"20"},
         {"n":"\u0039\u0031\u63a2\u82b1","v":"38"},
         {"n":"\u6d41\u51fa","v":"13"},
@@ -94,10 +94,10 @@
         {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
         {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ],
     "4":[
-      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},
+      {"key":"cateId","name":"类型","value":[{"n":"全部","v":"4"},
         {"n":"\u9ebb\u8c46","v":"21"},
         {"n":"\u5236\u7247","v":"22"},
         {"n":"\u5929\u7f8e","v":"23"},
@@ -112,7 +112,7 @@
         {"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},
         {"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"}
       ]},
-      {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
+      {"key":"by","name":"排序","value":[{"n":"全部","v":""},{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}
     ]
   }
 }
