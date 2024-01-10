@@ -2,7 +2,7 @@ muban.mxpro.二级.desc = ';;;.module-info-item:eq(2) .module-info-item-content&
 muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
   title:'胖虎',
-  desc:'https://my.cdnkan.top',
+  desc:'https://www.cdnkan.top/',
   模板:'mxpro',
   host:'https://www.physkan.com',
   homeUrl:'/',
