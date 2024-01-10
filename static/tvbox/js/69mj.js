@@ -152,8 +152,8 @@ var rule = {
   filterable:1,
   headers:{'User-Agent':'Dart/2.14 (dart:io)'},
   timeout:5000,
-  class_name:'连续剧&电影&综艺&动漫', // 分类筛选 /xgapp.php/v2/nav
-  class_url:'2&1&3&4',
+  class_name:'动漫&综艺&剧集&电影',
+  class_url:'4&3&2&1',
   play_parse:true,
   lazy:'',
   推荐:'json:data[0].vlist;*;*;*;*',
