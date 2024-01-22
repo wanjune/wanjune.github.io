@@ -18,7 +18,6 @@
     {"key":"csp_Zxzj","name":"在线之家[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","美剧","韩剧","日剧","泰剧"],"ext":"https://www.zxzja.com/"},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_xpath_dadagui","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/dadagui.json"},
-    // {"key":"csp_xpath_coke","name":"COKE[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/coke.json"},
     {"key":"csp_Lib","name":"LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","剧集","日韩剧","欧美剧","电影"],"ext":"https://www.libvio.pro/"},
     {"key":"drpy_tvyb","name":"云播[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/tvyb.js"},
     {"key":"drpy_grunt","name":"咕噜[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/grunt.js"},
