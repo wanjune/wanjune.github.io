@@ -1,10 +1,10 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/240201.dylib;md5;09489575C43684DF5ECEC8E675A9E0BA",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/240203.dylib;md5;5C0593AEAA87386B96A3F3B0F76C9AE6",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune.github.io/static/tvbox/live.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视榜单","电影榜单"]},
     {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://www.czzy66.com/"},
+    {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://www.czzy55.com/"},
     {"key":"csp_YQKan","name":"一起看[SP]","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/js/360.js"},
     {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","玩偶剧集","玩偶电影"],"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$https://www.wogg.xyz/$$弹"},
