@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune.github.io/static/tvbox/jar/240203.dylib;md5;5C0593AEAA87386B96A3F3B0F76C9AE6",
+  "spider":"https://wanjune.github.io/static/tvbox/jar/240204.dylib;md5;A8F322DE8C93FBECBE209A4009D3F0DF",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune.github.io/static/tvbox/xpath/hd/live.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_xpath_6080","name":"视觉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
